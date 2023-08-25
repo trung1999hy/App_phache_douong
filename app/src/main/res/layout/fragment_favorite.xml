@@ -4,6 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ImgBackSearch"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="12dp"
+        android:layout_above="@+id/RcvFavorite"
+        android:src="@drawable/arrow_back" />
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/TextTitleFavorite"
         android:layout_width="wrap_content"

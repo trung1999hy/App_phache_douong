@@ -34,6 +34,9 @@ class FragmentSearch : BaseFragment<FragmentSearchBinding>(), View.OnClickListen
 
     @SuppressLint("ClickableViewAccessibility")
     private fun actionView() {
+        binding.ImgBackSearch.setOnClickListener {
+            activity?.onBackPressed()
+        }
         binding.EditTextSearch.setOnTouchListener { v, event ->
             if (event.action == MotionEvent.ACTION_UP) {
                 val drawableEnd = binding.EditTextSearch.compoundDrawablesRelative[2]
@@ -56,9 +59,9 @@ class FragmentSearch : BaseFragment<FragmentSearchBinding>(), View.OnClickListen
             }
 
             override fun onTextChanged(p0: CharSequence?, p1: Int, p2: Int, p3: Int) {
-                if (p0.isNullOrEmpty()){
+                if (p0.isNullOrEmpty()) {
                     mAdapter.setData(arrayListOf())
-                }else{
+                } else {
                     viewModel.searchDrink(p0.toString())
                 }
             }

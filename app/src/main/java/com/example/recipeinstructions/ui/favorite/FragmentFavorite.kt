@@ -34,6 +34,9 @@ class FragmentFavorite : BaseFragment<FragmentFavoriteBinding>() {
 
     private fun actionView() {
         getCoin()
+        binding.ImgBackSearch.setOnClickListener {
+            activity?.onBackPressed()
+        }
         binding.coin.setOnClickListener {
             startActivity(Intent(requireActivity(), PurchaseInAppActivity::class.java))
         }

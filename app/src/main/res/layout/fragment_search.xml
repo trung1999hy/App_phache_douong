@@ -4,23 +4,40 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/EditTextSearch"
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:background="@drawable/bg_edt_search"
-        android:drawableEnd="@drawable/highlight_off"
-        android:hint="Search....."
-        android:padding="10dp"
-        android:paddingStart="20dp"
-        android:textSize="14sp" />
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ImgBackSearch"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="12dp"
+            android:src="@drawable/arrow_back"
+            />
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/EditTextSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/bg_edt_search"
+            android:drawableEnd="@drawable/highlight_off"
+            android:hint="Search....."
+            android:padding="10dp"
+            android:paddingStart="20dp"
+            android:textSize="14sp" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
 
     <RelativeLayout
         android:id="@+id/RlTotal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/EditTextSearch"
+        android:layout_below="@id/view"
         android:layout_margin="10dp"
         android:layout_marginTop="15dp"
         android:background="@drawable/bg_layout_search"
