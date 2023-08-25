@@ -42,10 +42,6 @@ class FragmentCategory : BaseFragment<FragmentCategoryBinding>() {
     }
 
     private fun actionView() {
-        getCoin()
-        binding.coin.setOnClickListener {
-            startActivity(Intent(requireActivity(), PurchaseInAppActivity::class.java))
-        }
         viewModel.type = type
         mAdapter = CategoryAdapter(requireContext(), onClick = {
             replaceFragment(
@@ -87,9 +83,6 @@ class FragmentCategory : BaseFragment<FragmentCategoryBinding>() {
                 binding.RcvCategory.visibility = GONE
             }
         }
-    }
-    fun getCoin(){
-        binding.coin.text = MainApp.getInstant()?.preference?.getValueCoin().toString()
     }
     override fun getBinding(): FragmentCategoryBinding {
         binding = FragmentCategoryBinding.inflate(layoutInflater)

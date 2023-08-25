@@ -4,11 +4,14 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.android.billingclient.api.*
@@ -16,11 +19,14 @@ import com.android.billingclient.api.BillingClient.ProductType
 import com.android.billingclient.api.BillingFlowParams.ProductDetailsParams
 import com.android.billingclient.api.QueryProductDetailsParams.Product
 import com.example.recipeinstructions.R
+import com.example.recipeinstructions.databinding.ActivityInAppPurchaseBinding
+import com.example.recipeinstructions.databinding.ActivitySplashBinding
 import com.example.recipeinstructions.ui.MainApp
 import com.example.recipeinstructions.utils.Constants
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.collect.ImmutableList
 
-class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickListener {
+class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
+    private lateinit var binding: ActivityInAppPurchaseBinding
     private var adapter: PurchaseInAppAdapter? = null
     private var billingClient: BillingClient? = null
     private var handler: Handler? = null
@@ -28,12 +34,19 @@ class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickL
     private var onPurchaseResponse: OnPurchaseResponse? = null
     private var listData: RecyclerView? = null
     private var imgBack: ImageView? = null
-    private var layout : LinearLayout? = null
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_in_app_purchase)
+    private var layout: LinearLayout? = null
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        binding = ActivityInAppPurchaseBinding.inflate(inflater)
+        return binding.root
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
         initViews()
-        imgBack!!.setOnClickListener { onBackPressed() }
     }
 
     override fun onResume() {
@@ -52,17 +65,22 @@ class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickL
     }
 
     private fun initViews() {
-        listData = findViewById(R.id.listData)
-        imgBack = findViewById(R.id.imvBack)
-        layout = findViewById(R.id.LllNoData)
+        listData = binding.listData
+        layout = binding.LllNoData
         adapter = PurchaseInAppAdapter()
         listData?.setHasFixedSize(true)
-        listData?.setLayoutManager(LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false))
+        listData?.setLayoutManager(
+            LinearLayoutManager(
+                requireContext(),
+                LinearLayoutManager.VERTICAL,
+                false
+            )
+        )
         listData?.setAdapter(adapter)
         adapter!!.setOnClickListener(this)
         productDetailsList = ArrayList()
         handler = Handler()
-        billingClient = BillingClient.newBuilder(this).enablePendingPurchases()
+        billingClient = BillingClient.newBuilder(requireActivity()).enablePendingPurchases()
             .setListener { billingResult: BillingResult?, list: List<Purchase?>? -> }
             .build()
         establishConnection()
@@ -96,15 +114,15 @@ class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickL
 
 //                        hideProgressDialog();
                 productDetailsList!!.addAll(prodDetailsList)
-                adapter!!.setData(this, productDetailsList)
-                if (prodDetailsList.isEmpty()){
+                adapter!!.setData(requireActivity(), productDetailsList)
+                if (prodDetailsList.isEmpty()) {
                     layout?.visibility = View.VISIBLE
                     Toast.makeText(
-                        this@PurchaseInAppActivity,
+                        requireContext(),
                         "prodDetailsList, size = 0",
                         Toast.LENGTH_SHORT
                     ).show()
-                }else{
+                } else {
                     layout?.visibility = View.GONE
                 }
             }, 2000)
@@ -190,7 +208,7 @@ class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickL
             .build()
         billingClient!!.consumeAsync(consumeParams) { billingResult, s ->
             Toast.makeText(
-                this@PurchaseInAppActivity,
+                requireContext(),
                 " Resume item ",
                 Toast.LENGTH_SHORT
             ).show()
@@ -212,7 +230,7 @@ class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickL
         val billingFlowParams = BillingFlowParams.newBuilder()
             .setProductDetailsParamsList(productDetailsParamsList)
             .build()
-        billingClient!!.launchBillingFlow(this, billingFlowParams)
+        billingClient!!.launchBillingFlow(requireActivity(), billingFlowParams)
     }
 
     private fun setupResult(proId: String, quantity: Int) {
@@ -220,8 +238,7 @@ class PurchaseInAppActivity : AppCompatActivity(), PurchaseInAppAdapter.OnClickL
         val totalCoin = MainApp.getInstant()?.preference?.getValueCoin();
         val remainCoin = totalCoin ?: 0 + getCoinFromKey(proId) * quantity;
         MainApp.getInstant()?.preference?.setValueCoin(remainCoin);
-        setResult(RESULT_OK, intent)
-        runOnUiThread { onBackPressed() }
+        activity?.runOnUiThread { activity?.onBackPressed() }
     }
 
     private fun getCoinFromKey(coinId: String): Int {

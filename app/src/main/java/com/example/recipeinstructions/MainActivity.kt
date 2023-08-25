@@ -9,6 +9,7 @@ import com.example.recipeinstructions.databinding.ActivityMainBinding
 import com.example.recipeinstructions.ui.beverage.FragmentBeverage
 import com.example.recipeinstructions.ui.category.FragmentCategory
 import com.example.recipeinstructions.ui.favorite.FragmentFavorite
+import com.example.recipeinstructions.ui.inapp.PurchaseInAppActivity
 import com.example.recipeinstructions.ui.instructions.FragmentInstructions
 
 class MainActivity : BaseActivity() {
@@ -19,19 +20,33 @@ class MainActivity : BaseActivity() {
 
     override fun initView() {
         binding = ActivityMainBinding.inflate(layoutInflater)
-        val mFragment = supportFragmentManager.findFragmentById(R.id.fragment_layout)
-        if (mFragment !is BaseFragment<*>) {
             addFragment(
                 R.id.fragment_layout,
                 FragmentBeverage.newInstance(),
                 FragmentBeverage::class.java.simpleName
             )
+
+        binding.bottomNavigationView.setOnItemSelectedListener {
+            if (it.itemId == R.id.home){
+                addFragment(
+                    R.id.fragment_layout,
+                    FragmentBeverage.newInstance(),
+                    FragmentBeverage::class.java.simpleName
+                )
+            }else if (it.itemId == R.id.coin){
+                addFragment(
+                    R.id.fragment_layout,
+                    PurchaseInAppActivity(),
+                    PurchaseInAppActivity::class.java.simpleName
+                )
+            }
+            true
         }
     }
 
     override fun onBackPressed() {
         val mFragment = supportFragmentManager.findFragmentById(R.id.fragment_layout)
-        if (mFragment is FragmentBeverage) {
+        if (mFragment is FragmentBeverage || mFragment is PurchaseInAppActivity) {
             isCheckClick++
             if (isCheckClick == 2) {
                 finish()

@@ -39,10 +39,6 @@ class FragmentBeverage : BaseFragment<FragmentBeverageBinding>() {
 
     private fun actionView() {
 
-        getCoin()
-        binding.coin.setOnClickListener {
-            startActivity(Intent(requireActivity(), PurchaseInAppActivity::class.java))
-        }
         binding.ImageSearch.setOnClickListener {
             replaceFragment(
                 R.id.fragment_layout,
@@ -91,10 +87,6 @@ class FragmentBeverage : BaseFragment<FragmentBeverageBinding>() {
                 binding.PrgBeverage.visibility = View.GONE
             }
         }
-    }
-
-    fun getCoin() {
-        binding.coin.text = MainApp.getInstant()?.preference?.getValueCoin().toString()
     }
 
     override fun getBinding(): FragmentBeverageBinding {

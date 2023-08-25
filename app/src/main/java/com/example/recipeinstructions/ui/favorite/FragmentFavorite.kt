@@ -33,12 +33,8 @@ class FragmentFavorite : BaseFragment<FragmentFavoriteBinding>() {
     }
 
     private fun actionView() {
-        getCoin()
         binding.ImgBackSearch.setOnClickListener {
             activity?.onBackPressed()
-        }
-        binding.coin.setOnClickListener {
-            startActivity(Intent(requireActivity(), PurchaseInAppActivity::class.java))
         }
         mAdapter = FavoriteAdapter(requireActivity(), onClick = {
             replaceFragment(
@@ -65,9 +61,6 @@ class FragmentFavorite : BaseFragment<FragmentFavoriteBinding>() {
                 binding.LllNoData.visibility = View.GONE
             }
         }
-    }
-    fun getCoin(){
-        binding.coin.text = MainApp.getInstant()?.preference?.getValueCoin().toString()
     }
 
     override fun getBinding(): FragmentFavoriteBinding {

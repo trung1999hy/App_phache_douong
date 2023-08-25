@@ -41,9 +41,6 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
 
     private fun actionView() {
         getCoin()
-        binding.coin.setOnClickListener {
-            startActivity(Intent(requireActivity(), PurchaseInAppActivity::class.java))
-        }
         viewModel.isFavourite.observe(viewLifecycleOwner) {
             if (!it) {
 
@@ -170,7 +167,7 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
                                     it.image
                                 )
                             )
-                        }   
+                        }
                         getCoin()
                     } else startActivity(
                         Intent(
