@@ -1,0 +1,2482 @@
+[{
+  "_id": {
+    "$oid": "64d66ee4affdd12a189ef5bb"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Trà sữa Thái xanh, Thái đỏ",
+  "image": "https://file.hstatic.net/1000135323/file/2_3addd09a15414742b758efa35c46c528_1024x1024.jpg",
+  "ingredient": [
+    "20 - 40g  trà Thái xanh",
+    "trà Thái đỏ, 2 lít nước nóng",
+    "5 lít nước lọc",
+    "1 hộp sữa đặc, Có thể sử dụng thêm khoảng 30g bột kem béo",
+    "250gr đường trắng"
+  ],
+  "intructions": [
+    "Pha trà Thái vào 2 lít nước nóng, sau 20 phút lọc lấy nước cốt.",
+    "Pha phần bã trà còn lại với 1,5 lít nước lọc trong 10 phút rồi lọc lần nữa.",
+    "Sau đó hòa 2 loại nước cốt trà với nhau. Cho đường và sữa đặc vào nước trà và chúng sẽ chuyển sang màu xanh cốm hoặc màu nâu đỏ đẹp và tươi hơn.",
+    "Lưu ý: bạn có thể mua túi trà Thái xanh, trà Thái đỏ tại các cửa hàng và siêu thị, điều chỉnh lượng sữa tùy theo khẩu vị nhé. Món này nên dùng kèm thạch trà xanh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d66f68affdd12a189ef5bf"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Trà sữa đào",
+  "image": "https://file.hstatic.net/1000135323/file/4_1822622bb6fb4efaad2c85a1758fefa0_1024x1024.jpg",
+  "ingredient": [
+    "50ml sữa tươi không đường",
+    "40ml sữa đặc",
+    "100ml nước nóng",
+    "5g trà đen Chính Sơn",
+    "5ml siro hương đào",
+    "3 miếng đào ngâm đóng hộp",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Ủ 5g trà đen trong nước nóng khoảng 5 phút, sau đó lọc bã trà lấy nước cốt.",
+    "Pha sữa đặc và sữa tươi không đường vào bình lắc.",
+    "Thêm nước cốt trà và siro đào vào khuấy đều.",
+    "Thêm đá viên vào bình lắc, đóng nắp và lắc khoảng 10 lần.",
+    "Cho đào ngâm vào ly, rót trà sữa đào vào và thưởng thức.",
+    "Lưu ý: Khi pha trà, bạn nên dùng sữa tươi không đường bởi vì loại sữa này có hương vị thơm và độ béo ngậy nhiều hơn là sữa có đường. Phối hợp với sữa đặc sẽ làm tăng thêm độ ngọt mà không làm mất đi vị thơm béo. Bạn có thể điều chỉnh độ ngọt tùy theo khẩu vị."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d66fdbaffdd12a189ef5c1"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Trà sữa trân châu",
+  "image": "https://file.hstatic.net/1000135323/file/6_c327a79b74d04ce798109b39e8d411e3_1024x1024.jpg",
+  "ingredient": [
+    "150ml ô long hồng trà",
+    "20g bột kem sữa",
+    "20g đường kính",
+    "200g đá viên",
+    "Topping tùy chọn: trân châu, thạch, pudding..."
+  ],
+  "intructions": [
+    "Ủ 5g trà ô long với 150ml nước nóng khoảng 95 độ C trong 12 phút, sau đó lọc bã trà lấy nước cốt.",
+    "Hòa tan nước cốt trà còn nóng với bột kem sữa và đường kính.",
+    "Đổ hỗn hợp trên với 200g đá vào bình lắc và lắc đều 10 lần.",
+    "Cho ra ly và thêm trân châu, thạch hoặc pudding..."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d66fefaffdd12a189ef5c3"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Trà sữa Matcha",
+  "image": "https://file.hstatic.net/1000135323/file/3_003d1af42d474d3e9b9412555e8f4f70_1024x1024.jpg",
+  "ingredient": [
+    "4g bột trà xanh",
+    "150ml sữa tươi không đường",
+    "100ml sữa béo hoặc 30gr sữa bột",
+    "100ml nước nóng",
+    "2 thìa sữa đặc",
+    "30gr đường kính trắng (tùy chọn)",
+    "Đá lạnh với số lượng tùy thích"
+  ],
+  "intructions": [
+    "Trộn matcha cùng đường kính, hòa tan với 100ml nước nóng",
+    "Cho hỗn hợp matcha, sữa đặc, sữa tươi không đường, sữa béo hoặc sữa bột vào bình lắc khuấy đều cho tan hết.",
+    "Thêm đá viên vào, đóng nắp bình lắc và lắc 10 lần. Rót trà ra ly, thêm topping là hoàn thành."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67005affdd12a189ef5c5"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Trà sữa Socola",
+  "image": "https://file.hstatic.net/1000135323/file/5_4af34c1e35cd4a24b93370f492e16a3c_1024x1024.jpg",
+  "ingredient": [
+    "5g trà đen",
+    "200ml nước nóng",
+    "40g sữa đặc",
+    "100ml sữa tươi",
+    "1 muỗng cacao",
+    "Đường nâu (Cho tuỳ theo mức độ uống ngọt)",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Ủ trà đen với 150ml nước nóng trong 10 phút sau đó lọc lấy nước cốt.",
+    "Hòa tan bột cacao và đường nâu với 50ml nước nóng còn lại.",
+    "Cho sữa đặc vào trà, thêm sữa tươi, hỗn hợp cacao vào khuấy đều.",
+    "Cho đá viên vào ly, rót trà sữa vào và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67055affdd12a189ef5c7"
+  },
+  "type_drink": "Nước ép",
+  "title": "Nước ép lê",
+  "image": "https://truejuice.vn/articles/wp-content/uploads/2021/04/nuoc-ep-le-truejuice.jpg",
+  "ingredient": [
+    "1 quả lê",
+    "1 quả dưa chuột",
+    "3 nhánh cần tây",
+    "1 mẩu gừng bé"
+  ],
+  "intructions": [
+    "Lê gọt vỏ, bỏ hạt, thái miếng vừa miệng máy ép.",
+    "Dưa chuột bổ dọc.",
+    "Cần tây cắt khúc nhỏ (bỏ lá nếu bạn sợ đắng).",
+    "Gừng nạo vỏ, thái miếng.",
+    "Ép xen kẽ các nguyên liệu."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67067affdd12a189ef5c9"
+  },
+  "type_drink": "Nước ép",
+  "title": "Nước ép nho",
+  "image": "https://havamall.com/wp-content/uploads/2019/03/1477553486087_8600214.jpg",
+  "ingredient": [
+    "1 cup nho tươi",
+    "1 quả dưa chuột",
+    "½ bắp cải tím",
+    "½ quả lê",
+    "½ quả chanh xanh"
+  ],
+  "intructions": [
+    "Thái nhỏ dưa chuột, bắp cải tím và lê, sao cho vừa miệng máy ép.",
+    "Ép chung các nguyên liệu trên với nho.",
+    "Vắt nước cốt chanh, cho vào hỗn hợp trên và khuấy đều."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67098affdd12a189ef5cb"
+  },
+  "type_drink": "Nước ép",
+  "title": "Nước ép dứa",
+  "image": "https://truejuice.vn/articles/wp-content/uploads/2021/04/nuoc-ep-dua-truejuice.jpg",
+  "ingredient": [
+    "1 quả dứa",
+    "1 quả táo"
+  ],
+  "intructions": [
+    "Dứa gọt vỏ, bỏ mắt, thái miếng vừa miệng máy ép.",
+    "Táo bỏ lõi, cắt miếng nhỏ.",
+    "Ép xen kẽ dứa và táo."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d670afaffdd12a189ef5cd"
+  },
+  "type_drink": "Nước ép",
+  "title": "Nước ép táo",
+  "image": "https://truejuice.vn/articles/wp-content/uploads/2021/04/nuoc-ep-tao-truejuice.jpg",
+  "ingredient": [
+    "1 quả táo",
+    "1 củ cà rốt",
+    "1 mẩu gừng"
+  ],
+  "intructions": [
+    "Táo và cà rốt gọt vỏ (có thể để nguyên nếu là táo hữu cơ), bỏ lõi, cắt miếng vừa miệng máy ép.",
+    "Gừng cạo vỏ, thái miếng.",
+    "Ép xen kẽ cả 3 nguyên liệu."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d670c4affdd12a189ef5cf"
+  },
+  "type_drink": "Nước ép",
+  "title": "Nước ép cam",
+  "image": "https://truejuice.vn/articles/wp-content/uploads/2021/04/nuoc-ep-cam-truejuice.jpg",
+  "ingredient": [
+    "3-4 củ cà rốt",
+    "1 quả cam",
+    "½ cây sả",
+    "1 mẩu gừng bé (1-2cm)"
+  ],
+  "intructions": [
+    "Thái cà rốt thành những khúc nhỏ, vừa miệng máy ép.",
+    "Gừng nạo vỏ, thái lát. Sả thái lát hoặc cắt khúc.",
+    "Vắt cam lấy nước cốt. Ép xen kẽ cà rốt, gừng và sả. Đổ nước cam vắt vào hỗn hợp vừa ép, khuấy đều."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67122affdd12a189ef5d1"
+  },
+  "type_drink": "Rượu",
+  "title": "Cách pha chế Cocktail Mâm xôi",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2015/11/mon-cocktail-mam-xoi.jpg",
+  "ingredient": [
+    "Quả mâm xôi đông lạnh: 200 gram",
+    "Nước lọc: 100 ml",
+    "Nước ép mâm xôi: 63 ml",
+    "Rượu mâm xôi: 63 ml",
+    "Rượu vodka: 125 ml",
+    "Chanh ép lấy nước cốt: ½ trái",
+    "Siro đường: 28ml",
+    "Đường tinh màu hồng: 3 gram",
+    "Rượu martini: 5 ml",
+    "Quả mâm xôi tươi để trang trí: 10 gram."
+  ],
+  "intructions": [
+    "Bước 1: Quả mâm xôi rã đông. Rửa lại bằng nước sạch. Sau đó đổ quả mâm xôi và 100 ml nước vào nồi sạch, đun sôi nhỏ lửa.",
+    "Bước 2: Dùng thìa nặng để ép các quả mâm xôi vào thành nồi để lấy nước cốt mâm xôi. Tắt bếp. Lọc lấy nước ép từ quả mâm xôi, để nguội.",
+    "Bước 3: Đong đủ 2 ly martini (63 ml) nước ép mâm xôi. Bảo quản lạnh bằng cách để vào tủ mát.",
+    "Bước 4: Cho nước ép mâm xôi, rượu mâm xôi, vodka, nước chanh và đá vào bình shaker, lắc thật mạnh cho đến khi hỗn hợp lạnh băng.",
+    "Bước 5: Nhúng vành ly cocktail trong siro đường rồi vào hỗn hợp đường tinh thể màu hồng. Rót hỗn hợp cocktail vừa lắc (không bao gồm đá) vào cùng rượu martini.",
+    "Sau đó trang trí thêm với các quả mâm xôi tươi nhé!. Thật đẹp mắt phải không các bạn? Cocktail mâm xôi sẽ giúp cho những bữa tiệc ngày hè của bạn thêm rực rỡ hơn, ngoài ra, bạn có thể biến tấu món cocktail này thành loại đồ uống phù hợp cho trẻ em bằng cách loại bỏ các nguyên liệu rượu, với hương vị kích thích cùng màu sắc ấn tượng."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67139affdd12a189ef5d3"
+  },
+  "type_drink": "Rượu",
+  "title": "Cách làm Cocktail Daiquiri từ rượu Rum",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2021/02/mon-cocktail-co-huong-vi-thanh-mat.jpg",
+  "ingredient": [
+    "45ml White Rum",
+    "30ml nước cốt chanh",
+    "30ml syrup đường",
+    "1 lát chanh để trang trí",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Trước tiên, bạn phải làm lạnh ly và shaker bằng cách cho vào tủ lạnh trong vài phút hoặc cho vài viên đá vào trong ly.",
+    "Shaker sau khi được làm lạnh, bạn lần lượt cho 45ml white Rum, 30ml nước cốt chanh, 30ml syrup đường và đá viên vào.",
+    "Bạn có thể gia giảm lượng nước cốt chanh tùy theo khẩu vị.",
+    "Sau đó bạn đậy kín bình lắc, lắc mạnh trong vòng 15 giấy đến khi cảm nhận độ lạnh bên ngoài bình lắc thì dừng lại.",
+    "Dùng strainer gạn bỏ bớt đá trong bình lắc rồi rót cocktail ra ly.",
+    "Trang trí trên miệng ly một lát chanh tươi là món cocktail Daiquiri nổi tiếng đã hoàn thành."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67145affdd12a189ef5d5"
+  },
+  "type_drink": "Rượu",
+  "title": "Hướng Dẫn Cách Làm Cocktail Matcha Martini Tinh Tế",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/mau-xanh-matcha.jpe",
+  "ingredient": [
+    "Bột Matcha: 1 muỗng café",
+    "Sữa đặc: 45ml",
+    "Vodka: 25ml",
+    "Dry Vermouth: 7ml"
+  ],
+  "intructions": [
+    "Bước 1: Đánh tan bột Matcha với rượu vodka cho đến khi mịn.",
+    "Bước 2: Sử dụng bình lắc cho hỗn hợp Matcha cùng rượu vào, tiếp đến cho Dry Vermouth, sữa. Trước khi lắc (Shake) bạn nên khuấy đều để sữa trộn đều trước. Tiếp đến cho đá viên vào và thực hiện kĩ thuật Shaking trong pha chế.",
+    "Bước 3: Sử dụng ly Up để đổ Matcha Martini ra. Tùy vào nhu cầu sử dụng bạn có thể trang trí thêm chanh hoặc olive lên trên miệng ly."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d67166affdd12a189ef5d7"
+  },
+  "type_drink": "Rượu",
+  "title": "Cách pha chế Paloma Cocktail",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2022/03/mon-cocktail-paloma.jpg",
+  "ingredient": [
+    "Tequila: 45ml",
+    "Nước cốt chanh: 15ml",
+    "Muối sấy",
+    "Nước ép bưởi: 90ml",
+    "Chanh cắt lát"
+  ],
+  "intructions": [
+    "Bước 1: Dùng một lát chanh xoa nhẹ xung quanh miệng ly thủy tinh. Sau đó đổ một ít muối ra đĩa rồi nhúng nhẹ miệng ly vào đĩa muối để tạo viền.",
+    "Bước 2: Cho rượu Tequila, nước ép bưởi, nước cốt chanh và đá viên vào shaker. Lắc đều và mạnh tay đến khi cảm nhận được độ lạnh bên ngoài bình.",
+    "Bước 3: Rót cocktail ra ly, trang trí với một lát bưởi hoặc chanh tươi và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d6718aaffdd12a189ef5d9"
+  },
+  "type_drink": "Rượu",
+  "title": "Bí quyết pha chế Cocktail Harvey Wallbanger",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2016/09/cocktail-harvey-wallbanger-1.jpg",
+  "ingredient": [
+    "45 ml Vodka.15 ml",
+    "Galliano L'Autentico",
+    "120 ml nước cam vắt."
+  ],
+  "intructions": [
+    "Bước 1: Lần lượt rót rượu Vodka và nước cam vắt vào một ly thuỷ tinh cao cùng với chút đá viên theo tỉ lệ: 45 ml Vodka và 120 ml nước cam vắt.",
+    "Bước 2: Thêm rượu Galliano L'Autentico vào ly. Khi thưởng thức, dùng muỗng khuấy đều để các nguyên liệu hoà quyện với nhau."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e056a51e158d93331a8c4a"
+  },
+  "type_drink": "Rượu",
+  "title": "Hướng Dẫn Cách Pha Chế Blue Hawaiian",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2016/08/blue-hawaiian-cocktail.jpg",
+  "ingredient": [
+    "Rượu Light Rhum: 60 ml.",
+    "Rượu Blue Curacao: 60 ml.",
+    "Nước cốt dừa: 60 ml.",
+    "Nước dừa: 60 ml.",
+    "Một ít đá viên"
+  ],
+  "intructions": [
+    "Bước 1: Cho vào bình lắc hỗn hợp nguyên liệu theo định lượng gồm: 60 ml rượu Light Rhum, 60 ml rượu Blue Curacao, 60 ml nước cốt dừa, 60 ml nước dừa và một ít đá viên.",
+    "Bước 2: Đậy kín bình lắc, dùng lực cổ tay lắc mạnh và đều để các nguyên liệu hòa quyện hoàn toàn. Thời gian lắc không nên quá lâu sẽ khiến cho đá viên tan ra, làm loãng vị cocktail.",
+    "Bước 3: Đổ cocktail Blue Hawaiian ra ly thủy tinh. Cắt một lát dứa và một trái cherry gắn lên miệng ly để trang trí.",
+    "Màu xanh của cocktail, màu vàng của dứa tươi cùng cherry đỏ mọng đan xen hài hòa, tạo nên vể đẹp nhẹ nhàng cho ly cocktail. Nhấp từng ngụm cocktail Blue Hawaiian đề cảm nhận hương vị hấp dẫn. Chúc bạn thành công."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e056cd1e158d93331a8c4c"
+  },
+  "type_drink": "Rượu",
+  "title": "Hướng dẫn pha chế cocktail White Russian",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2021/02/huong-vi-cua-cocktail-white-russian.jpg",
+  "ingredient": [
+    "40ml Vodka",
+    "30ml sữa tươi",
+    "30ml Kahlua",
+    "Đá viên",
+    "Dụng cụ: ly rock, bar spoon, jigger…"
+  ],
+  "intructions": [
+    "Bạn dùng một khối đá to và sử dụng cây đục đá để điêu khắc đá thành một khối hình cầu có kích thước bằng với ly. Nếu có điều kiện, bạn có thể trang bị một khuôn đá Logo để tạo hình khối đá trong nháy mắt, tiết kiệm thời gian và không hề tốn sức.",
+    "Đá sau khi đục xong, bạn cho vào ly để ướp lạnh ly trước khi thực hiện cách pha white Russian cocktail từ rượu Vodka này.",
+    "Ứng dụng kỹ thuật stir (khuấy) nguyên liệu",
+    "Tiếp đến, rót lần lượt 40ml Vodka, 30ml sữa tươi và 30ml Kahlua vào trong ly rock đã có sẵn đá. Nhớ sử dụng jigger để đong các nguyên liệu cho chính xác.",
+    "Sau đó, dùng bar spoon khuấy đều từ 3 – 5 giây, thế là đã hoàn thành xong một ly cocktail White Russian ngon chuẩn phong cách Nga.",
+    "Ngoài cách pha chế trên, bạn có thể cho rượu vào ly mà không cần khuấy rượu. Thông thường, rượu Kahlua nặng hơn Vodka nên sẽ chìm xuống đáy ly.",
+    "Bước tiếp theo, bạn phủ lên trên ly rượu một lớp sữa tươi và không khuấy để hỗn hợp xuất hiện hai tầng đặc trưng của rượu và sữa.",
+    "Nếu như trước đây, người ta thường dùng kem tươi để pha chế White Russian thì ngày nay, các Bartender thay thế kem hoặc sữa tươi thông thường bằng sữa không kem, rất ít béo. Và trang trí bằng cách rắc thêm chút vụn chocolate hoặc bột hạt nhục đậu khấu (nutmeg) lên trên bề mặt.",
+    "Dạy Pha Chế Á Âu vừa hướng dẫn bạn cách làm White Russian cocktail, chỉ mất vài phút bạn sẽ có ngay một thức uống có mùi vị ngọt ngào. Hãy lưu lại công thức trên đây và thực hiện ngay khi có dịp để cảm nhận điều tuyệt vời."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e056f31e158d93331a8c4e"
+  },
+  "type_drink": "Rượu",
+  "title": "Hướng dẫn pha chế cocktail White Russian",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2021/02/huong-vi-cua-cocktail-white-russian.jpg",
+  "ingredient": [
+    "40ml Vodka",
+    "30ml sữa tươi",
+    "30ml Kahlua",
+    "Đá viên",
+    "Dụng cụ: ly rock, bar spoon, jigger…"
+  ],
+  "intructions": [
+    "Bạn dùng một khối đá to và sử dụng cây đục đá để điêu khắc đá thành một khối hình cầu có kích thước bằng với ly. Nếu có điều kiện, bạn có thể trang bị một khuôn đá Logo để tạo hình khối đá trong nháy mắt, tiết kiệm thời gian và không hề tốn sức.",
+    "Đá sau khi đục xong, bạn cho vào ly để ướp lạnh ly trước khi thực hiện cách pha white Russian cocktail từ rượu Vodka này.",
+    "Ứng dụng kỹ thuật stir (khuấy) nguyên liệu",
+    "Tiếp đến, rót lần lượt 40ml Vodka, 30ml sữa tươi và 30ml Kahlua vào trong ly rock đã có sẵn đá. Nhớ sử dụng jigger để đong các nguyên liệu cho chính xác.",
+    "Sau đó, dùng bar spoon khuấy đều từ 3 – 5 giây, thế là đã hoàn thành xong một ly cocktail White Russian ngon chuẩn phong cách Nga.",
+    "Ngoài cách pha chế trên, bạn có thể cho rượu vào ly mà không cần khuấy rượu. Thông thường, rượu Kahlua nặng hơn Vodka nên sẽ chìm xuống đáy ly.",
+    "Bước tiếp theo, bạn phủ lên trên ly rượu một lớp sữa tươi và không khuấy để hỗn hợp xuất hiện hai tầng đặc trưng của rượu và sữa.",
+    "Nếu như trước đây, người ta thường dùng kem tươi để pha chế White Russian thì ngày nay, các Bartender thay thế kem hoặc sữa tươi thông thường bằng sữa không kem, rất ít béo. Và trang trí bằng cách rắc thêm chút vụn chocolate hoặc bột hạt nhục đậu khấu (nutmeg) lên trên bề mặt.",
+    "Dạy Pha Chế Á Âu vừa hướng dẫn bạn cách làm White Russian cocktail, chỉ mất vài phút bạn sẽ có ngay một thức uống có mùi vị ngọt ngào. Hãy lưu lại công thức trên đây và thực hiện ngay khi có dịp để cảm nhận điều tuyệt vời."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e0570a1e158d93331a8c50"
+  },
+  "type_drink": "Rượu",
+  "title": "Hướng Dẫn Làm Space Full Cocktail Đơn Giản",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2020/08/cocktail-space-full.jpg",
+  "ingredient": [
+    "50ml Vodka",
+    "40ml pineapple juice (nước ép dứa)",
+    "30ml honeydew syrup (syrup dưa gang)",
+    "20ml lime juice (nước cốt chanh)",
+    "10ml coconut syrup (syrup dừa)",
+    "2 – 3 lá chanh tươi",
+    "Dụng cụ pha chế: dụng cụ lọc, shaker, ly…"
+  ],
+  "intructions": [
+    "Sơ Chế Nguyên Liệu Nước Ép",
+    "Bạn chọn những quả dứa chín thơm, gọt bỏ vỏ và làm sạch mắt, cắt dứa thành miếng vừa rồi cho vào máy ép lấy nước. Nếu không có nước ép dứa tươi, bạn có thể thay thế bằng nước ép dứa đóng hộp. Tuy nhiên, nước ép dứa tươi sẽ giúp thức uống của bạn có hương vị thật và thơm ngon hơn.",
+    "Chanh tươi bạn chọn những quả chanh giấy cho thơm, chọn quả vỏ mỏng, cầm nặng tay và tròn đều. Cắt đôi quả chanh rồi vắt lấy nước cốt vào dụng cụ đong, lọc bỏ hạt chanh.",
+    "Lắc Đều Các Nguyên Liệu Pha Chế",
+    "Tiếp theo, bạn lần lượt cho các nguyên liệu đã chuẩn bị vào bình lắc gồm: 40ml nước ép dứa",
+    "30ml syrup dưa gang",
+    "20ml nước cốt chanh",
+    "10ml syrup dừa",
+    "50ml rượu Vodka, đá viên vào đầy bình lắc, đóng nắp và lắc đều cho nguyên liệu hòa quyện. Khi bạn nhìn thấy bên ngoài bình lắc đóng một lớp tuyết mỏng, tay cảm nhận được độ lạnh ngấm ra bên ngoài bình lắc là được.",
+    "Rót Cocktail Ra Ly",
+    "Trước khi pha chế, bạn cần ướp lạnh ly để khi cho thức uống ra ly sẽ giúp giữ độ lạnh, đá lâu tan hơn. Cho vào ly đã chuẩn bị viên đá lớn, dùng dụng cụ lọc cocktail ra ly, bỏ phần đá đã lắc trước đó. Thao tác này sẽ giúp đồ uống của bạn lâu bị loãng, giữ được vị  ngon vốn có."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057221e158d93331a8c52"
+  },
+  "type_drink": "Rượu",
+  "title": "Cách làm Strawberry Gin Smash Cocktail",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2017/11/huong-thom-cua-gin.jpg",
+  "ingredient": [
+    "1/2 muỗng cà phê đường",
+    "¼ quả chanh3 quả dâu tươi (2 quả thái mỏng, 1 quả trang trí)",
+    "90ml GinClub soda",
+    "Lá bạc hà tươi"
+  ],
+  "intructions": [
+    "Bước 1: Cho vào ly nước cốt chanh, đường, dùng muỗng khuấy đều. Sau đó thêm dâu tây thái lát vào.",
+    "Bước 2: Đổ đá vào đầy ly, thêm gin, soda vào. Cuối cùng trang trí bằng 1 quả dâu tây cùng lá bạc hà."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057341e158d93331a8c54"
+  },
+  "type_drink": "Rượu",
+  "title": "Cách Làm Các Cocktail Trái Cây",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2020/05/so-che-ky-cac-loai-trai-cay.jpg",
+  "ingredient": [
+    "2kg các loại trái cây tùy chọn như: cam, chanh, quýt, bưởi, táo lê…",
+    "1 chai rượu Vodka",
+    "500gr đường phèn",
+    "Dụng cụ: lọ thủy tinh rửa sạch, dao, thớt…"
+  ],
+  "intructions": [
+    "Bước 1: Đầu tiên, bạn rửa sạch tất cả trái cây và để ráo nước. Đối với các loại trái cây như cam, chanh, quýt, bạn ngâm với nước muối khoảng 30 phút rồi dùng muối chà xác lên vỏ quả để loại bớt tinh dầu trong vỏ quả.",
+    "Các loại trái cây sau khi rửa sạch, bạn cắt lát mỏng. Đối với các chanh, cam, quýt thì bỏ hạt. Cách này sẽ giúp bạn ngâm cocktail không bị đắng.",
+    "Bước 2: Lọ thủy tinh rửa sạch với nước, sau đó tráng qua với rượu trắng để khử trùng rồi để ráo. Xếp các loại trái cây vào lọ thủy tinh, cứ 1 lớp trái cây bạn rải lên 1 lớp đường mỏng cho đến khi hết trái cây. Lớp trái cây cuối cùng, bạn phủ kín với một lớp đường.",
+    "Cuối cùng, bạn rót rượu vào cho đến khi ngập mặt trái cây rồi đậy thật kín nắp, đặt ở nơi khô ráo, thoáng mát. Sau khoảng 1 tháng khi đường đã tan hết, bạn có thể thưởng thức cocktail trái cây.",
+    "Bước 4: Khi uống, bạn múc rượu cocktail ra ly, thêm đá viên vào, có thể cho phần trái cây ngâm rượu lên trên và thưởng thức. Hương vị thơm ngon, chua ngọt, chút cay của rượu sẽ khiến bạn phát ghiền."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e0574c1e158d93331a8c56"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Cách pha Trà sữa Thái đỏ",
+  "image": "https://bizweb.dktcdn.net/100/421/036/files/tra-sua-thai-do-c9b17882-a00a-4a0d-8087-ff8a9c7dee19.jpg?v=1644374688697",
+  "ingredient": [
+    "+ Gói trà Thái đỏ Char Tar (Bạn có thể mua tại siêu thị hoặc order trên mạng)",
+    "+ Sữa tươi không đường",
+    "+ Sữa đặc",
+    "+ Đường",
+    "+ Đá viên"
+  ],
+  "intructions": [
+    "Bước 1: Cho 4- 5 muỗng trà  vào bình, đun sôi nước rồi đổ vào trong bình đã chuẩn bị ( đổ khoảng 400ml nước sôi) hãm  trà trong vòng từ 5-10 phút sau đó lọc để loại bỏ bã trà. Nếu trà ở dạng túi thì chỉ cần vớt túi trà ra và phải vắt hết nước trong túi. Sau khi hãm xong trà sẽ có màu đỏ.",
+    "Bước 2: Đổ 60ml sữa đặc vào cốc hay ly (tùy theo sở thích có thể cho thêm sữa). Sau đó cho thêm vào đó 300ml sữa tươi không đường, sữa tươi không đường có vị ngậy sẽ giúp trà sữa thêm ngon."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057731e158d93331a8c58"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Cách pha Trà sữa lipton",
+  "image": "https://cdn.tgdd.vn/Files/2017/08/15/1013274/cach-lam-tra-sua-thom-ngon-don-gian-bang-tra-lipton-202109211415363141.jpg",
+  "ingredient": [
+    "+ Trà đen túi lọc",
+    "+ Sữa tươi",
+    "+ Đường",
+    "+ Siro bạc hà hoặc bất cứ nguyên liệu nào bạn thích."
+  ],
+  "intructions": [
+    "Bước 1: Các bạn pha 1 bình trà, để nguội bớt đi nhưng đừng để quá lâu sẽ làm trà mất ngon.",
+    "Bước 2: Rót sữa tươi + đường + Nguyên liệu theo tỉ lệ bạn thấy vừa miệng sau đó lắc đều.",
+    "Bước 3: Thêm đá và thưởng thức"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057861e158d93331a8c5a"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Cách làm trà ô long sữa trân châu",
+  "image": "https://cdn.tgdd.vn/Files/2021/08/10/1374190/cach-pha-tra-sua-o-long-truyen-thong-thom-ngon-de-lam-tai-nha-202202150918345821.jpg",
+  "ingredient": [
+    "+ 150ml cốt trà ô long",
+    "+ 20g bột kem sữa",
+    "+ 20g đường cát",
+    "+ 200g đá",
+    "+ Trân châu hạt, thạch, pudding... (Tùy sở thích bạn dùng)"
+  ],
+  "intructions": [
+    "+ Ủ 5g trà ô long với 150ml nước sôi khoảng 95 độ C trong tầm 12 phút.",
+    "+ Sau đó lọc bã trà lấy nước cốt.",
+    "+ Hòa tan nước cốt trà còn nóng với bột kem sữa và đường cát.",
+    "+ Đổ hỗn hợp trên với 200g đá vào shaker và lắc đều.",
+    "+ Cho ra ly và thêm trân châu, thạch hoạc pudding..."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057981e158d93331a8c5c"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Cách pha trà sữa bạc hà",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2018/05/01d8b43f4f3fa760f12ff89aa5d9028b.jpg",
+  "ingredient": [
+    "+ 150ml cốt hồng trà",
+    "+ 20g bột kem sữa",
+    "+ 20ml siro bạc hà",
+    "+ 20g đường cát",
+    "+ Một ít đá, trân châu, thạch hoặc pudding... (tùy sở thích)"
+  ],
+  "intructions": [
+    "+ Ủ 5g hồng trà với 150ml nước sôi ở 100 độ C trong 20 phút. Sau đó lọc bã trà để lấy nước cốt.",
+    "+ Hòa tan nước cốt trà còn nóng với bột kem sữa, siro bạc hà và đường cát.",
+    "+ Đổ hỗn hợp với 200g đá vào shaker và lắc đều.",
+    "+ Cho ra ly và bỏ thêm thạch, trân châu..."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057da1e158d93331a8c5e"
+  },
+  "type_drink": "Trà sữa",
+  "title": "Cách pha hồng trà sủi bọt",
+  "image": "https://www.huongnghiepaau.com/wp-content/uploads/2017/08/tra-sua-va-hong-tra.jpg",
+  "ingredient": [
+    "+ 150ml cốt hồng trà",
+    "+ 20g đường cát",
+    "+ 200g đá",
+    "+ 20g bột milkfoam",
+    "+ 100ml sữa tươi không đường",
+    "+ 10g đường",
+    "+ Chuẩn bị thêm trân châu, pudding thạch... (tùy theo sở thích)"
+  ],
+  "intructions": [
+    "+ Ủ 5g hồng trà với 150ml nước ở nhiệt độ sôi 100 độ C. Sau đó lọc bã trà lấy nước cốt.",
+    "+ Cho nước cốt, đường và đá vào shaker. Sau đó lắc đều đổ ra ly.",
+    "+ Tiếp theo là bước chuẩn bị milkfoam. Cách làm như sau: bạn chị cần cho tất cả các nguyên liệu đã chuẩn bị vào tô. Dùng máy đánh trứng hoặc máy lò xo đánh đến khi hỗn hợp sánh quyện vừa phải (tầm 3-5 phút)."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e057ed1e158d93331a8c60"
+  },
+  "type_drink": "Nước ép",
+  "title": "Hướng dẫn công thức pha chế nước ép mận",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/nguyen-lieu-pha-che-de-tim.jpg",
+  "ingredient": [
+    "Nước ép mận: 70ml",
+    "Nước đường: 30ml",
+    "Syrup chanh: 20ml",
+    "Syrup tắc: 10ml",
+    "Đá viên, lá bạc hà hoặc lá húng lủi trang trí",
+    "Dụng cụ: ly thủy tinh, muỗng, bình lắc, dao…."
+  ],
+  "intructions": [
+    "Ép nước mận tươi",
+    "Chuẩn bị máy ép, vệ sinh sạch sẽ rồi cho mận vào ép lấy nước. Tùy theo số lượng ly nước ép bạn định pha chế. Thông thường, mỗi ly, bạn sử dụng khoảng 70ml nước ép là phù hợp.",
+    "Pha chế nước ép mận ngon",
+    "Cho vào bình lắc 70ml nước ép mận",
+    "30ml nước đường",
+    "20ml syrup chanh",
+    "10ml syrup tắc, đá viên. Đậy kín nắp và lắc đều đến khi cảm nhận được độ lạnh bên ngoài bình lắc là được.",
+    "Trang trí thức uống đẹp mắt",
+    "Rót nước ép lựu vừa pha ra ly thủy tinh cao, trang trí với lá bạc hà cho đẹp mắt và nhâm nhi để cảm nhận vị ngon mát lạnh của thức uống.",
+    "Nếu không có lá bạc hà, bạn có thể dùng lá húng lủi thay thế.",
+    "Lưu ý khi pha chế nước ép mận",
+    "Bạn cần vệ sinh thật kỹ máy ép để nước mận thành phẩm không bị ám mùi các loại trái cây ép trước đó. Cách vệ sinh máy ép rất đơn giản, bạn chỉ cần dùng nước lọc cho vào máy khi đang khởi động. Nước lọc sẽ loại bỏ các bụi, cặn và mùi trong máy hiệu quả.",
+    "Khi pha chế nước ép mận, bạn có thể gia giảm lượng đường cho phù hợp với khẩu vị.",
+    "Nếu nước ép sau khi pha chế không dùng ngay thì bạn không cho đá viên vào để tránh nước ép bị loãng, không còn ngon. Bạn hãy cho nước ép vào bình thủy tinh, đậy kín nắp và đặt trong ngăn mát tủ lạnh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058011e158d93331a8c62"
+  },
+  "type_drink": "Nước ép",
+  "title": "Cách làm nước ép cóc táo",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2016/08/nuoc-ep-coc.jpg",
+  "ingredient": [
+    "Cóc: 2 quả.",
+    "Táo: 1 quả.",
+    "Nước đường: 30ml = 1 oz.",
+    "Siro chanh: 20ml = 0.8 oz",
+    ".Siro tắc: 10ml = 0.3 oz."
+  ],
+  "intructions": [
+    "Bước 1: Đầu tiên, bạn rửa sạch cóc và táo. Sau đó dùng dao cắt miếng nhỏ để dễ ép. Giữ nguyên vỏ trái cây, vì thành phần dinh dưỡng chứa ở đây nhiều và vỏ trái cây giúp tạo màu đồ uống đẹp mắt hơn.",
+    "Bước 2: Sau đó, pha chế 50ml nước ép cóc, 20ml nước ép táo và 30ml nước đường, 20ml siro chanh, 10ml siro tắc cùng với đá. Lắc đều hỗn hợp trước khi uống hoặc bạn có thể cho vào chai lọ để trong ngăn mát tủ lạnh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058121e158d93331a8c64"
+  },
+  "type_drink": "Nước ép",
+  "title": "Cách làm nước ép cóc ổi",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/nuoc-ep-oi-thanh-mat.jpg",
+  "ingredient": [
+    "Quả cóc xanh: 2 quả.",
+    "Ổi xanh: 1 quả.",
+    "Nước đường: 20ml.",
+    "Chanh: 2 – 3 lát."
+  ],
+  "intructions": [
+    "Bước 1: Cóc, ổi tươi sau khi mua về hãy rửa sạch với nước lọc sau đó ngâm qua nước muối pha loãng, gọt bỏ vỏ, rồi cắt thành dạng múi cau.",
+    "Bước 2: Cho phần nguyên liệu cóc, ổi đã cắt và tách bỏ hạt vào máy ép lấy hỗn hợp nước.",
+    "Bước 3: Trong shaker cho hỗn hợp nước ép, đường kình trắng và đá viên vào. Đậy kín và lắc đều cho hỗn hợp được hòa quyện hoàn toàn vào nhau.",
+    "Bước 4: Rót hỗn hợp nước ép cóc ổi vừa lắc vào ly đã chuẩn bị sẵn, để thức uống hấp dẫn hơn bạn có thể trang trí thêm hoa quả và ống hút."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058251e158d93331a8c66"
+  },
+  "type_drink": "Nước ép",
+  "title": "Cách làm nước ép thanh long",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/xay-nhuyen-thanh-long.jpg",
+  "ingredient": [
+    "Thanh long đỏ chín: 1 quả",
+    "Nước đường: 30ml = 1 oz",
+    "Syrup hoa bụp giấm: 10ml = 0.3 oz",
+    "Syrup tắc: 10ml = 0.3 oz",
+    "Rượu Barcadi trắng 5ml",
+    "50gr đường cát trắng",
+    "Đá viên",
+    "Dụng cụ: máy ép trái cây hoặc máy xay sinh tố, bình lắc, ly, muỗng, dao, thớt, rây nhỏ…"
+  ],
+  "intructions": [
+    "Sơ chế nguyên liệu",
+    "Cắt thanh long ra làm đôi, dùng muỗng nạo phần thịt quả và cho vào một cái tô riêng. Để món nước ép có hương vị thơm ngon đặc biệt, trước khi ép lấy nước, bạn áo thanh long với 50gr đường cát trắng, để khoảng 30 phút cho đường tan và ngấm vào thanh long. Kế đó, bạn dùng máy ép lấy nước cốt thanh long và lọc qua rây nhiều lần cho mịn.",
+    "Ngoài ra, chúng tôi xin hướng dẫn thêm cho bạn cách làm nước ép thanh long không cần máy. Bạn chỉ cần dùng muỗng tán nhuyễn thanh long và lọc bỏ hạt bằng rây là có ngay nước ép thanh long nguyên chất, giàu dinh dưỡng.",
+    "Pha chế nước ép thanh long thơm ngon",
+    "Chuẩn bị bình lắc, cho vào 70ml nước ép thanh long",
+    "30ml nước đường",
+    "10ml syrup hoa bụp giấm",
+    "10ml syrup tắc",
+    "5ml rượu Barcadi cùng đá viên vào. Đậy kín nắp bình, sau đó dùng tay lắc đều cho hỗn hợp được hoà tan hoàn toàn.",
+    "Hoàn thành thức uống",
+    "Rót nước ép thanh long vừa pha chế xong ra ly thủy tinh cao. Cắt một miếng thanh long đỏ còn tươi gắn lên miệng ly để trang trí hoặc có thể dùng lá húng lủi cho thức uống thêm sinh động."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058371e158d93331a8c68"
+  },
+  "type_drink": "Nước ép",
+  "title": "Cách pha nước chanh",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2022/06/nuoc-chanh-co-tinh-khang-khuan-cao.jpg",
+  "ingredient": [
+    "3 quả chanh tươi",
+    "45ml mật ong",
+    "150ml nước lọc",
+    "Muối"
+  ],
+  "intructions": [
+    "Bước 1: Vắt chanh",
+    "Chanh chọn quả vỏ mỏng, rửa sạch. Dùng dao cắt theo chiều dọc để lấy các má chanh nhưng tránh cắt vào lõi và hạt. Vắt nước cốt chanh vào ly, loại bỏ hạt.",
+    "Bước 2: Pha chế nước chanh ngon",
+    "Sau khi vắt chanh xong bạn tiến hành pha nước chanh theo công thức như sau. Cho vào ly 40ml nước cốt chanh",
+    "45ml mật ong",
+    "150ml nước lọc và một chút xíu muối, khuấy đều cho hỗn hợp hòa quyện. Vậy là hoàn thành cách pha nước chanh đơn giản nhưng đem lại hiệu quả trị ho tuyệt vời."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058471e158d93331a8c6a"
+  },
+  "type_drink": "Nước ép",
+  "title": "Nước ép cà rốt trị ho hiệu quả",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2022/06/nuoc-ep-ca-rot-co-the-cho-em-be.jpg",
+  "ingredient": [
+    "150gr cà rốt",
+    "30ml mật ong",
+    "1 muỗng gừng bằm"
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế cà rốt",
+    "Rửa sạch cà rốt, gọt vỏ và cắt khúc nhỏ. Sau đó cho vào máy ép trái cây ép lấy nước cốt cà rốt.",
+    "Bước 2: Làm nước ép cà rốt trị ho",
+    "Tiếp đến, bạn pha 80ml nước ép cà rốt với 30ml mật ong",
+    "1 muỗng gừng bằm và dùng muỗng khuấy đều hỗn hợp là được.",
+    "Những lưu ý khi làm nước ép trị ho",
+    "Hạn chế sử dụng đường, vì thức uống quá ngọt sẽ làm cho cổ họng bị ngứa và dễ ho.",
+    "Dùng mật ong làm chất tạo ngọt tự nhiên và tốt cho sức khỏe hơn.",
+    "Nước ép trị ho nên uống ấm hoặc không đá để giảm cơn ho.",
+    "Bạn nên dùng một lượng nhỏ 2 lần/ngày để đạt được hiệu quả."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e0585a1e158d93331a8c6c"
+  },
+  "type_drink": "Soda",
+  "title": "Cách pha soda phúc bồn tử 2 tầng đẹp mắt",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/12/soda-phuc-bon-tu.jpg",
+  "ingredient": [
+    "1 lon soda (có thể thay thế bằng 7 up)",
+    "30ml syrup phúc bồn tử",
+    "10ml nước cốt chanh",
+    "5 quả phúc bồn tử",
+    "Lá bạc hà/húng lủi trang trí",
+    "Đá viên",
+    "Dụng cụ: ly thủy tinh, chày dầm, muỗng khuấy"
+  ],
+  "intructions": [
+    "Làm syrup phúc bồn tử",
+    "Quả phúc bồn tử mua về bạn ngâm qua nước muối pha loãng khoảng 15 phút rồi rửa sạch, cho ra rổ, để ráo nước.",
+    "Sau khi để lại vài quả phúc bồn tử trang trí đồ uống thì bạn cho tất cả vào âu nhỏ, dùng chày dầm nát. Bạn lưu ý là chỉ dầm nát để quả phúc bồn tử chiết xuất hương thơm và nước cốt, không dầm nhuyễn nhé!",
+    "Tiếp theo, bạn đường cát vào âu, tỷ lệ là 2 đường",
+    "1 phúc bồn tử, trộn đều rồi cho vào nồi, đặt lên bếp đun trên lửa nhỏ cho đến khi đường tan là được. Cuối cùng, bạn để syrup nguội thì cho vào lọ thủy tinh, đậy kín nắp, đặt trong ngăn mát tủ lạnh dùng dần nhé!",
+    "Pha chế soda phúc bồn tử",
+    "Bạn cho vào ly thủy tinh thân cao 30ml syrup phúc bồn tử",
+    "10ml nước cốt chanh, khuấy cho hai nguyên liệu quyện đều thì thêm đá viên vào đầy khoảng 2/3 ly. Tiếp theo, bạn rót từ từ soda vào cho đến khi đầy ly là hoàn thành.",
+    "Trang trí soda phúc bồn tử bắt mắt",
+    "Bạn cho vài quả phúc bồn tử lên trên ly, thêm ngọn bạc hà nữa là có ngay thức uống không chỉ ngon miệng mà còn đẹp mắt.",
+    "Thành phẩm là ly soda đẹp mắt, màu đỏ của phúc bồn tử nổi bật trên nền soda trong suốt. Khi thưởng thức, bạn khuấy cho nguyên liệu quyện lại sẽ cảm nhận được vị chua ngọt, mát lạnh đặc trưng của thức uống."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058721e158d93331a8c6e"
+  },
+  "type_drink": "Soda",
+  "title": "Hướng dẫn làm Soda chanh bằng Syrup",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/11/soda-chanh.jpg",
+  "ingredient": [
+    "Soda: 1 lon",
+    "Chanh: 1 quả",
+    "Nước đường: 20ml",
+    "Syrup mint mojito: 15ml",
+    "Syrup chanh: 15ml",
+    "Lá bạc hà: 1 nhúm nhỏ"
+  ],
+  "intructions": [
+    "Bước 1: Chanh: vắt lấy nước cốt chanh khoảng 25ml cho 1 ly soda. Lá bạc hà: rửa sạch.",
+    "Bước 2: Tiếp đến, bạn lau khô ly thủy tinh đựng đồ uống. Lần lượt rót các nguyên liệu gồm nước đường, syrup mint mojito, syrup chanh vào trong ly và dùng muỗng khuấy đều.",
+    "Sau đó bạn cho thêm đá viên đầy đến miệng ly và rót đầy nước soda vào. Vậy là bạn đã hoàn thành món soda chanh rồi đấy. Đừng quên trang trí thêm một nhành bạc hà nho nhỏ kèm với một lát chanh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058881e158d93331a8c70"
+  },
+  "type_drink": "Soda",
+  "title": "Cách làm soda bạc hà đơn giản",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/11/fill-up-soda.jpg",
+  "ingredient": [
+    "Soda: 200ml",
+    "Chanh: 1 quả",
+    "Nước đường: 30ml",
+    "Syrup bạc hà xanh: 15ml",
+    "Lá bạc hà: 1 nhúm nhỏ",
+    "Dụng cụ pha chế soda: ly, muỗng khuấy, dao, thớt…"
+  ],
+  "intructions": [
+    "Bước 1: Chanh: cắt đôi quả chanh và vắt lấy nước cốt để riêng.Lá bạc hà: rửa sạch.",
+    "Bước 2: Bước tiếp theo, bạn lau sạch một cái ly thủy tinh và rót nguyên liệu theo thứ tự gồm 30ml nước đường, 15ml syrup bạc hà xanh, 15ml nước cốt chanh và dùng muỗng khuấy đều. Sau đó, bạn cho thêm đá viên đầy 2/3 ly.",
+    "Cuối cùng, bạn rót đầy soda vào ly đã chứa phần syrup bạc hà. Để ly đồ uống thêm phần hấp dẫn và đẹp mắt thì bạn trang trí thêm một nhành bạc hà nhỏ trên miệng ly, thả vào bên trong ly đồ uống một vài lát chanh cắt mỏng nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e0589d1e158d93331a8c72"
+  },
+  "type_drink": "Soda",
+  "title": "Cách làm soda bạc hà “handmade”",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/11/soda-bac-ha-handmade.jpg",
+  "ingredient": [
+    "Lá bạc hà: 3gr",
+    "Đường cát: 40gr",
+    "Chanh: 3 quả",
+    "Soda: 1 lon",
+    "Dụng cụ pha chế: máy xay sinh tố, dao, thớt…"
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế nguyên liệu",
+    "Lá bạc hà: rửa sạch và để ráo nước.",
+    "Chanh: vắt lấy nước cốt và để lại khoảng ½ quả chanh dùng trang trí.",
+    "Bước 2: Nấu nước chanh đường",
+    "Bạn cho lên bếp nấu khoảng 100ml nước và 40gr đường cát vào. Nấu cho đến khi nước đường tan thì bạn cho phần nước cốt chanh vào. Dùng muỗng khuấy đều và hạ lửa nhỏ liu riu cho đến khi phần nước chanh đường sánh đặc lại là được.",
+    "Bước 3: Xay lá bạc hà",
+    "Tiếp đến, bạn lau khô máy xay sinh tố, sau đó cho lá bạc hà và nước chanh đường vào cối xay. Bạn xay nhuyễn hỗn hợp này nhuyễn mịn. Khi xay xong thì đựng vào chai lọ thủy tinh bảo quản.",
+    "Bước 4: Pha chế soda bạc hà",
+    "Bước tiếp theo, bạn dùng một chiếc ly thủy tinh sạch sẽ, rót khoảng 40ml hỗn hợp syrup bạc hà tự làm ở bước 3 vào ly. Sau đó thêm đá viên đầy đến miệng ly và rót đầy soda vào ly soda bạc hà. Cuối cùng, bạn trang trí một nhành bạc hà nhỏ đi kèm với một hoặc hai lát chanh cắt mỏng."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058b01e158d93331a8c74"
+  },
+  "type_drink": "Soda",
+  "title": "Cách Làm Soda Từ Quả Việt Quất",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/10/soda-viet-quat.jpg",
+  "ingredient": [
+    "1 lon soda",
+    "3 – 4 quả việt quất tươi",
+    "25ml mứt việt quất",
+    "10ml nước đường",
+    "10ml nước cốt chanh",
+    "Lát chanh để trang trí",
+    "Lá bạc hà"
+  ],
+  "intructions": [
+    "Bước 1: Đầu tiên bạn chuẩn bị 1 ly thủy tinh. Cho khoảng 25ml mứt việt quất, 10ml nước đường và 10ml nước cốt chanh vào ly. Dùng muỗng khuấy đều để tạo tầng đầu tiên cho ly soda.",
+    "Bước 2: Xoắn nhẹ lá húng lủi hoặc lá bạc hà và cho vào ly để kích mùi thơm cho món soda. Bạn cũng có thể cho bạc hà vào tay và đập mạnh thay vì dầm nát cũng đủ ly soda ngát hương thơm the mát rồi.",
+    "Bước 3: Cho đá viên vào và rót soda đầy ly. Trang trí thức uống với ống hút và đồ khuấy cùng vài lá bạc hà, quả việt quất tươi cho đồ uống thêm phần hấp dẫn."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058c91e158d93331a8c76"
+  },
+  "type_drink": "Soda",
+  "title": "Cách Làm Soda Ý 2 Tầng, 3 Tầng",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/soda-y-nhieu-mau.jpg",
+  "ingredient": [
+    "Siro Torani Passion Fruit (Hương chanh dây).",
+    "Siro Torani Blue Curacao (Hương vỏ cam).",
+    "Siro Torani Grenadine (Lựu).",
+    "2 quả chanh.",
+    "1 chai Sprite.",
+    "Đá viên."
+  ],
+  "intructions": [
+    "Bước 1: Đầu tiên, bạn cho lần lượt các loại syrup, nước đường và nước cốt chanh vào ly. Dùng muỗng khuấy nhẹ để các nguyên liệu hòa quyện với nhau.",
+    "Bước 2: Tiếp theo, bạn cho đá viên vào ly. Lưu ý khi cho đá bạn nên nghiêng ly một chút để tránh bắn hỗn hợp trong ly ra nhé.",
+    "Bước 3: Và cuối cùng, bạn đổ đầy Sprite vào ly. Vậy là bạn đã có ly soda Ý 2 tầng đẹp mắt rồi. Việc còn lại lúc này là trang trí sao cho ly thức uống đẹp mắt, kích thích hơn. Bạn có thể dùng lá bạc hà tươi hoặc húng lũi, các loại trái cây như táo, cam, chanh, đào…"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058d81e158d93331a8c78"
+  },
+  "type_drink": "Soda",
+  "title": "Công thức pha soda dâu",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/soda-dau.jpg",
+  "ingredient": [
+    "Dây tây",
+    "Chanh cắt lát mỏng",
+    "Lá bạc hà",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Bước 1: Việc đầu tiên chúng ta phải làm siro hoa quả:",
+    "Dâu tây các bạn rửa sạch và xay nhuyễn hoặc cắt đôi, sau đó cho thêm 50g đường và 90ml nước lọc sau đó đun sôi và cô thành siro dâu. Sau khi đun có thể lọc bỏ bớt phần bã và lấy phần nước cốt siro.",
+    "Đổ 50ml nước cốt siro dâu xuống dưới đáy cốc, chú ý khi đổ, để được một ly soda đẹp mắt, các bạn không nên đổ ra thành cốc, mà chúng ta sẽ đổ vào đáy cốc.",
+    "Bước 2: Lá bạc là lấy những lá to, đập cho tinh dầu toát ra và cho vào siro.",
+    "Bước 3: Cho thêm đá viên đến khi đầy cốc, chú ý nghiêng cốc thả nhẹ đá vào cho siro của các bạn không bị bắn lên thành cốc.",
+    "Bước 4: Chanh cắt lát mỏng décor cho đồ uống và thả vào ly cùng với đá cho có thêm vị của tinh dầu chanh.",
+    "Bước 5: Bước cuối cùng là rót 7 up lên trên lớp đá và décor những phần còn lại bằng dâu và lá bạc hà.",
+    "Sau khi hoàn thành các bước trên, các bạn đã có cho mình một ly soda ngon tuyệt."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058e91e158d93331a8c7a"
+  },
+  "type_drink": "Soda",
+  "title": "Hướng dẫn cách pha Soda gừng",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/soda-gung.jpg",
+  "ingredient": [
+    "Gừng",
+    "Đường trăng",
+    "Đường nâu"
+  ],
+  "intructions": [
+    "Bước 1: Cho gừng và vỏ chanh được nghiền nát vào 1 chén nước, vào đổ vào một cái chảo. Sau đó đun nóng trong vòng 20 phút. Bạn canh cho đến khi các nguyên liệu nhuyễn và vụn nát ra.",
+    "Bước 2: Lọc hỗn hợp này qua rây, lấy phần nước. Phần sát còn lại bạn có thể đem đun nóng một lần nữa để có thêm tinh chất gừng chanh.",
+    "Bước 3: Cho đường trắng, đường nâu vào trong chảo sạch, thêm một chút để đường hòa tan nhanh hơn. Sau đó cho hỗn hợp gừng chanh vào rim, đợi hỗn hợp nước sền sệt lại như syrup bạn thường thấy là được. Đun nóng trong vòng 15 – 20 phút.",
+    "Bước 4: Đổ ra ly từ khoảng 40ml syrup đã làm, cho đá viên vào và đổ đầy soda.",
+    "Bước 5: Bạn lấy một ít lát gừng trang trí lên bên trên (như hình)",
+    "Nước giải khát có ga này được làm từ nước, rễ gừng, vỏ chanh và kết hợp đường nâu và trắng. Siêu đơn giản, ít calo và thú vị!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e058f91e158d93331a8c7c"
+  },
+  "type_drink": "Soda",
+  "title": "Cách làm Soda Hương thảo (Rosemary)",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/soda-huong-thao.jpg",
+  "ingredient": [
+    "1 muỗng canh hương thảo khô.",
+    "3/4 chén đường trắng.",
+    "1 chén nước."
+  ],
+  "intructions": [
+    "Bước 1: Trộn các nguyên liệu trong một chảo nước gồm: hương thảo khô + đường trắng + nước. Để nhỏ lửa đun sôi trong 30 phút, khuấy thường xuyên để hỗn hợp không bị vón cục.",
+    "Bước 2: Lọc hương thảo qua rây.",
+    "Bước 3: Cho 40ml syrup hương thảo vào ly, thêm đá và đổ đầy soda. Tủy thuộc vào sở thích của bạn để pha chế lượng soda và syrup.",
+    "Vậy là bạn đã hoàn thành xong soda Hương thảo (Rosemary) cực kì tốt cho sức khỏe, bạn có thể thêm vài lát chanh vào trong ly để nhấm nháp hương vị chua chua nữa nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e059091e158d93331a8c7e"
+  },
+  "type_drink": "Soda",
+  "title": "Công thức pha chế Soda cam",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/soda-cam.jpg",
+  "ingredient": [
+    "4 quả cam, rửa sạch và sấy khô.",
+    "Vỏ cam (từ 4 quả cam).",
+    "Soda.",
+    "Syrup đơn giản (tùy chọn)."
+  ],
+  "intructions": [
+    "Bước 1: Rửa và phơi khô cam, sau đó lấy vỏ từ bốn quả cam và đặt sang một bên.",
+    "Bước 2: Vắt nước cam (4 quả = khoảng 1 cốc)",
+    "Sau đó trộn nước cam với vỏ quả cam vào chung với nhau.",
+    "Bước 3: Lọc nước cam và nước sốt qua bộ lọc để loại bỏ những miếng lớn của vỏ, cặn và hạt",
+    "Bước 4: Để làm soda, trộn 1/3 cốc nước cam và 2/3 chén nước soda (thêm 2 muỗng canh sirô đơn giản, nếu muốn)."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e0595e1e158d93331a8c82"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cafe Pour over ngon",
+  "image": "https://bonjourcoffee.vn/blog/wp-content/uploads/2020/01/Pour-over-coffee.jpg",
+  "ingredient": [
+    "Cà phê specialty xay mịn vừa",
+    "Phễu V60 và giấy lọc",
+    "Cân tiểu ly",
+    "Bình đựng cà phê",
+    "Tách cà phê"
+  ],
+  "intructions": [
+    "Dùng nước sôi 90-96 độ tráng rửa giấy lọc, phin V60 để khử mùi giấy và làm nóng phễu.",
+    "Đặt bình đựng cà phê và phin V60 lên cân.",
+    "Cân 20g hạt cà phê, cho vào máy xay vừa, sau đó cho vào phễu V60.",
+    "Rót 60ml nước sôi 90-96 độ C vào phin lọc theo vòng tròn chiều kim đồng hồ. Ủ cà phê trong vòng 30 giây. Rót tiếp 240ml nước sôi còn lại vào phin. Rót chậm, liên tục và theo vòng tròn trong vòng 2 phút.",
+    "Sau 2:00 – 2:30, cà phê đã sẵn sàng để thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e0596d1e158d93331a8c84"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê Moka Pot ngon",
+  "image": "https://bonjourcoffee.vn/blog/wp-content/uploads/2020/01/Moka-Pot-ca-phe.jpg",
+  "ingredient": [
+    "Bột cà phê xay thô",
+    "Bình Moka",
+    "Cân tiểu ly",
+    "Tách cà phê"
+  ],
+  "intructions": [
+    "Rót 500ml nước vào bình đáy (mực nước nằm dưới van bình).",
+    "Lấy 25g bột cà phê vào chén lọc, đặt chén lọc vào bình đáy và vặn chặt thân bình vào đáy bình.",
+    "Đặt bình lên bếp, khi nước sôi có thể mở nắp để quan sát quá trình chiết xuất cà phê.",
+    "Khi nước cà phê từ bình bên dưới đi lên bắt đầu nhạt dần và bong bóng nổi lên thì lấy bình ra khỏi bếp.",
+    "Rót cà phê ra tách và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e059791e158d93331a8c86"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê Syphon ngon",
+  "image": "https://bonjourcoffee.vn/blog/wp-content/uploads/2020/01/Cach-pha-ca-phe-Syphon.jpg",
+  "ingredient": [
+    "Cà phê xay thô",
+    "Bình Syphon",
+    "Cân tiểu ly",
+    "Tách cà phê"
+  ],
+  "intructions": [
+    "Rót 250ml nước vào đáy bình (có thể rót nước nóng vào bình để quá trình xảy ra nhanh hơn).",
+    "Đặt màng lọc vào phễu lọc.",
+    "Nhẹ nhàng đặt bình lọc vào bình đáy, xiếc chặt và đặt bình Syphon lên giá đỡ.",
+    "Đốt đèn cồn và đợi đến khi nước bắt đầu sôi, nước sẽ từ từ đẩy lên bình lọc.",
+    "Khi bình lọc đã hút đầy nước, đổ 15g bột cà phê vào và khuấy nhẹ.",
+    "Ủ cà phê trong 60 giây.",
+    "Khuấy nhẹ và tắt lửa, cà phê từ từ rút xuống bình đáy.",
+    "Khi cà phê đã rút xuống hết bình đáy, nhẹ nhàng tháo bình lọc, rót cà phê ra tách và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e059891e158d93331a8c88"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê AeroPress ngon",
+  "image": "https://bonjourcoffee.vn/blog/wp-content/uploads/2020/01/cach-pha-ca-phe-AeroPress.jpg",
+  "ingredient": [
+    "Cà phê xay nhuyễn",
+    "Phin Aeropress",
+    "Cân tiểu ly",
+    "Tách cà phê"
+  ],
+  "intructions": [
+    "Đặt bi-tông vào thân phin.",
+    "Đặt phin AeroPress lật ngược lên cân.",
+    "Xay 18g cà phê cho vào thân phin.",
+    "Rót nhanh 270 ml sôi 92-96 độ C vào thân phin. Khuấy đều và giữ phin tránh bị đổ.",
+    "Ủ hỗn hợp nước và cà phê 30 giây. Khuấy đều, ủ tiếp 30 giây rồi khuấy tiếp.",
+    "Đặt giấy lọc vào phin và vặn chặt.",
+    "Lật ngược phin Aerapress, nhẹ nhàng đặt lên tách và và bắt đầu ấn để chiết xuất cà phê.",
+    "Cà phê sẽ sẵn sàng để thưởng thức sau khoảng 20-30 giây."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e059991e158d93331a8c8a"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cafe French Press ngon",
+  "image": "https://bonjourcoffee.vn/blog/wp-content/uploads/2020/01/French-Press.jpg",
+  "ingredient": [
+    "Bột cà phê xay vừa",
+    "Bình French Press",
+    "Cân tiểu ly",
+    "Tách cà phê"
+  ],
+  "intructions": [
+    "Rót nước sôi để ủ và làm nóng bình. Sau đó đổ bỏ nước và đặt bình lên cân.",
+    "Xay 30 gram cà phê bỏ vào phin lọc.",
+    "Rót 500 ml nước sôi ở nhiệt độ 90-94 độ C vào bình.",
+    "Khuấy đều hỗn hợp cà phê và nước sôi.",
+    "Ngâm hỗ hợp trong vòng 4 phút, sau đó khuấy nhẹ bề mặt của hỗn hợp. Sử dụng muỗng nhỏ để hớt bọt nổi trên mặt bình lọc",
+    "Đặt tấm lọc vào bình, nhẹ nhàng ấn tấm lọc, đẩy bột cà phê xuống đáy bình.",
+    "Lắng cặn và thưởng thức cà phê."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e059f11e158d93331a8c8d"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê phin ngon",
+  "image": "https://hotaircoffee.com/wp-content/uploads/2022/02/cach-pha-ca-phe-phin-ngon.jpg",
+  "ingredient": [
+    "25 gram bột cà phê pha phin",
+    "80 ml nước sôi",
+    "Dụng cụ: Phin cafe, ly đựng, cốc đo"
+  ],
+  "intructions": [
+    "Bước 1: Tráng phin pha cafe qua nước sôi và để khô ráo.",
+    "Bước 2: Đặt phin lên cốc và cho 25 gram bột cà phê vào phin",
+    "Bước 3: Rót chầm chậm tay khoảng 30ml nước sôi phủ hết bề mặt bột cafe",
+    "Bước 4: Chờ đợi trong khoảng 3 phút cho bột cafe hút hết nước và nở đều, bạn nén nắp gài lại rồi tiếp tục cho 50ml nước sôi còn lại và đậy nắp chờ.",
+    "Bước 5: Sau khoảng 1 phút, giọt cà phê đầu sẽ bắt đầu chảy ra. Bạn chờ đến khi cafe nhỏ gần hết thì ấn nắp gài để chiếc xuất hết phần còn lại. Vậy là bạn đã có được một ly cà phê phin ngon lành để nhâm nhi."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e059ff1e158d93331a8c8f"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê sữa đá ngon",
+  "image": "https://hotaircoffee.com/wp-content/uploads/2022/02/cach-pha-ca-phe-sua-ngon.jpg",
+  "ingredient": [
+    "40 ml sữa đặc",
+    "200 gram bột cà phê pha phin",
+    "460 ml nước sôi",
+    "Dụng cụ: phin pha cafe, muỗng cafe, ca đong, bình đựng, bình lắc và cây đánh bọt cafe"
+  ],
+  "intructions": [
+    "Bước 1: Pha cà phê phin như đã hướng dẫn ở trên",
+    "Bước 2: Dùng ca đong để lấy 50 ml cà phê đã pha cho vào bình lắc, sau đó dùng cây đánh bọt đánh đến khi nổi bọt mịn",
+    "Bước 3: Cho 40ml sữa đặc vào ly, sau đó cho đá vào nếu bạn muốn.",
+    "Bước 4: Đổ nhẹ hết phần cà phê loãng và cả phần bọt vào ly. Vậy là bạn đã có một ly cà phê sữa đá."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a0a1e158d93331a8c91"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê sữa tươi ngon",
+  "image": "https://hotaircoffee.com/wp-content/uploads/2022/02/cach-pha-ca-phe-sua-tuoi-ngon.jpg",
+  "ingredient": [
+    "2 thìa cafe bột cà phê rang xay",
+    "Nước sôi",
+    "1 phần sữa tươi không đường và 1 phần sữa đặc",
+    "1 thìa cafe bột ca cao",
+    "Đá viên",
+    "Dụng cụ: 2 ly đựng cà phê"
+  ],
+  "intructions": [
+    "Bước 1: Tráng phin pha cafe bằng nước sôi",
+    "Bước 2: Cho bột cà phê vào phin đã được đặt trên ly và dùng gạt nén bột cafe xuống. Sau đó tiếp tục cho 20-30 ml nước sôi vào phin. Đợi bột cafe nở đều, tiếp tục thêm 70-80ml nước sôi.",
+    "Bước 3: Cho sữa tươi vào ly còn lại kèm với một lượng sữa đặc, khuấy đều.",
+    "Bước 4: Cho hỗn hợp sữa vào cafe rồi khuấy đều. Thành quả là bạn đã có một ly cà phê sữa tươi béo ngọt. Có thể trang trí trên miệng ly bằng một ít bột cacao hoặc cho thêm đá, nếu thích."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a141e158d93331a8c93"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cafe Capuchino ngon",
+  "image": "https://hotaircoffee.com/wp-content/uploads/2022/02/cach-pha-ca-phe-capuchino-ngon.jpg",
+  "ingredient": [
+    "30ml cà phê Espresso – Bạn làm theo hướng dẫn như trên",
+    "100ml sữa tươi ít béo, không đường",
+    "2 thìa cà phê đường trắng",
+    "Bột cacao hoặc bột quế",
+    "Dụng cụ: Máy pha cà phê Capuchino, 1 ly cà phê, ca đánh sữa"
+  ],
+  "intructions": [
+    "Bước 1: Cho sữa, đường vào ca đánh sữa rồi dùng vòi đánh sữa nóng để tạo ra một lớp bọt sữa mịn và dày.",
+    "Bước 2: Ngâm ly trong nước sôi hoặc trên đầu máy pha để làm ấm (với các máy pha có hỗ trợ).",
+    "Bước 3: Rót cà phê Espresso vào tách rồi đổ từ từ bọt sữa lên trên. Trong quá trình này, bạn thực hiện tạo hình Latte Art nếu có thể.",
+    "Bước 4: Rắc lên phía chút bột cacao hoặc bột quế để tăng thêm hương vị. Như vậy, bạn đã có cho mình một ly Cappuccino chuẩn phong cách Ý!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a281e158d93331a8c95"
+  },
+  "type_drink": "Cafe",
+  "title": "Cách pha cà phê Mocha ngon",
+  "image": "https://hotaircoffee.com/wp-content/uploads/2022/02/cach-pha-ca-phe-mocha-ngon.jpg",
+  "ingredient": [
+    "25-30ml café Espresso",
+    "180ml sữa tươi tiệt trùng",
+    "15ml Sauce Chocolate",
+    "Bột Cacao",
+    "Dụng cụ: Máy pha Espresso có vòi đánh sữa, ca đánh sữa và 1 ca đong ml"
+  ],
+  "intructions": [
+    "Bước 1: Làm nóng cốc sứ bằng cách cho nước sôi rồi rót sauce chocolate vào đáy cốc.",
+    "Bước 2: Chiết xuất 1 shot espresso single vào trong cốc sứ.",
+    "Bước 3: Lấy sữa vào ca đánh sữa và đánh nóng sữa tươi tạo bọt mỏng như bọt latte trong thời gian café chảy vào cốc",
+    "Bước 4: Rắc bột cacao phủ đều khắp bề mặt lớp creama của café. Sau đó đổ sữa từ từ vào café, có thể tạo Art tùy thích."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a361e158d93331a8c97"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Cách làm sữa chua bằng sữa đặc ông thọ",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/10-cach-lam-sua-chua-thom-ngon-deo-min-don-gian-tai-nha-202112091229597684.jpg",
+  "ingredient": [
+    "45 ml Vodka.15 ml",
+    "Galliano L'Autentico",
+    "120 ml nước cam vắt."
+  ],
+  "intructions": [
+    "Bước 1 Pha sữa đặc",
+    "Cho vào tô 1 lon sữa đặc ông thọ, sau đó dùng lon sữa ông thọ đong 1 lon nước sôi cho vào tô sữa và khuấy tan hỗn hợp. Tiếp tục cho thêm nước sôi để nguội vào hỗn hợp sữa rồi khuấy tan đều.",
+    "Bước 2 Pha hỗn hợp với sữa chua",
+    "Lấy 1 hộp sữa chua cho vào tô sữa đặc pha loãng, rồi dùng rây lọc qua hỗn hợp sữa cho mịn mượt.",
+    "Lưu ý: Trước khi cho sữa chua vào, bạn cần đảm bảo phần sữa đặc không quá nóng (khoảng 32 - 40 độ C) để tránh làm men sẽ chết và không thể ủ thành công nhé.",
+    "Bước 3 Ủ sữa chua",
+    "Cho hỗn hợp sữa pha vào 1 cái ca lớn, sau đó rót từ từ hỗn hợp vào hũ đựng sữa chua rồi đậy kín nắp hũ, hoặc túi nilon. Lần lượt cho các hũ sữa chua vào nồi, cho tiếp nước ấm khoảng 50 độ C vào ngập 2/3 hũ sữa chua, đậy nắp kín lại rồi phủ lên lớp khăn, ủ ở nhiệt độ phòng khoảng 5 - 8 tiếng cho sữa chua lên men.",
+    "Bước 4 Thành phẩm",
+    "Sữa chua được pha bằng sữa đặc ông thọ vô cùng thơm dẻo, sánh mịn, mát lạnh vô cùng. Ủ sữa chua đủ thời gian, bạn có thể cho sữa chua vào ngăn đông tủ lạnh nếu thích ăn cứng, hoặc ngăn mát tủ lạnh nếu thích ăn dẻo bạn nha."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a4c1e158d93331a8c99"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Cách làm sữa chua uống sánh mịn",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/10-cach-lam-sua-chua-thom-ngon-deo-min-don-gian-tai-nha-202112091231213984.jpg",
+  "ingredient": [
+    "500ml sữa tươi có đường",
+    "1/2 lon sữa đặc",
+    "1000ml nước",
+    "2 hộp sữa chua"
+  ],
+  "intructions": [
+    "Bước 1 Làm hỗn hợp sữa",
+    "Đầu tiên cho sữa đặc vào nước sôi, khuấy đều. Sau đó, thêm sữa tươi vào và đun đến sữa bốc khói, khoảng 70 - 80 °C thì tắt bếp, để nguội khoảng 30 phút.",
+    "Lưu ý: Nếu muốn ngọt hơn, bạn có thể cho thêm một chút sữa đặc hoặc đường trong lúc đun sữa.",
+    "Bước 2 Chuẩn bị sữa cái",
+    "Sau khi để nguội hỗn hợp sữa đến khoảng 40 - 45 °C, pha sữa chua cái vào hỗn hợp sữa bằng cách khuấy nhẹ nhàng theo một chiều đề sữa không bị vón cục.",
+    "Mẹo hay: Có thể dùng rây lọc hỗn hợp sữa chua để loại bỏ các cục vón cho thành phẩm sữa chua uống mịn và sánh.",
+    "Bước 3 Ủ sữa chua uống",
+    "Chia hỗn hợp sữa chua vào các lọ đựng, hoặc để cả khay và đem ủ ở nhiệt độ khoảng 40 °C trong 7 - 8 tiếng",
+    "Bước 4 Thành phẩm",
+    "Sau khi ủ bạn sẽ có được sữa chua uống có vị chua nhẹ, khá lỏng, sánh nhưng ít đặc hơn sữa chua để ăn thông thường.",
+    "Nếu không thích ăn ngọt, bạn có thể tham khảo cách làm sữa chua không đường bằng cách thay sữa tươi bằng loại không đường nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a5d1e158d93331a8c9b"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Cách làm sữa chua ngon bằng sữa tươi ngon",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211546251914.jpg",
+  "ingredient": [
+    "1 lít sữa tươi",
+    "1 hộp sữa đặc",
+    "2 hộp sữa chua",
+    "2 lít nước"
+  ],
+  "intructions": [
+    "Bước 1 Pha hỗn hợp sữa",
+    "Cho 2 lít nước vào nồi đun đến khi nước sôi rồi tắt bếp, sau đó cho vào 1 hộp sữa đặc và 1 lít sữa tươi.",
+    "Đợi đến khi nước nguội bớt còn ấm ấm thì cho 2 hộp sữa chua vào, sữa chua khi cho vào lúc này phải ở nhiệt độ thường, không được lạnh.",
+    "Không nên cho sữa chua vào khi nước vẫn còn nóng, vì nước nóng sẽ làm chết men sữa chua ở bước sau.",
+    "Trong quá trình cho sữa đặc, sữa tươi và sữa chua vào phải khuấy đều liên tục để hỗn hợp hòa tan.",
+    "Bước 2: Ủ sữa chua",
+    "Khi đã hỗn hợp đã hòa tan thì cho hỗn hợp sữa chua vào chai hoặc lọ nhỏ rồi mang đi ủ để sữa lên men. Hoặc có thể để hỗn hợp trong nồi rồi dùng màng bọc thực phẩm bọc kín lại, tiếp theo dùng khăn quấn quanh nồi để ủ.",
+    "Bạn có thể ủ sữa trong nồi cơm điện ở nhiệt độ ấm, hoặc cho vào thùng xốp rồi đổ nước nóng vừa đun sôi vào đến miệng chai sữa chua, đậy nắp rồi để qua đêm.",
+    "Thời gian ủ khoảng 5 - 8 tiếng tùy bạn thích sữa chua ít hay nhiều (trong lúc ủ tránh va chạm vào hộp ủ).",
+    "Bước 3 Thành phẩm",
+    "Vậy là chúng ta đã cho ra lò được một mẻ sữa chua uống thơm ngon và sánh mịn rồi. Bạn có thể kết hợp cùng với các loại siro và sinh tố trái cây mà mình yêu thích để tạo thêm hương vị thơm ngon mới lạ cho sữa chua nữa đó.",
+    "Ngoài ra, bạn còn có thể biến tấu món sữa chua của mình thành món sinh tố dưa hấu sữa chua hoặc xoài dầm sữa chua thơm ngon nữa."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a711e158d93331a8c9d"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Cách làm sữa chua trân châu trái cây tươi ngọt mát",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211545072625.jpg",
+  "ingredient": [
+    "100gr bột năng",
+    "Nửa trái thanh long ruột đỏ",
+    "40ml nước",
+    "Trái cây (xoài, kiwi, bơ, mít, dâu...)",
+    "2 hộp sữa chua không đường",
+    "Đường",
+    "Nước cốt 1/2 quả chanh, vài lát chanh cắt mỏng"
+  ],
+  "intructions": [
+    "Bước 1 Sơ chế trái cây",
+    "Xắt nhỏ trái cây. Cho vào tủ lạnh cho mát",
+    "Bước 2 Trộn sữa chua",
+    "Cho sữa chua, 1 muỗi canh đường, nước cốt chanh và vài lát chanh mỏng vào trộn đều",
+    "Bước 3 Chế biến thanh long",
+    "Xay thanh long đỏ thật nhuyễn. Đổ ra chén chưng cách thủy đến khi nóng già",
+    "Bước 4 Làm trân châu",
+    "Nhào bột năng với nước thanh long nóng già cho dẻo mịn. Vo thành viên nhỏ",
+    "Lưu ý: Bạn cũng có thể làm thêm những viên trân châu màu khác tương tự cách này nhé.",
+    "Bước 5 Luộc trân châu",
+    "Bắc nước sôi cho viên trân châu vào luộc với lửa vừa. Khi trân châu nổi lên, hạ thấp lửa luộc thêm 5 - 7 phút nữa rồi tắt bếp",
+    "Bước 6 Trộn đường trân châu",
+    "Vớt trân châu cho vào tô nước lạnh. Sau đó vớt ra, cho 2 muỗng canh đường vào trộn đều",
+    "Bước 7 Thành phẩm",
+    "Đây không chỉ là một món ăn bắt mắt mà còn giàu Vitamin rất tốt cho sức khỏe, đặc biệt là trong mùa hè nóng bức này. Hãy làm cho gia đình mình thưởng thức nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a841e158d93331a8c9f"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Cách làm sữa chua vải hoa đậu biếc",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211544155081.png",
+  "ingredient": [
+    "100gr bột báng",
+    "800gr vải thiều",
+    "115gr đường",
+    "400ml sữa chua",
+    "100ml sữa tươi",
+    "2 muỗng canh hoa đậu biếc khô"
+  ],
+  "intructions": [
+    "Bước 1 Ngâm bột báng",
+    "Ngâm bột báng với nước trong 15 phút cho nở, vớt ra để ráo",
+    "Bước 2 Nấu bột báng",
+    "Cho 1 muỗng canh đường, 1 muỗng canh hoa đậu biếc nấu với nước. Sau đó cho bột báng vào nấu cùng",
+    "Bước 3 Ngâm bột báng",
+    "Luộc chín bột báng rồi vớt ra, ngâm vào nước lạnh. Vớt bỏ hoa đậu biếc. Vớt bột báng ra, để ráo nước",
+    "Bước 4 Sơ chế vải",
+    "Lột vỏ, lấy hạt vải sao cho phần thịt vải vẫn còn giữ hình dáng",
+    "Bước 5 Nấu nước đậu biếc",
+    "Nấu 200ml nước với phần đường còn lại và 1 muỗng canh hoa đậu biếc. Khi đường tan hết, cho vải vào rim sơ 3-5 phút.",
+    "Bước 6 Làm sữa chua",
+    "Khuấy đều sữa tươi, sữa chua và nước rim vải.",
+    "Bước 7 Tạo hình trái vải",
+    "Cho bột báng vào trong từng quả vải, xếp vải vào ly",
+    "Bước 8 Hoàn thành món ăn",
+    "Cho phần hỗn hợp sữa chua vào ly. Có thể để sữa vào tủ lạnh trước rồi mới cho vào thì món ăn sẽ ngon hơn nhiều",
+    "Bước 9 Thành phẩm",
+    "Món ăn này không làm bạn mất quá nhiều thời gian và công sức nhưng vẫn đảm bảo thơm ngon, bắt mắt và vô cùng độc đáo. Hãy làm ngay cho gia đình mình thưởng thức nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05a931e158d93331a8ca1"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Công thức làm sữa chua nha đam thanh mát",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211543292867.jpg",
+  "ingredient": [
+    "1 hũ sữa chua Vinamilk không đường",
+    "2 bịch sữa tươi không đường",
+    "100ml sữa đặc",
+    "1 nhánh nha đam",
+    "Hũ đựng sữa chua"
+  ],
+  "intructions": [
+    "Bước 1 Sơ chế nha đam",
+    "Nha đam gọt bỏ vỏ xanh, lấy phần trắng rửa sạch qua nước nhiều lần.",
+    "Cho muối và nước vào tô, bỏ nha đam vào ngâm, vắt nửa quả chanh vào. Để khoảng 5 phút cho nha đam hết chất nhờn. Cắt nhỏ nha đam thành hạt lựu rồi xả nha đam lại qua nước lạnh nhiều lần.",
+    "Cho nồi nước lên bếp, đun sôi, bỏ nha đam vào nấu khoảng 1 phút cho nha đam bớt nhớt và đắng. Sau đó vớt ra và xả lại nước lạnh, để ráo.",
+    "Bước 2 Làm sữa chua nha đam",
+    "Cho 100ml sữa đặc, 2 bịch sữa tươi không đường vào chung 1 nồi, khuấy đều. Đem đun hỗn hợp sữa chua độ ấm khoảng 6-7%. Lưu ý không đun cho sữa sôi.",
+    "Sữa nấu xong để nguội rồi cho nha đam và sữa chua không đường Vinamilk vào, khuấy đều.",
+    "Bỏ hũ đựng sữa chua vào trong 1 cái xửng hoặc nồi có nắp đậy. Múc sữa chua vào trong hũ. Dùng tăm khuấy đều sữa chua trong hũ, đậy nặp lại. Có thể tận dụng lại hũ sữa chua Vinamilk để đựng.",
+    "Đổ nước ấm vào nồi sao cho ngập 1/3 hũ sữa chua (Có thể pha nước ấm theo công thức 1 phần nước nóng và 1 phần nước lạnh). Đậy nắp nồi lại và ủ trong khoảng 8-12 tiếng.",
+    "Sau đó đem bỏ vào ngăn đá tủ lạnh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05aa11e158d93331a8ca3"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Công thức làm sữa chua nếp cẩm đơn giản tại nhà",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211547447825.jpg",
+  "ingredient": [
+    "200gr gạo nếp cẩm",
+    "600ml nước",
+    "1 ít muối",
+    "100gr đường phèn",
+    "1 hộp sữa chua tự làm hoặc mua",
+    "Lá dứa",
+    "Nước cốt dừa"
+  ],
+  "intructions": [
+    "Bước 1 Ngâm gạo nếp cẩm",
+    "Vo sạch nếp cẩm, ngâm với nước ấm qua đêm hoặc vài tiếng trước khi làm rồi xả sạch với nước lạnh.",
+    "Bước 2 Nấu nước lá dứa",
+    "Cho nếp cẩm, muối, nước, lá dứa vào nồi rồi nấu lên với lửa ở mức vừa phải.",
+    "Bước 3 Nấu nếp",
+    "Khi nước gần cạn, nếp đã chín hãy cho thêm nước cốt dừa vào rồi nấu tiếp 15 phút. Cuối cùng bạn cho đường vào, nấu tiếp với lửa nhỏ khoảng 10 phút. Khi thấy nước đường sánh lại, hạt nếp bóng mượt, hơi nhão thì tắt bếp.",
+    "Bước 4 Thành phẩm",
+    "Khi ăn bạn trộn đều sữa chua cùng với nếp cẩm và thưởng thức. Với cách làm sữa chua nếp cẩm vừa đơn giản lại ít tốn kém này bạn đã có được món giải nhiệt vô cùng hấp dẫn. Chúc các bạn thành công với công thức đơn giản trên nhé!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05ab21e158d93331a8ca5"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Công thức làm sữa chua dẻo mịn, mát lạnh ngay tại nhà",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211549265426.jpg",
+  "ingredient": [
+    "220ml sữa tươi",
+    "1 hũ sữa chua",
+    "Sữa đặc",
+    "20gr bột gelatin"
+  ],
+  "intructions": [
+    "Bước 1 Cho gelatin vào nước",
+    "Cho từ từ nước vào bột gelatin, khuấy đều tay và để ngâm 15 phút cho gelatin nở ra.",
+    "Bước 2 Trộn hỗn hợp sữa",
+    "Cho 1 thìa canh sữa đặc vào tô lớn, tiếp theo cho 220ml sữa tươi và 1 ít nước ấm vào (thêm hoặc bớt lượng sữa cho vừa khẩu vị ) và khuấy đều tay cho hỗn hợp hòa quyện thì cho hỗn hợp vào nồi.",
+    "Bước 3 Cho gelatin và sữa chua vào",
+    "Đặt nồi hỗn hợp sữa lên bếp đun lửa nhỏ và khuấy đều tay đến khi sữa trong nồi sôi lăn tăn thì tắt bếp, để nguội.",
+    "Khi sữa đã nguội dần còn khoảng 60-70 độ thì bạn lần lượt cho gelatin và sữa chua vào kết hợp khuấy đều tay cho hòa tan hỗn hợp. Tiếp đến, bạn lọc hỗn hợp qua rây cho mịn.",
+    "Bước 4 Ủ sữa chua",
+    "Đổ hỗn hợp vào khay có nắp, xếp khay vào nồi, cho nước ấm vào 2/3 khay và đậy nắp.",
+    "Tiến hành ủ trong vòng 8 tiếng cho lên men (bạn có thể cho khay hỗn hợp sữa vào tủ lạnh là có thể sử dụng được rồi, nhưng khi ủ sẽ giúp cho món sữa chua dẻo trở nên ngon hơn rất nhiều).",
+    "Sau 8 tiếng, bạn cho khay vào tủ lạnh tầm 3-4 tiếng là hoàn thành món sữa chua dẻo rồi đấy.",
+    "Bước 5 Thành phẩm",
+    "Sữa chua dẻo có vị chua ngọt hòa quyện cùng sự béo ngậy của sữa trở thành món ăn rất tốt cho sức khỏe cũng như làm đẹp."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05ac71e158d93331a8ca7"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Công thức làm sữa chua trân châu Hạ Long ngon chuẩn như ngoài tiệm",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211550277475.png",
+  "ingredient": [
+    "Phần sữa chua",
+    "1 lít sữa tươi",
+    "1 lon sữa đặc",
+    "1 hộp sữa chua men cái",
+    "Dụng cụ: vá, nồi, hũ đựng sữa chua, thùng xốp",
+    "Phần trân châu",
+    "100 gram bột năng",
+    "5 gram bột rau câu giòn",
+    "20 gram đường cát",
+    "60 ml nước sôi",
+    "Dụng cụ: tô, thau nhỏ và nồi",
+    "Nước cốt dừa",
+    "400 gram dừa nạo",
+    "250 ml nước ấm",
+    "Bột năng",
+    "Muối",
+    "Dụng cụ: máy xay sinh tố, vải mùng, nồi..."
+  ],
+  "intructions": [
+    "Bước 1 Làm sữa chua thơm ngon, dẻo mịn",
+    "Bạn hãy cho sữa tươi và sữa đặc vào nồi.",
+    "Dùng vá khuấy đều cho các nguyên liệu hòa tan rồi đặt lên bếp, đun lửa vừa đến khi sữa bốc khói thì tắt bếp. Lưu ý không nấu sôi sữa vì sẽ làm thất thoát chất dinh dưỡng.",
+    "Tiếp theo, bạn để nguội sữa chua, sau đó cho sữa chua làm men cái vào hỗn hợp và khuấy đều cho sữa chua tan hoàn toàn. Lưu ý bạn nên bảo quản sữa chua làm men cái ở nhiệt độ phòng để hòa tan dễ dàng hơn nhé.",
+    "Cho hỗn hợp sữa chua đã được hòa tan vào từng hũ thủy tinh nhỏ, đậy kín nắp",
+    "Đặt những hũ thủy tinh vào trong thùng xốp đã chuẩn bị nước ấm khoảng 40 độ C ngập 2/3 hũ sữa chua là được.",
+    "Cuối cùng, bạn đậy kín nắp thùng xốp và ủ sữa chua lên men khoảng từ 6 – 8 tiếng là có thể sử dụng.",
+    "Bước 2 Làm trân châu trắng hấp dẫn",
+    "Bạn hãy trộn đều bột năng, bột rau câu giòn và đường lại với nhau. Sau đó vừa rót nước sôi, vừa dùng đũa khuấy đều.",
+    "Tiếp theo, bạn cho bột nguội một chút rồi tiến hàng nhào bằng tay để bột dẻo mịn. Sau đó sử dụng màng bọc thực phẩm bọc kín để bột nghỉ 20 phút.",
+    "Nhào bột thành những sợi dài, nhỏ và có kích thước bằng đầu đũa. Sau đó bạn sử dụng dao để cắt bột thành từng viên bột nhỏ vừa ăn.",
+    "Bắc sôi nồi nước, cho trân châu vào luộc trong khoảng 20 phút với lửa vừa. Sau đó, bạn tắt bếp, lấy nắp đậy kín và tiếp tục ủ thêm 15 phút cho trân châu được nở đều.",
+    "Cuối cùng, bạn vớt trân châu ra thau nhỏ, xả qua nước lạnh nhiều lần rồi cho vào một cái tô nhỏ. Bạn hãy thêm nước đường vào để tạo độ ngọt và giúp bảo quản trân châu được dẻo dai, thơm ngon trong suốt 24 tiếng đồng hồ.",
+    "Bước 3 Làm nước cốt dừa đậm vị",
+    "Bạn cho cơm dừa vào máy xay sinh tố, thêm nước ấm và xay nhuyễn. Sau đó lấy vải mùng, vắt nước cốt.",
+    "Cho nước cốt dừa vào nồi, nêm một tí muối để tăng độ đậm đà cho nước cốt rồi mở lửa nấu sôi.",
+    "Bạn hoà tan 2 muỗng canh bột năng với ít nước rồi vừa rót hỗn hợp vào nước cốt dừa, vừa khuấy đều cho hỗn hợp bắt đầu sánh lại thì tắt bếp.",
+    "Cuối cùng, bạn hãy cho trân châu trắng đã chuẩn bị vào hỗn hợp nước cốt dừa, tiếp tục ủ thêm 3 – 5 phút là có thể sử dụng.",
+    "Bước 4 Hoàn thành sữa chua trân châu Hạ Long",
+    "Bạn cho ít đá bào vào 1 ly thủy tinh.",
+    "Sau đó, bạn lần lượt cho 100 gram sữa chua, 60 gram trân châu trắng và rưới một chút nước cốt dừa lên trên.",
+    "Bạn có thể rắc một ít đậu phộng rang hoặc dừa sấy để tăng thêm hảo vị và độ bắt mắt cho món tráng miệng này nhé.",
+    "Bước 5 Thành phẩm",
+    "Hương vị của món sữa chua trân châu Hạ Long này thật sự rất khó quên. Vị chua lên men của sữa kết hợp cùng độ dẻo giòn của trân châu trắng, nó tạo một làn dư vị mới đậm đà khi bạn ăn kèm cả hai cùng một lúc. Không thể không quên nước cốt dừa - thứ đã làm nên sự bứt phá trong mùi vị đã làm nên thương hiệu của món ăn này đối với mọi người."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05ad81e158d93331a8ca9"
+  },
+  "type_drink": "Sữa chua",
+  "title": "Công thức làm sữa chua hoa quả thơm ngon, thấm vị và không bị lỏng",
+  "image": "https://cdn.tgdd.vn/Files/2019/08/28/1192582/da-sang-dang-xin-voi-cong-thuc-lam-sua-chua-uong-tu-sua-tuoi-cuc-de-tai-nha-202106211551117784.jpg",
+  "ingredient": [
+    "500ml sữa chua có đường",
+    "200g trái cây tùy chọn (xoài, dâu, mận, mơ, táo, kiwi, đu đủ, thanh long, mít,...)",
+    "1 muỗng canh đường",
+    "20ml nước",
+    "4g gelatin dạng lá (có thể mua ở các siêu thị lớn như Big C, Vinmart,... hoặc tiệm bán nguyên liệu làm bánh)"
+  ],
+  "intructions": [
+    "Bước 1 Sơ chế nguyên liệu",
+    "Gọt vỏ các loại trái cây sau đó cắt thành miếng nhỏ, cho vào nồi lớn cùng với 20ml nước và 1 muỗng canh đường, trộn đều và để khoảng 1 giờ cho thấm đường.",
+    "Bước 2 Sơ chế gelatin",
+    "Ngâm lá gelatin trong nước lạnh cho nở.",
+    "Bước 3 Làm sữa chua hoa quả",
+    "Sau khi đã ngâm được 1 tiếng, cho nồi trái cây lên bếp đun với lửa vừa cho đến khi sôi thì giảm lửa nhỏ, đun cho đến khi thấy trái cây hơi mềm nhưng không bị nát, nước trong nồi rút bớt thì bạn vắt lá gelatin cho ráo nước rồi cho vào nồi, khuấy cho gelatin tan hết thì tắt bếp, để nguội bớt.",
+    "Kế đến, cho 500ml sữa chua vào một cái thau lớn, đổ hỗn hợp trái cây đã để nguội bớt vào, trộn đều và múc sữa chua vào từng hũ thủy tinh nhỏ rồi cho vào tủ lạnh để 3-4 tiếng là có thể dùng được.",
+    "Bước 4 Thành phẩm",
+    "Sữa chua làm bằng cách này có độ béo mịn, trái cây và sữa chua hòa quyện lẫn nhau chứ không bị lỏng"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05ae91e158d93331a8cab"
+  },
+  "type_drink": "Đá xay",
+  "title": "Hướng dẫn cách pha chế xoài dừa đá xay",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2017/09/xoai-dua-da-xay.jpg",
+  "ingredient": [
+    "300 ml nước cốt dừa.",
+    "1 trái xoài chín.",
+    "50 gram sữa đặc.",
+    "30 ml sữa tươi không đường.",
+    "1 trái chanh dây.",
+    "40 gram đường cát trắng.",
+    "Một ít muối.",
+    "100 ml nước lọc.",
+    "600 gram nước đá.",
+    "Dụng cụ: dao, thớt, máy xay sinh tố, rây lọc, nồi, bếp."
+  ],
+  "intructions": [
+    "Bước 1: Chanh dây cắt đôi rồi dùng rây lọc lấy 50 ml nước cốt. Xoài mua về rửa sạch, dùng dao gọt vỏ và cắt lấy thịt, bỏ hạt. Sau đó, cắt hạt lựu nhỏ ¼ thịt xoài phần còn lại cho vào máy xay nhuyễn.",
+    "Bước 2: Sau khi đã xay nhuyễn phần thịt xoài, bạn nên dùng rây lọc lại để loại bỏ phần bã xoài còn lợn cợn. Đổ phần xoài đã lọc vào nồi, cho thêm nước cốt chanh dây, 40 gram đường cát trắng, một ít muối và 100 ml nước lọc vào cùng.",
+    "Bước 3: Bắt nồi hỗn hợp lên bếp và bật lửa đun đến khi sôi thì hạ lựa nhỏ, đun khoảng 10 phút đến khi xoài chín, vàng đều và sên lại. Cho phần xoài đã cắt lạt lựu vào, nấu tiếp 2 phút và tắt bếp, để nguội cho vào tủ lạnh bảo quản chờ sử dụng.",
+    "Bước 4: Trong máy xay sinh tố, cho các nguyên liệu như: 300 ml nước cốt dừa, 50 ml sữa đặc, 30 ml sữa tươi không đường và 600 gram sauce xoài đã nấu vào. Đậy kín nắp và xay cho đến khi nhuyễn mịn.",
+    "Sau khi pha chế đồ uống đá xay này xong lưu ý nên dùng ngay, tránh để đá tan sẽ làm mất đi hương vị thơm ngon vốn có. Lúc thưởng thức hãy đổ nước dừa đá xay ra ly, cho một ít xoài được cắt hạt lựu và rưới thêm nước sốt xoài lên trên để thức uống thêm phần hấp dẫn."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05af71e158d93331a8cad"
+  },
+  "type_drink": "Đá xay",
+  "title": "Cách làm cookie đá xay",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2021/04/cookie-da-xay.jpg",
+  "ingredient": [
+    "Kem tươi",
+    "600ml kem lỏng",
+    "350ml kem đặc",
+    "40ml vanilla syrup",
+    "Cookie Ice Blended",
+    "100ml sữa tươi",
+    "20g bột vanilla",
+    "100g kem vanilla",
+    "4 bánh oreo",
+    "Đá viênDụng cụ: máy xay sinh tố, bình xịt kem tươi…"
+  ],
+  "intructions": [
+    "Làm kem tươi",
+    "Chuẩn bị một bình thủy tinh cao có mỏ, cho lần lượt cho các nguyên liệu bao gồm 600ml kem lỏng, 350ml kem đặc, 40ml vanilla syrup vào. Trộn đều hỗn hợp.",
+    "Rót hỗn hợp vừa pha vào trong bình xịt kem bằng gas, vặn nắp bình lại và gắn thêm 2 viên gas ISI. Lắc đều hỗn hợp trong 60 giây.",
+    "Làm Cookie Ice Blended",
+    "Vệ sinh máy xay sinh tố sạch sẽ, cho lần lượt 100ml sữa tươi, 20g bột vanilla, 100g kem vanilla, 4 bánh oreo và 1/2 ly đá viên vào.",
+    "Nhấn nút đảo để trộn đều hỗn hợp, sau đó chuyển qua nút xay và xay đến khi cookie nhuyễn mịn, hơi sánh lại là được.",
+    "Cho nguyên liệu lỏng vào trước, nguyên liệu bột, dẻo cho vào sau",
+    "Thành phẩm",
+    "Rót cookie đá xay ra ly, dùng bình xịt kem vẽ bông kem tươi tròn đều theo hình xoắn ốc lên bề mặt. Trang trí bằng một chiếc bánh oreo hoặc rắc thêm một chút bột ca cao để thức uống thêm sinh động và hấp dẫn hơn."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b061e158d93331a8caf"
+  },
+  "type_drink": "Đá xay",
+  "title": "Cách Làm Matcha Đá Xay Ngọt Béo, Mát Lạnh",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2020/05/cach-lam-matcha-da-xay.jpg",
+  "ingredient": [
+    "Nguyên Liệu Làm Kem Tươi",
+    "600ml kem lỏng",
+    "350ml kem đặc",
+    "40ml vanilla syrup",
+    "Nguyên Liệu Làm Matcha Ice Blended",
+    "100ml sữa tươi",
+    "20gr bột vanilla",
+    "10ml matcha syrup",
+    "10gr bột matcha",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Làm Kem Tươi",
+    "Trong chiếc bình thủy tinh có miệng lần lượt cho các nguyên liệu bao gồm kem lỏng, kem đặc, vanilla syrup vào. Trộn đều hỗn hợp.",
+    "Rót hỗn hợp vừa pha vào trong bình làm kem, vặn nắp bình lại và gắn thêm 2 viên gas ISI. Lắc đều hỗn hợp là được phần kem tươi thơm ngon, có thể đặt vào tủ lạnh bảo quản nếu chưa dùng ngay.",
+    "Làm Trà Xanh Đá Xay",
+    "Cho tất cả nguyên liệu đã chuẩn bị gồm: sữa tươi, bột vanilla, matcha syrup, bột matcha và đá viên theo định lượng vào máy xay chuyên dùng trong pha chế.",
+    "Đậy kín nắp máy, điều chỉnh chế độ nhồi đá sau đó chuyển sang xay nhuyễn.",
+    "Sau khi xay xong, bạn đổ hỗn hợp vào ly, dùng bình xịt kem xịt kem lên trên là đã hoàn thành và có thể thưởng thức. Nếu thích, bạn có thể rắc bột trà xanh lên bề mặt để trang trí.",
+    "Ly trà xanh đá xay đúng chuẩn có vị ngọt, chua dịu và béo vừa phải không quá ngậy, mùi trà xanh thoang thoảng. Món này nên uống ngay sau khi làm xong, tránh để lâu nước sẽ bị tách lóp nhìn không ngon. Nếu không uống được quá đắng, bạn nên bớt bột trà xanh, thêm sữa tươi vào cũng rất ngon.",
+    "Lưu Ý Khi Làm Matcha Đá Xay",
+    "Bột trà xanh nên chọn loại bột nguyên chất của Nhật thì độ tan trong dung dịch sẽ tốt hơn, mùi vị cũng thơm ngon hơn.",
+    "Việc xác định thời gian xay rất quan trọng, quá ngắn dẫn đến đá chưa nhuyễn, quá lâu dẫn đến đá nhanh tan, ly Matcha Ice Blended quá đặc hoặc quá lỏng. Thông thường, thời gian lí tưởng nhất là trong khoảng 20 – 30 giây."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b171e158d93331a8cb1"
+  },
+  "type_drink": "Đá xay",
+  "title": "Cách Làm Việt Quất Đá Xay Đơn Giản",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2016/10/viet-quat-da-xay.jpg",
+  "ingredient": [
+    "Nguyên Liệu Làm Kem tươi",
+    "600ml kem lỏng",
+    "350ml kem đặc",
+    "40ml vanilla syrup",
+    "Nguyên Liệu Làm Việt Quất Đá Xay",
+    "60ml xốt blueberry (việt quất)",
+    "30ml đường cát trắng",
+    "30ml sữa béo",
+    "30ml sữa tươi",
+    "1 ly đá viên nhỏ",
+    "Dụng cụ cần dùng: máy xay sinh tố, ly định lượng, ly thủy tinh, bình xịt kem, 2 viên gas ISI, bình thủy tinh có vòi…"
+  ],
+  "intructions": [
+    "Làm Kem Tươi",
+    "Bước 1: Trong chiếc bình thủy tinh có mỏ lần lượt cho các nguyên liệu bao gồm kem lỏng, kem đặc, vanilla syrup vào, trộn đều hỗn hợp.",
+    "Bước 2: Rót hỗn hợp vừa pha vào trong bình làm kem, vặn nắp bình lại và gắn thêm 2 viên gas ISI, lắc đều hỗn hợp. Sau đó, bạn đặt bình kem vào ngăn mát tủ lạnh đợi đến khi sử dụng.",
+    "Cách Làm Việt Quất Đá Xay",
+    "Bước 1: Lần lượt cho tất cả nguyên liệu pha chế vào máy xay sinh tố theo tỉ lệ: 60ml xốt blueberry, 30ml đường, 30ml sữa béo, 30ml sữa tươi và 1 ly đá viên nhỏ.",
+    "Bước 2: Điều chỉnh máy hoạt động ở tốc độ trung bình, xay đều đến khi hỗn hợp nguyên liệu nhuyễn mịn và hòa quyện với nhau.",
+    "Bước 3: Đổ hỗn hợp việt quất đá xay vào ly thủy tinh cao, lấy bình kem tươi từ tủ lạnh lắc nhẹ vài cái rồi xịt một lớp kem tươi lên bề mặt thức uống. Cuối cùng, bạn rưới một ít nước xốt việt quất lên trên cùng, trang trí với vài quả việt quất tươi nếu có và lá bạc hà cho đẹp mắt và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b261e158d93331a8cb3"
+  },
+  "type_drink": "Đá xay",
+  "title": "Hướng dẫn cách làm Cinnamon Chocolate Ice Blended",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/hinh-anh-cinnamon-chocolate-ice-blended.jpg",
+  "ingredient": [
+    "Siro hương quế : 15 ml",
+    "Bột Bellagio Sipping Chocolate: 20 gram",
+    "Siro đường: 5 – 10 ml (tùy khẩu vị)",
+    "Sữa tươi không đường: 70 ml",
+    "Cà phê Espresso (hoặc cà phê hòa tan): 30 ml",
+    "Sữa béo: 30 ml",
+    "Một chút bột quế",
+    "Đá viên",
+    "Dụng cụ pha chế Cinnamon Chocolate Ice Blended: máy xay sinh tố, ly định lượng nguyên liệu, ly thủy tinh"
+  ],
+  "intructions": [
+    "Bước 1: Cho lần lượt các nguyên liệu kèm theo định lượng như sau vào máy xay sinh tố: 30 ml cà phê Espresso (hoặc cà phê hòa tan, 70 ml sữa tươi không đường, 30 ml sữa béo, 15 ml siro hương quế, 20 gram bột Bellagio Sipping Chocolate, 5 – 10 ml siro đường và đá viên. Bạn nên sử dụng cà phê Espresso để thức uống được ngon và chất lượng hơn.",
+    "Bước 2: Bật máy xay hỗn hợp ở chế độ vừa, đến khi hỗn hợp sánh mịn thì tắt máy. Để tránh thức uống bị tách nước, bạn nên đầu tư một chiếc máy xay có công suất lớn.",
+    "Bước 3: Rót Cinnamon Chocolate Ice Blended ra ly, dùng bình xịt kem tươi xịt lên trên, rắc thêm bột quế lên trên nếu thích."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b341e158d93331a8cb5"
+  },
+  "type_drink": "Đá xay",
+  "title": "Cách pha chế Caramel Coffee Ice Blended ngon",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2016/08/caramel-coffee-ice-blended.jpg",
+  "ingredient": [
+    "Kem tươi",
+    "600 ml kem lỏng",
+    "350 ml kem đặc",
+    "40 vanilla syrup",
+    "Caramel Coffee Ice Blended",
+    "Siro Caramel: 30 ml",
+    "Cà phê: 30 ml",
+    "Bột béo: 15 gram (hay sữa béo: 20 ml)",
+    "Sữa tươi không đường: 30 ml",
+    "Đá viên (hoặc đá bào)",
+    "Dụng cụ cần dùng: bình thủy tinh có mỏ, bình xịt kem tươi, 2 viên gas ISI, máy xay sinh tố, ly định lượng nguyen liệu, ly thủy tinh"
+  ],
+  "intructions": [
+    "Làm kem tươi",
+    "Bước 1: Trong chiếc bình thủy tinh có mỏ lần lượt cho các nguyên liệu bao gồm kem lỏng, kem đặc, vanilla syrup vào. Trộn đều hỗn hợp.",
+    "Bước 2: Rót hỗn hợp vừa pha vào trong bình làm kem, vặn nắp bình lại và gắn thêm 2 viên gas ISI. Lắc đều hỗn hợp.",
+    "Làm Caramel Coffee Ice Blended",
+    "Caramel Coffee Ice Blended với hương vị độc đáo hấp dẫn vị giác",
+    "Bước 1: Cho siro Caramel, bột béo (sữa béo), sữa tươi, cà phê và đá viên (hoặc đá bào) vào máy xay sinh tố, sau đó xay đến khi hỗn hợp nhuyễn mịn. Nếu sử dụng máy xay có chế độ nhồi, bạn nên để máy ở chế độ nhồi trong khoảng 3 giây trước khi bật chế độ xay nhuyễn nguyên liệu.",
+    "Bước 2: Sau khi xay xong, cho hỗn hợp vừa xay vào ly cao lấy bình xịt kem tươi, xịt kem lên trên mặt hỗn hợp vừa xay, điều chỉnh bình xịt để có được những hoa văn đẹp mắt. Bạn có thể rưới thêm một ít siro caramel hoặc nước chocolate đậm đặc lên trên mặt kem tươi.",
+    "Không quá cầu kỳ và phức tạp, bạn đã có một ly Caramel Coffee Ice Blended hấp dẫn để thưởng thức trong những ngày nóng bức. Chúc các bạn thành công và ngon miệng!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b411e158d93331a8cb7"
+  },
+  "type_drink": "Đá xay",
+  "title": "Hướng dẫn thực hiện món dâu nha đam đá xay:",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2017/02/55bd777287987cb3888bd81f33e8a7ad.jpg",
+  "ingredient": [
+    "Dâu tây tươi: 100 gram.",
+    "Nha đam: một đoạn khoảng 10 cm.",
+    "Đường cát trắng: 4 muỗng lớn, có thể thay thế bằng 4 muỗng sữa đặc nếu muốn.",
+    "Sữa chua không đường: ½ hũ.",
+    "Vài giọt syrup hoa bụp giấm.",
+    "Đá bào Dụng cụ pha chế: dao, thớt, máy xay sinh tố, ly định lượng nguyên liệu, thau, rổ, tô thủy tinh."
+  ],
+  "intructions": [
+    "Bước 1: Dâu tây chọn những quả chín tới, đỏ đẹp và không bị dập. Mua về bỏ cuống, rửa sạch với chút muối rồi xả qua với nước lạnh. Cắt dâu thành những miếng nhỏ rồi ướp với đường trong 2 – 3 tiếng hoặc hơn để dâu ngấm đường, thơm, ngon và màu đẹp hơn.",
+    "Bước 2: Nha đam gọt phần vỏ xanh, cắt thành hạt lựu nhỏ rồi cho vào nồi nước sôi trụng sơ, cho vào nồi luộc vài giọt nước cốt chanh và 1 muỗng đường để nha đam bớt nhớt. Sau khi trụng nha đam nổi lên là được. Bạn lấy nha đam ra và cho ngay vào tô nước lạnh.",
+    "Bước 3: Cho vào máy xay sinh tố: dâu tây, ½ nha đam, đường cát, sữa chua và đá bào. Nhỏ vài 3 – 4 giọt syrup hoa bụp giấm để thức uống có màu đẹp hơn. Bật máy và xay đến khi hỗn hợp nhuyễn mịn. Cho ½ nha đam còn lại vào trộn đều rồi đổ thức uống ra ly. Trang trí với một quả cherry cho sinh động."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b541e158d93331a8cb9"
+  },
+  "type_drink": "Đá xay",
+  "title": "Cách pha chế tắc xí muội đá xay ngon",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/hinh-anh-tac-xi-muoi-da.jpg",
+  "ingredient": [
+    "Quả tắc: 200 gram",
+    "Xí muội: 3 trái",
+    "Nước lọc: 30 ml",
+    "Đá khoảng: 2 ly",
+    "Đường cát trắng: 5 muỗng cà phê",
+    "Húng quế: vài nhánh",
+    "Dụng cụ cần dùng để pha chế: dao, thớt, rây lọc, ly định lượng nguyên liệu, máy xay sinh tố, ly thủy tinh, muỗng"
+  ],
+  "intructions": [
+    "Bước 1: Tắc tươi mua về cắt làm đôi rồi vắt lấy nước cốt tắc cho vào trong ly hoặc chén nhỏ, dùng rây lược bỏ hạt tắc, lấy khoảng 60 ml nước cốt tắc để pha chế tắc xí muội đá xay.",
+    "Bước 2: Cho các nguyên liệu theo định lượng sau: 3 quả xí muội (lấy phần thịt bỏ hạt), 60 ml nước cốt tắc, 5 muỗng cà phê đường cát trắng, vài lá húng quế và đá viên vào trong máy xay sinh tố. Bật máy với chế độ nhồi đá trong vài giây, sau đó chuyển qua xay đến khi các nguyên liệu nhuyễn ra là được.",
+    "Bước 3: Rót hỗn hợp vừa xay ra ly, trang trí thêm một nhánh húng quế nhỏ phía trên, vậy là bạn đã hoàn thành món thức uống này rồi.",
+    "Không tốn quá nhiều thời gian và công sức, chỉ cần vài bước cơ bản bạn đã hoàn thành món thức uống hấp dẫn, bổ dưỡng để giải khát trong những ngày nắng nóng, oi bức. Chúc bạn thành công với công thức pha chế tắc xí muội đá xay này nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b711e158d93331a8cbb"
+  },
+  "type_drink": "Đá xay",
+  "title": "Hướng dẫn cách làm Mocha Oreo Frappuccino",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2016/10/mocha-oreo-frappuccino.jpg",
+  "ingredient": [
+    "Kem tươi",
+    "600 ml kem lỏng.",
+    "350 ml kem đặc.",
+    "40 vanilla syrup.",
+    "Mocha Oreo Frappuccino",
+    "30 ml – 60 ml coffee espresso.",
+    "30 ml sốt chocolate Torani.",
+    "3 cái bánh oreo.",
+    "60 ml sữa tươi không đường.",
+    "20 ml nước đường.",
+    "30 ml sữa béo.",
+    "10 gram bột frappe Úc.",
+    "Đá viên.",
+    "Dụng cụ cần dùng khi pha chế Mocha Oreo Frappuccino: bình thủy tinh có mỏ, bình xịt kem tươi, 2 viên gas ISI, máy xay sinh tố, ly định lượng nguyen liệu, ly thủy tinh."
+  ],
+  "intructions": [
+    "Làm kem tươi",
+    "Bước 1: Trong chiếc bình thủy tinh có mỏ lần lượt cho các nguyên liệu bao gồm kem lỏng, kem đặc, vanilla syrup vào. Trộn đều hỗn hợp.",
+    "Bước 2: Rót hỗn hợp vừa pha vào trong bình làm kem, vặn nắp bình lại và gắn thêm 2 viên gas ISI. Lắc đều hỗn hợp.",
+    "Bước 1: Cho các nguyên liệu đã chuẩn bị vào máy xay theo định lượng như sau: 30 – 60 ml coffee espresso tùy vào khẩu vị của người thưởng thức, 30 ml sốt chocolate, 3 cái bánh oreo hoặc có thể nhiều, ít hơn nếu muốn, 60 ml sữa tươi không đường, 20 ml nước đường, 30 ml sữa béo, 10 gram bột frappe Úc và đá viên.",
+    "Bước 2: Bật máy và xay cho đến khi máy êm, hỗn hợp sánh lại.",
+    "Bước 3: Đổ hỗn hợp ra ly, dùng bình xịt kem tươi xịt lên mặt ly, rưới sốt chocolate lên trên và trang trí kèm một vài miếng bánh oreo bẻ vụn hoặc cốm màu nếu thích.",
+    "Những lưu ý để có một ly Mocha Oreo Frappuccino chuẩn vi Starbucks:",
+    "Theo nhiều người thì việc sử dụng coffee espresso thì thức uống sẽ ngon nhất.",
+    "Nên sử dụng các loại sốt và kem tươi có hương vị phù hợp với vị coffee như sốt caramel, sốt chocolate hay sốt bạc hà.",
+    "Dùng sữa tươi không đường để dễ cân chình được độ ngọt của thức uống.",
+    "Bột frappe Úc là cần thiết để ly Mocha Oreo Frappuccino không bị tách nước, có độ sánh, các nguyên liệu có thể quyện vào nhau.",
+    "Nếu có đam mê với các loại thức uống đá xay như thế này, bạn hãy đầu tư cho mình một chiếc máy xay chuyên dụng có công suất phù hợp để có được những ly đá xay thơm ngon, không bị tách nước khi hoàn thành."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b801e158d93331a8cbd"
+  },
+  "type_drink": "Đá xay",
+  "title": "Cách thực hiện Spicy Iced Mocha",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2018/05/spicy-iced-mocha.jpg",
+  "ingredient": [
+    "1 ly nước.",
+    "1/2 chén đường dừa (hoặc đường thường).",
+    "1/2 chén mật ong.",
+    "3/4 chén bột ca cao không đường.",
+    "1/2 muỗng bột quế.",
+    "1 muỗng syrup cayenne.",
+    "1 chén Gevalia Cold Brew Concentrate (ướp lạnh).",
+    "1/2 ly sữa lạnh.Đá viên.",
+    "Dụng cụ: ly, nồi, bếp…"
+  ],
+  "intructions": [
+    "Bước 1: Cách làm nước xốt socola cay",
+    "Cho khoảng 1 ly nước + 1/2 chén đường dừa + mật ong + bột ca cao + bột quế và syrup cayenne vào chiếc nồi nhỏ, khuấy đều rồi đun sôi. Bạn chú ý trong quá trình nấu, liên tục khuấy đều cho hỗn hợp tan ra và hòa quyện hoàn toàn. Tiếp tục đun nhỏ lửa trong 2 – 3 phút rồi tắt bếp. Khi hỗn hợp đã nguội, bảo quản nước sốt trong ngăn mát tủ lạnh để dùng khi cần.",
+    "Bước 2: Cách pha chế Spicy Iced Mocha",
+    "Đầu tiên rót khoảng 1/8 chén sauce (nước xốt) cayenne socola vị cay vào ly, rồi cho đá lên trên gần đầy miệng ly. Sau đó, đổ 1/2 cốc Gevalia Cold Brew cô đặc vào ly và cho thêm 1/2 cốc sữa lạnh. Bạn trang trí thêm cho thức uống bằng sốt socola cay, nếu không uống được cay, bạn chú ý tránh cho quá nhiều xốt socola vào. Ngoài ra, bạn cũng có thể bỏ hẳn hương vị ớt cayenne để tạo nên Soccola Ice Mocha dành cho những người không ăn được cay.",
+    "Trong công thức cơ bản nhất, Iced Mocha được làm từ cà phê espresso, sữa lạnh, đá được thêm vào. Cách làm khác, bạn sáng tạo thêm dựa trên cơ sở cà phê, thay vì dùng hoàn toàn cà phê espresso, bạn có thể kết hợp cà phê, một ít sữa lạnh và nhiều socola thêm vào với hàm lượng caffein thấp.",
+    "Spicy Iced Mocha chủ yếu được pha chế từ bột ca cao ngọt, nhiều nước sốt socola và các thành phần khác, thậm chí không cần đến cà phê espresso. Bạn có thể thêm các lớp phủ như quế, hạt nhục đậu khấu hoặc socola lên trên để trang trí thức uống.",
+    "Bạn cũng có thể cho kem hoặc kẹo dẻo vào để tăng hương vị, sức hấp dẫn cho loại thức uống đá xay này. Ngoài biến thể Spicy Iced Mocha, loại cafe này còn có nhiều sáng tạo khác, bạn nên tìm hiểu để đa dạng cho menu thức uống của mình.",
+    "Thưởng thức hương vị cà phê độc đáo, mới lạ từ xốt socola",
+    "Biến thể White Iced Mocha (mocha trắng) được làm từ socola trắng thay vì socola đen. Một vài biến thể khác nữa như Black And White Mocha, Marble Mocha, Tan Mocha, Tuxedo Mocha, Zebra Mocha…"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b901e158d93331a8cbf"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem từ sữa tươi",
+  "image": "https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/nấu%20ăn/cach-lam-kem-tuoi-ngon-don-gian.jpg",
+  "ingredient": [
+    "Sữa tươi 250ml",
+    "Bột ngô 8g",
+    "Gelatin 5g",
+    "Đường",
+    "Vani"
+  ],
+  "intructions": [
+    "1. Ngâm gelatin",
+    "Ngâm gelatin trong 200ml sữa từ 10-15 phút để gelatin nở. Phần sữa còn lại hòa tan với phần bột ngô.",
+    "2. Đun hỗn hợp bột",
+    "Cho hỗn hợp bột ngô và gelatin vào nồi và đun với lửa vừa, vừa khuấy đều. Sau khi chín bột ngô và để nguội để tạo ra hỗn hợp kem tươi.",
+    "3. Đánh bông kem",
+    "Lấy hỗn hợp kem tươi trên đánh bông bằng máy đánh trứng bạn nên đặt âu kem sữa lên một tô đá lạnh để kem bông tốt hơn."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05b9f1e158d93331a8cc1"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem milo",
+  "image": "https://s.elib.vn/images/fckeditor/upload/2020/20201023/images/kem-socola-lam-tu-bot-milo.jpg",
+  "ingredient": [
+    "Milo",
+    "Sữa tươi",
+    "Sữa đặc",
+    "Dụng cụ: que kem bằng gỗ",
+    "Khuôn kem"
+  ],
+  "intructions": [
+    "1. Đun nóng sữa tươi và sữa đặc sau đó cho bột Milo vào khuấy đều",
+    "2. Để nguội và cho hỗn hợp vào khuôn hoặc cho vào túi Milo đặt vào một thanh que gỗ",
+    "3. Cho vào tủ lạnh khoảng 5 giờ là có thể thưởng thức"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05bae1e158d93331a8cc3"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem tươi dưa hấu",
+  "image": "https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/nấu%20ăn/kem-dua-hau.jpg",
+  "ingredient": [
+    "dưa hấu",
+    "sữa đặc",
+    "whipping cream",
+    "sữa chua",
+    "đường",
+    "Dụng cụ: máy xanh sinh tố",
+    "rây"
+  ],
+  "intructions": [
+    "1. Dưa hấu cắt thành những miếng nhỏ, cho vào máy xay sinh tố để xay nhuyễn cùng ít đường.",
+    "2. Lọc nước dưa hấu qua rây để lấy nước.",
+    "3. Đánh bông whipping cream sau đó cho toàn bộ nước dưa hấu, sữa đặc, sữa chua vào khuấy đều.",
+    "4. Cho hỗn hợp ra khuôn hoặc hộp nhựa để ngăn đá từ 4 giờ là bạn sẽ có ngay món kem dưa hấu mát lạnh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05bbb1e158d93331a8cc5"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem dừa",
+  "image": "https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/nấu%20ăn/kem-dua.jpg",
+  "ingredient": [
+    "nước cốt dừa",
+    "dừa nạo sợi",
+    "sữa đặc",
+    "sữa tươi",
+    "đường",
+    "lòng đỏ trứng",
+    "bột năng",
+    "Dụng cụ: máy đánh trứng",
+    "bếp gas",
+    "nồi",
+    "hộp đựng thực phẩm,..."
+  ],
+  "intructions": [
+    "1. Cho các nguyên liệu nước cốt dừa, sữa đặc và sữa tươi vào nồi khuấy đều và bắt lên bếp đun với lửa vừa. Tắt bếp và để nguội.",
+    "2. Đánh bông lòng đỏ trứng bằng máy đánh trứng với ít đường.",
+    "3. Cho trứng đã đánh vào hỗn hợp sữa dừa, trộn nhanh và tiếp tục đun.",
+    "4. Hòa tan một ít bột năng với nước tiếp tục cho vào nồi. Cho ít vani khuấy đều trước khi tắt bếp.",
+    "5. Dùng máy đánh trứng đánh đến khi hỗn hợp sữa dừa nguội hẳn và cho vào hộp đựng thực phẩm.",
+    "6. Để kem đông trong tủ lạnh, mỗi 2 tiếng lấy kem ra đánh bông một lần. Sau 6 tiếng là hoàn thành. Khi thưởng thức cho ít dừa nạo sợi lên mặt để trang trí và tăng thêm hương vị."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05bcb1e158d93331a8cc7"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem bắp",
+  "image": "https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/nấu%20ăn/kem-bap.jpg.jpg",
+  "ingredient": [
+    "bắp, sữa đặc",
+    "sữa tươi",
+    "đường",
+    "lá dứa",
+    "nước cốt dừa",
+    "vani",
+    "trứng gà"
+  ],
+  "intructions": [
+    "1. Rửa sạch lá dứa và bắp. Bắp tách hạt, để ráo.",
+    "2. Bắt bếp cho khoảng 300ml sữa tươi vào nồi đun sôi với lá dứa, hạt bắp và lõi bắp.",
+    "3. Sau khi hỗn hợp bắp sôi thì tắt bếp. Lấy lá dứa và lõi bắp ra và để nguội hỗn hợp này.",
+    "4. Xay hỗn hợp bắp bằng máy xay sinh tố và lấy rây lọc lại phần nước.",
+    "5. Cho lòng đỏ, vani, sữa tươi, sữa đặc, nước cốt dừa, đường vào tô bằng đánh bông lên bằng máy đánh trứng.",
+    "6. Lấy hỗn hợp trứng đã đánh bông cho vào nồi bắp, đun lại cho sôi thì có thể tắt bếp để nguội.",
+    "7. Đổ hỗn hợp kem vào khuôn, để trong ngăn đá tủ lạnh khoảng 5 giờ là có thể thưởng thức. (Cứ mỗi 2 tiếng lấy kem ra kiểm tra và trộn đều)."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05bdd1e158d93331a8cc9"
+  },
+  "type_drink": "Kem",
+  "title": "Kem chuối sữa dừa",
+  "image": "https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/nấu%20ăn/kem-chuoi.jpg.jpg",
+  "ingredient": [
+    "Bạn chỉ cần chuẩn bị chuối tây chín",
+    "đậu phộng",
+    "dừa nạo sợi",
+    "sữa ông thọ",
+    "sữa tươi không đường",
+    "nước cốt dừa.",
+    "Dụng cụ: khay nhựa."
+  ],
+  "intructions": [
+    "1. Chuối bóc hết vỏ và thái thành từng lát mỏng. đậu phộng rang chín, bỏ vỏ và giã dập",
+    "2. Trộn đều sữa tươi không đường, nước cốt dừa, sữa ông thọ với nhau. Bạn nhớ nếm sao cho độ ngọt vừa phải.",
+    "3. Tiếp theo bạn lấy khay nhựa đã chuẩn bị sẵn. Khay nhựa nên có độ rộng vừa phải, hình chữ nhật để dễ cắt sau này khi thành phẩm. Sau đó, bạn lần lượt trải lớp chuối đã thái lát ở trên thành một lớp trong khay. Trên lớp chuối sẽ là lớp đậu phộng giã dập và dừa nạo sợi. Cứ lần lượt như vậy đến khi gần đầy miệng khay.",
+    "4. Đổ hỗn hợp đã trộn sẵn ở bước đầu tiên lên trên các lớp kem chuối vừa xếp. Cho khay chuối vừa xong vào ngăn đá của tủ lạnh để đông khoảng 7-8 tiếng. Với cách làm kem chuối cực kì đơn giản, bạn đã có một món ăn vặt vô cùng mát lạnh rồi đấy!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05bef1e158d93331a8ccb"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem bơ chocolate",
+  "image": "https://nguyenkim.com/images/companies/_1/Content/tin-tuc/nha-bep/vao-bep/kem-bo-chocolate-lam-cuc-nhanh-an-cuc-ngon-nho-cach-lam-khong-can-may-05.jpg",
+  "ingredient": [
+    "3 quả bơ",
+    "sữa tươi không đường",
+    "sữa đặc",
+    "đường",
+    "chocolate đen",
+    "Dụng cụ: khuôn làm kem"
+  ],
+  "intructions": [
+    "1. Cho sữa đặc, bơ, sữa tươi vào máy xay sinh tố xay nhuyễn. Nếm nhạt có thể cho thêm chút siro đường rồi xay tiếp cho hòa quyện. Sau đó đổ kem vào khuôn.",
+    "2. Cắm que kem vào khuôn sau đó cho kem vào ngăn đông tủ lạnh ít nhất 5 giờ để kem đông cứng. Chocolate đen bào nhỏ, hấp cách thủy để chảy hoàn toàn.",
+    "3. Sau khi kem đã đông, lấy ra nhúng vào chocolate, rồi để vào khay và đem đặt lại vào ngăn đá để chocolate đông lại là được. Cách làm kem bơ chocolate này vừa đơn giản lại vừa ngon. Không cần dùng tới máy làm kem bạn vẫn có thể làm được những que kem mát lịm, béo ngậy tuyệt vời.",
+    "Kem bơ thơm ngon không thể thiếu những quả bơ chín căng mọng, thơm ngon. Nếu bạn có niềm yêu thích với loại quả này có thể thưởng thức mỗi ngày 1/2 quả bơ, rồi bảo quản chúng trong tủ lạnh. Cập nhật ngay cách bảo quản bơ qua bài viêt sau: Cách bảo quản bơ chín ngon lành trong tủ lạnh."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c011e158d93331a8ccd"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem tươi dâu tây chocolate ngon tuyệt",
+  "image": "https://nguyenkim.com/images/companies/_1/Content/tin-tuc/nha-bep/vao-bep/lam-kem-dau-tay-chocolate-de-dang-voi-may-xay-sinh-to-03.jpg",
+  "ingredient": [
+    "Chuối, dâu tây",
+    "nước cốt dừa",
+    "tinh chất van",
+    "muối",
+    "chocolate đen"
+  ],
+  "intructions": [
+    "1. Dâu tây rửa sạch, bỏ cuống, cắt làm đôi. Chuối lột vỏ, cắt nhỏ. Tất cả cho vào tủ lạnh đông đá.",
+    "2. Đun chảy chocolate bằng lò vi sóng hoặc dùng nồi hấp cách thủy.",
+    "3. Xay chuối, dâu tây bằng máy xay sinh tố. Sau đó thêm nước cốt dừa, chocolate đun chảy, muối cùng tinh chất vani vào, xay nhuyễn.",
+    "4. Đổ hỗn hợp vào khuôn rồi cho vào ngăn đá tủ lạnh. Sau 40 - 60 phút, bạn tiến hành kiểm tra. Nếu hỗn hợp đã đông cứng trên bề mặt, hãy lấy ra khỏi tủ lạnh và đánh đều đến khi nhuyễn mịn thì cho vào lại ngăn đá. Lặp lại thao tác này khoảng 2 - 3 lần. Khi ăn, bạn múc kem ra dĩa, trang trí bằng vài quả dâu và bánh ốc quế để tăng độ đẹp mắt và ngon miệng nhé!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c111e158d93331a8ccf"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem thanh long",
+  "image": "https://nguyenkim.com/images/companies/_1/Content/tin-tuc/nha-bep/vao-bep/10-cach-lam-kem-bang-may-xay-sinh-to-khong-can-dung-whipping-cream-3.jpg",
+  "ingredient": [
+    "Thanh long ruột đỏ",
+    "đường",
+    "tắc",
+    "khuôn làm kem"
+  ],
+  "intructions": [
+    "1. Cho thanh long đã cắt vào máy xay sinh tố, xay thật nhuyễn. Tùy vào thanh long chua hay ngọt mà cho thêm đường hay vắt tắc vào.",
+    "2. Cho hỗn hợp đã xay vào khuôn làm kem, bỏ vào tủ đông hoặc tủ lạnh khoảng 3-4 tiếng. Nếu không có khuôn làm kem, thì bạn có thể bỏ vào ly và để trên ngăn đá cũng được nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c251e158d93331a8cd1"
+  },
+  "type_drink": "Kem",
+  "title": "Cách làm kem trà xanh",
+  "image": "https://nguyenkim.com/images/companies/_1/Content/tin-tuc/nha-bep/vao-bep/10-cach-lam-kem-bang-may-xay-sinh-to-khong-can-dung-whipping-cream-4.jpg",
+  "ingredient": [
+    "Sữa tươi",
+    "sữa đặc",
+    "đá lạnh",
+    "muối",
+    "bột trà xanh"
+  ],
+  "intructions": [
+    "1. Đặt đá lạnh vào tô lớn, nên cho thật nhiều đá vào để làm lạnh nhanh, rắc thêm muối để giữ lạnh. Cho một tô nhỏ lên trên đá để làm kem",
+    "2. Cho bột trà xanh vào một chén nhỏ, thêm ít nước ấm và khuấy đều",
+    "3. Khi bát lạnh, cho hỗn hợp gồm sữa tươi, sữa đặc và bột trà xanh vào và khuấy đều, nên nêm nếm trước để tạo vị ngọt như ý muốn.",
+    "4. Sau 4-5 phút khuấy đều, kem của chúng ta đã hoàn thành! Hãy cho thành phẩm vào tủ lạnh để bảo quản và thưởng thức bất cứ khi nào bạn nhé!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c381e158d93331a8cd3"
+  },
+  "type_drink": "Smoothie",
+  "title": "Cách làm smoothie dâu tây",
+  "image": "https://cdn.tgdd.vn/Files/2021/07/31/1372124/smoothie-la-gi-cong-thuc-che-bien-smoothie-trai-cay-thom-ngon-ngot-mat-202107312005330035.jpg",
+  "ingredient": [
+    "400 gram dâu tây tươi",
+    "100ml kem dâu tây",
+    "1/2 thìa cà phê vanilla",
+    "2 thìa đường hoặc sữa đặc",
+    "3 thìa rượu tequila",
+    "3 thìa sữa tươi lạnh",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Bước 1 Xay nhuyễn hỗn hợp bao gồm 3 thìa rượu tequila, 100ml kem dâu tây, 400 gram dâu tây tươi, 3 thìa sữa tươi lạnh, 1/2 thìa cà phê vani, đá viên, 2 thìa đường (hoặc sữa đặc).",
+    "Bước 2 Sau khi xay xong thì đổ vào một ly lớn để trang trí, có thể cho thêm kem tươi lên phía trên và rắc thêm màu cốm cùng với vào lát dâu tây để tăng thị giác cho thức uống thêm hấp dẫn."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c4c1e158d93331a8cd5"
+  },
+  "type_drink": "Smoothie",
+  "title": "Cách làm smoothie xoài dứa với sữa chua",
+  "image": "https://cdn.tgdd.vn/Files/2021/07/31/1372124/smoothie-la-gi-cong-thuc-che-bien-smoothie-trai-cay-thom-ngon-ngot-mat-202107312006453437.jpg",
+  "ingredient": [
+    "1 cốc dứa cắt miếng đã đông lạnh",
+    "1 cốc xoài cắt miếng đã đông lạnh",
+    "1 cốc sữa chua",
+    "1/4 cốc sữa",
+    "Vanilla, dừa khô",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Bước 1: Cho tất cả nguyên liệu trên vào máy xay rồi xay nhuyễn. Có thể điều chỉnh độ ngọt theo khẩu vị bằng cách cho thêm lượng đá tùy ý.",
+    "Bước 2: Sau khi xay xong thì đổ hỗn hợp ra ly, trang trí thêm vài lát xoài hoặc dứa tùy ý."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c5e1e158d93331a8cd7"
+  },
+  "type_drink": "Smoothie",
+  "title": "Cách làm smoothie việt quất và đào",
+  "image": "https://cdn.tgdd.vn/Files/2021/07/31/1372124/smoothie-la-gi-cong-thuc-che-bien-smoothie-trai-cay-thom-ngon-ngot-mat-202107312007145276.jpg",
+  "ingredient": [
+    "100g quả việt quất",
+    "300g đào tươi",
+    "Sữa tươi",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Bước 1 Đào và việt quất đem đi rửa sạch rồi sơ chế qua bằng cách bỏ hạt đào đi rồi thái nhỏ ra, việt quất đem đi bổ đôi.",
+    "Bước 2 Xay tất cả nguyên liệu bao gồm đào và việt quất đã sơ chế, cho thêm sữa tươi và đá viên vào rồi xay nhuyễn.",
+    "Bước 3 Đổ smoothie việt quất và đào ra ly, có thể trang trí thêm vài lát đào và một chút quả việt quất tùy ý."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c711e158d93331a8cd9"
+  },
+  "type_drink": "Smoothie",
+  "title": "Cách làm smoothie xoài chuối, yến mạch, hạt chia",
+  "image": "https://cdn.tgdd.vn/Files/2021/07/31/1372124/smoothie-la-gi-cong-thuc-che-bien-smoothie-trai-cay-thom-ngon-ngot-mat-202107312007414139.jpg",
+  "ingredient": [
+    "1 trái xoài chín",
+    "1 trái chuối chín",
+    "1 chén nhỏ yến mạch",
+    "1 thìa hạt chia",
+    "2 thìa mật ong",
+    "30 ml sữa tươi (có đường hoặc không đường đều được)"
+  ],
+  "intructions": [
+    "Bước 1 Sơ chế xoài và chuối bằng cách rửa sạch, lột vỏ rồi cắt hạt lựu hai loại quả này rồi cho vào trong ngăn đá tủ lạnh khoảng 2-3 tiếng đồng hồ.",
+    "Bước 2 Cho tất cả nguyên liệu đã chuẩn bị sẵn vào máy xay và xay thật nhuyễn, có thể điều chỉnh độ ngọt bằng cách tăng giảm lượng mật ong tùy ý.",
+    "Bước 3 Sau khi xay cong thì đổ ra ly, có thể trang trí thêm vài lát chuối hoặc xoài tùy ý."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c7f1e158d93331a8cdb"
+  },
+  "type_drink": "Smoothie",
+  "title": "Smoothie detox cải bó xôi, chuối và chanh",
+  "image": "https://cdn.dep365.com/wp-content/uploads/2021/08/cong-thuc-smoothie-detox-2.jpg?strip=all&lossy=1&quality=90&webp=90&avif=60&ssl=1",
+  "ingredient": [
+    "Cải bó xôi: 1 bó",
+    "Chuối: 3 quả",
+    "Chanh: nửa quả",
+    "Đá viên"
+  ],
+  "intructions": [
+    "1 bó cải bó xôi ngâm nước muối loãng, rửa sạch, để ráo.",
+    "Chuẩn bị 3 quả chuối chín, lột vỏ, thái khoanh nhỏ.",
+    "Cho cải bó xôi vào máy xay sinh tố, xay nhuyễn cùng chuối, nước cốt của nửa quả chanh và đá viên.",
+    "Cho thành phẩm xay được ra ly và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05c921e158d93331a8cdd"
+  },
+  "type_drink": "Smoothie",
+  "title": "Smoothie detox việt quất, chuối, chanh và cần tây",
+  "image": "https://cdn.tgdd.vn/2020/09/CookProduct/1-1200x676-31.jpg",
+  "ingredient": [
+    "Chuối: 2 quả",
+    "Quả việt quất: 3 thìa",
+    "Chanh: ⅓ quả",
+    "Cần tây: 2 – 3 cọng",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Sơ chế nguyên liệu: việt quất rửa sạch, cần tây rửa sạch thái nhỏ, chuối lột vỏ cắt nhỏ, chanh vắt lấy nước.",
+    "Cho tất cả nguyên liệu đã sơ chế vào máy xay sinh tố, tiến hành xay nhuyễn.",
+    "Đổ smoothie ra ly và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05ca01e158d93331a8cdf"
+  },
+  "type_drink": "Smoothie",
+  "title": "Smoothie detox từ cần tây, rau bina, chanh và chuối",
+  "image": "https://cdn.dep365.com/wp-content/uploads/2021/08/cong-thuc-smoothie-detox-78.jpg?strip=all&lossy=1&quality=90&webp=90&avif=60&ssl=1",
+  "ingredient": [
+    "Cần tây: 2 cọng",
+    "Lá rau bina: 1 ly",
+    "Chanh: nửa quả",
+    "Chuối: 1 quả",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế, làm sạch và thái nhỏ các nguyên liệu.",
+    "Bước 2: Cho tất cả vào máy xay sinh tố, xay nhuyễn, đổ ra ly và thưởng thức. "
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05caf1e158d93331a8ce1"
+  },
+  "type_drink": "Smoothie",
+  "title": "Smoothie detox rau bina, xà lách, cần tây, lê, chuối và chanh",
+  "image": "https://cdn.dep365.com/wp-content/uploads/2021/08/cong-thuc-smoothie-detox-7.jpg?strip=all&lossy=1&quality=90&webp=90&avif=60&ssl=1",
+  "ingredient": [
+    "Rau bina: 1 nắm",
+    "Xà lách: 5 lá",
+    "Cần tây: 3 cọng",
+    "Lê: 1 quả",
+    "Chuối: 1 quả",
+    "Chanh: nửa quả",
+    "Đá viên"
+  ],
+  "intructions": [
+    "Bước 1: Chuẩn bị đầy đủ các nguyên liệu, mang đi rửa sạch, để ráo nước và thái nhỏ.",
+    "Bước 2: Sau khi sơ chế, cho tất cả nguyên liệu vào máy xay, xay nhuyễn mịn là hoàn tất. "
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05cbc1e158d93331a8ce3"
+  },
+  "type_drink": "Smoothie",
+  "title": "Smoothie cà rốt, táo, gừng, chuối, cam và bạc hà",
+  "image": "https://cdn.dep365.com/wp-content/uploads/2021/08/cong-thuc-smoothie-detox-4.jpg?strip=all&lossy=1&quality=90&webp=90&avif=60&ssl=1",
+  "ingredient": [
+    "Cà rốt: 3 củ",
+    "Táo xanh: 2 quả",
+    "Gừng: 1 lát",
+    "Chuối: 2 quả",
+    "Cam: 1 quả",
+    "Lá bạc hà: 1 nắm"
+  ],
+  "intructions": [
+    "Bước 1: Các nguyên liệu rửa sạch, thái nhỏ cho vào máy xay sinh tố, xay nhuyễn cùng một ít đá viên.",
+    "Bước 2: Cho smoothie vừa chế biến được ra ly, trang trí thêm một vài lá bạc hà và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05cca1e158d93331a8ce5"
+  },
+  "type_drink": "Smoothie",
+  "title": "Công thức smoothie detox hiệu quả từ dứa + kiwi + dưa chuột + chanh",
+  "image": "https://cdn.dep365.com/wp-content/uploads/2021/08/cong-thuc-smoothie-detox-5.jpg?strip=all&lossy=1&quality=90&webp=90&avif=60&ssl=1",
+  "ingredient": [
+    "Kiwi: 1 quả",
+    "Dưa chuột: 1 quả",
+    "Dứa: nửa quả",
+    "Chanh: nửa quả"
+  ],
+  "intructions": [
+    "Bước 1: Dứa, dưa chuột, kiwi rửa sạch, thái nhỏ, chanh vắt lấy nước cốt.",
+    "Bước 2: Cho các loại trái cây vào máy xay, xay nhuyễn.",
+    "Bước 3: Đổ thành phẩm smoothie thơm ngon ra ly và thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05cd91e158d93331a8ce7"
+  },
+  "type_drink": "Smoothie",
+  "title": "Bí quyết smoothie Dưa chuột + mùi tây",
+  "image": "https://cdn.dep365.com/wp-content/uploads/2021/08/cong-thuc-smoothie-24422.jpg?strip=all&lossy=1&quality=90&webp=90&avif=60&ssl=1",
+  "ingredient": [
+    "Dưa chuột: 2 quả",
+    "Mùi tây: 1 nắm"
+  ],
+  "intructions": [
+    "Dưa chuột, mùi tây ngâm muối loãng, rửa sạch, thái nhỏ.",
+    "Cho nguyên liệu và một ít đá xay vào máy xay nhuyễn mịn.",
+    "Đổ smoothie ra ly và thưởng thức.  "
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05ceb1e158d93331a8ce9"
+  },
+  "type_drink": "Chè",
+  "title": "Chè xoài pudding",
+  "image": "https://i0.wp.com/yeuamthuc.org/wp-content/uploads/2021/09/hinh-mon-trang-mieng-3-8ca1aae6.jpg?resize=749%2C749&ssl=1",
+  "ingredient": [
+    "Xoài chín 1 kg",
+    "Nước cốt dừa 200 ml",
+    "Sữa tươi không đường 200 ml",
+    "Whipping cream 100 ml",
+    "Bột gelatin 8 gr",
+    "Bột rau câu giòn 3 gr",
+    "Sữa đặc 50 gr",
+    "Bột báng 30 gr",
+    "Siro dâu 1 muỗng canh",
+    "Hạt é 5 gr",
+    "Đường 60 gr"
+  ],
+  "intructions": [
+    "1. Sơ chế xoài:",
+    "Đầu tiên, với 1kg xoài chín (khoảng 2 – 3 quả) mua về bạn đem rửa sạch và gọt vỏ. Tiếp đó cắt 200gr phần thịt xoài thành miếng nhỏ và xay nhuyễn với 100ml sữa tươi không đường. Phần xoài còn lại cũng cắt thành từng miếng vuông nhỏ vừa ăn.",
+    "2. Ngâm gelatin và làm pudding xoài",
+    "Cho 100ml nước và 8gr bột gelatin vào một cái tô rồi khuấy đều cho tan ra. Để ngâm gelatin trong 10 phút cho nở mềm.",
+    "Đem xoài đã xay nhuyễn đổ vào nồi và đun nóng trong 2 phút ở lửa vừa. Sau 2 phút xoài bắt đầu nóng lên thì cho gelatin đã ngâm vào và đun đến khi gelatin tan hết, hỗn hợp xoài sôi lên lăn tăn là được.",
+    "Ta sẽ đổ phần xoài đã đun vào các hộp đựng flan và để vào ngăn mát tủ lạnh cho đông lại ta sẽ có pudding xoài.",
+    "3. Làm rau câu sữa dừa",
+    "Ta cho vào nồi 3gr bột rau câu giòn và 100ml nước khuấy đều rồi bắc lên bếp đun, vừa đun vừa khuấy đều. Đun tiếp bột rau câu trong lửa nhỏ trong vòng 5 phút nữa cho bột rau câu chín đều. Tiếp đó, ta cho 50gr sữa đặc, 50ml nước cốt dừa vào và khuấy đều lên. Đun đến khi hỗn hợp sôi lăn tăn lại thì tắt bếp và đổ hỗn hợp vào 1 cái hộp, để vào ngăn mát tủ lạnh để rau câu đông.",
+    "4. Chuẩn bị bột báng và hạt é",
+    "Ta sử dụng 30gr bột báng cho vào tô và ngâm trong 200ml nước trong vòng 30 phút cho bột báng nở ra. Sau đó cho bột báng đã rửa và 200ml nước vào nồi đun sôi lên đến khi bột báng trong lại và nổi lên trên mặt nước là được. Ta vớt bột báng ra rồi rửa lại với nước lạnh.",
+    "Cho 5gr hạt é vào một cái chén và ngâm với 20ml nước đun sôi để nguội. Có thể cho thêm 1 muỗng canh siro dâu (hoặc các loại siro tùy thích) để thêm mùi thơm và có màu đẹp hơn nhé!",
+    "5. Nấu hỗn hợp nước cốt dừa",
+    "Ta cho vào nồi 200ml nước lọc, 100ml sữa tươi không đường, 100ml whipping cream, 60gr đường và đun sôi lên, vừa đun vừa khuấy đều. Đun đến khi hỗn hợp nước cốt dừa sôi lăn tăn thì cho phần bột báng vào, khuấy đều rồi tắt bếp.",
+    "6. Hoàn thành",
+    "Ta lấy phần rau câu sữa dừa ở trong tủ lạnh ra cắt thành từng khúc nhỏ vừa ăn. Cho vài cục đá vào tô và dùng con dao mũi nhọn róc quanh thành hộp để lấy pudding xoài ra.",
+    "Tiếp theo ta cho vào tô những miếng xoài nguyên đã chuẩn bị vào, thêm rau câu sữa dừa cùng pudding xoài rồi rưới nước cốt dừa và cho hạt é lên trên nữa là hoàn thành rồi."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05cff1e158d93331a8ceb"
+  },
+  "type_drink": "Chè",
+  "title": "Cách làm chè khúc bạch ngon cho ngày hè",
+  "image": "https://ameovat.com/wp-content/uploads/2016/04/cach-lam-che-khuc-bach-ngon.jpg",
+  "ingredient": [
+    "Sữa tươi không đường: 120 ml.",
+    "Kem tươi: 120 ml.",
+    "Đường: 40 gram.",
+    "Nước ấm: 20 ml.",
+    "Bột Galetin: 7 gram.",
+    "Tinh dầu hạnh nhân: 1 thìa cà phê.",
+    "Hạnh nhân: 1 muỗng.",
+    "Đường phèn: 40 gram.",
+    "Nhãn hoặc vải: Số lượng tùy thích."
+  ],
+  "intructions": [
+    "Sơ chế nguyên liệu:",
+    "Hạn nhân bạn đem cắt lát và nướng hoặc có thể rang chín.",
+    "Vải, nhãn bạn bóc bỏ vỏ và hạt. Lấy lại phần cùi.",
+    "Các bước nấu chè khúc bạch:",
+    "Bước 1: Các bạn đem bột galentin trộn đều cùng với 20 ml nước ấm và khuấy thật đều lên cho tan.",
+    "Bước 2: Bạn lấy một cái nồi sạch và cho kem tươi, sữa tươi và đường vào. Sau đó đặt nồi lên trên bếp rồi bật lửa nhỏ đun nóng và khuấy cho đường được tan hết.",
+    "Bước 3: Bạn đổ từ từ bột galetin đã trộn đều ở bước 1 vào trong nồi và tiếp tục khuấy đều cho tan rồi cho tiếp tinh dầu hạnh nhân vào.",
+    "Bước 4: Bạn thực hiện bắc nồi trên bếp xuống rồi đổ hỗn hợp đã đun vào trong một cái khuôn thủy tinh và để cho được nguội hẳn. Sau đó bạn cho vào trong tủ lạnh để khoảng 4 đến 5 tiếng cho đông cứng lại để làm thạch chè. Rồi sau 4-5 tiếng bạn lấy thạch ra và cắt thạch thành từng miếng thạch nhỏ vừa ăn.",
+    "Bước 5: Bạn cho một bát nước lọc và 40 gram đường phèn vào trong một cái nồi rồi đặt lên trên bếp đun sôi lên. Sau đó tiếp tục cho nhãn vào và tiếp tục đun sôi rồi bắc xuống để nguội giúp cho nhãn có độ giòn.",
+    "Bước 6: Cuối cùng bạn chỉ cần múc các nguyên liệu đã chế biến vào từng bát và có thể trang trí rồi cùng gia đình thưởng thức món chè khúc bạch ngon tuyệt cho mình tự làm thôi."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d0f1e158d93331a8ced"
+  },
+  "type_drink": "Chè",
+  "title": "Cách nấu chè khoai môn ngon như ngoài hàng đơn giản nhất",
+  "image": "https://ameovat.com/wp-content/uploads/2016/04/k3.jpg",
+  "ingredient": [
+    "500g khoai môn",
+    "250g gạo nếp cẩm",
+    "350g đường",
+    "200ml sữa tươi không đường",
+    "200ml nước dừa",
+    "50g lạc rang ( đã xay vỡ)",
+    "50g vừng rang"
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế nguyên liệu",
+    "Cạo vỏ khoai môn rồi cắt thành miếng vuông với kích thước khoảng 2-3 cm. Tiếp đó cho khoai đã cắt ngâm vào nước muối loãng 20 phút để tránh thâm rồi sau đó mới vớt ra rổ để ráo nước.",
+    "Lưu ý: Không nên rửa khoai trước khi cạo vỏ và thái xong rồi mới ngâm khoai vào nước để tránh bị ngứa tay. Trong trường hợp bạn bị ngứa khi sơ chế khoai thì hãy pha 1 cốc nước đường đặc rồi rửa vùng da bị ngứa, mẩn đỏ. Chỉ sau ít phút thì bạn sẽ cảm thấy dễ chịu và không còn ngứa rát.",
+    "Bước 2: Nấu chè khoai môn",
+    "Cho sữa tươi và 1/2 lượng đường đã chuẩn bị vào nồi sau đó cho khoai môn vào ninh đến khi bở. Bạn có thể cho thêm 1 bát con nước để tránh việc bị cháy nồi. Với cách nấu chè khoai môn này thì khi ăn khoai sẽ rất bở và ngấm hương thơm thanh mát của sữa lẫn vị ngọt của đường.",
+    "Bonus thêm: Nếu muốn khoai bở mà tiết kiệm thời gian đun thì lúc đầu bạn cho một bát nước con rồi cho khoai vào đun sôi chừng 5 phút. Tiếp đó mới cho thêm đường và nước cốt dừa và nước để chế thêm cho ngập khoai.",
+    "Đổ vào nồi 1 bát nước con rồi cho tiếp gạo nếp cùng 100ml nước cốt dừa vào đun đến khi gạo mềm thì múc ra bát. Nếu muốn món chè thơm hơn thì bạn có thể cho thêm 1 thìa nước cốt lá dứa hoặc một chút vani.",
+    "Bước 3: Hoàn thành món chè khoai môn",
+    "Bạn múc hỗn hợp ở bước 3 và bước 2 vào bát rồi rưới thêm phần nước cốt dừa còn lại lên trên. Tiếp đó  chỉ cần rắc chút dừa nạo cùng lạc, vừng là bạn có thể thưởng thức."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d1f1e158d93331a8cef"
+  },
+  "type_drink": "Chè",
+  "title": "Cách nấu chè mè đen ngon và bổ cho bà bầu",
+  "image": "https://ameovat.com/wp-content/uploads/2017/03/cach-nau-che-me-den-1.jpg",
+  "ingredient": [
+    "Bột sắn dây: Chọn loại bột mới, không bị mốc. Chuẩn bị khoảng 1 – 2 thìa cafe bột sắn dây.",
+    "Đường cát: Chọn loại đường cát để đảm bảo đường tan đều trong món chè. Đường cát trắng bạn cần khoảng 150 gram.",
+    "Sữa tươi: Chuẩn bị từ 50 – 100 ml sữa tươi tuỳ ý. Ngoài ra bạn cũng có thể chuẩn bị cả dừa nạo sợi, nước cốt dừa để món chè được hấp dẫn hơn."
+  ],
+  "intructions": [
+    "Bước 1: Làm sạch và rang mè đen",
+    "Mè đen trước khi đem nấu chè cần được rang chín. Trước khi thực hiện công đoạn này, bạn cho mè ra một chiếc rá nhỏ sau đó nhặt bỏ và sàng sạch các tạp chất bụi bẩn. Tiếp đến, bạn cho mè vào chậu nước sạch và vo kỹ rồi để thật ráo nước.",
+    "Bắc chảo lên bếp và đun cho nóng chảo. Tiếp đến, bạn đổ phần mè đã làm sạch vào rang. Vì mè đã ngấm nước thì trước nên trong lúc đầu, bạn cần đảo đều tay để hơi nước trong hạt mè nhanh chóng thoát đi.",
+    "Khi hạt mè đã khô dần, bạn hạ nhỏ lửa và cứ đảo đều tay liên tục. Rang cho tới khi bạn ngửi thấy mùi chín thơm tự nhiên va hạt mè nổ lách tách là được. Mè chín, bạn trút ra bát hoặc rá và để cho mè nguội tự nhiên.",
+    "Bước 2: Xay mè đen và chuẩn bị các nguyên liệu khác",
+    "Gạo nếp: Thực hiện tương tự như cách làm với mè đen. Phần gạo nếp bạn cũng đem vo kỹ rồi để ráo nước. Xong xuôi, bạn cho gạo vào chảo và rang vàng thơm. Khi gạo nếp chín, bạn cho gạo vào máy xay sinh tố và xay mịn thành bột. Ngoài ra, nếu bạn không muốn tốn quá nhiều thời gian thì có thể chọn luôn bột nếp bán sẵn để làm.",
+    "Mè đen: Mè đen sau khi rang chín và để nguội sẽ được đem đi xay nhuyễn. Bạn cho mè vào máy xay sinh tố và xay mè thành bột. Ở công đoạn này, nếu bạn muốn ăn chè mè đen có cảm giác nguyên hạt thì chỉ cần xay dập hạt mè là được.",
+    "Bột sắn dây: Cho bột sắn dây vào một chiếc bát nhỏ. Từ từ đổ nước lọc vào bột và khuấy đều tay để bột tan và không bị vón cục.",
+    "Bước 3: Nấu chè mè đen",
+    "Cho vào nồi khoảng 0,8 – 1 lít nước lọc. Tiếp đến, bạn cho lần lượt các loại nguyên liệu bao gồm bột nếp + mè đen + đường + sữa tươi vào và khuấy cho thật đều. Bắc hỗn hợp này lên bếp và đun nhỏ lửa. Trong quá trình đun, khuấy đều tay cho đến lúc sôi để đảm bảo chè không bị khê.",
+    "Khi nồi chè đã sôi, bạn từ từ cho phần bột sắn dây và nồi và cũng tiếp tục khuấy đều liên, liên tục. Cứ đun như vậy cho tới khi chè chuyển sang màu đen đều là được.",
+    "Chè chín, bạn múc chè ra chén/ly và rưới thêm phần nước cốt dừa + dừa tươi nạo sợi sau đó trộn đều và thưởng thức.",
+    "Như vậy là bạn vừa hoàn thành món chè vừng đen ngon, bổ rồi phải không ạ. Đây là cách nấu chè mè đen rất đơn giản, dễ thực hiện và không tốn quá nhiều thời gian. Vì vậy, hãy cùng vào bếp để thực hiện món chè này thay vì phải chờ ngoài cửa hàng bạn nhé."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d341e158d93331a8cf1"
+  },
+  "type_drink": "Chè",
+  "title": "Cách nấu chè kê đậu xanh ngon tuyệt ngay tại nhà",
+  "image": "https://ameovat.com/wp-content/uploads/2017/06/cach-nau-che-ke.jpg",
+  "ingredient": [
+    "Hạt kê: 200 gram.",
+    "Đậu xanh: 100 gram.",
+    "Đường phèn: 150 gram."
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế nguyên liệu",
+    "Đậu xanh: Vo sạch sau đó đem ngâm trong chậu nước lạnh khoảng 3 – 4 tiếng. Ngâm xong, bạn vo đỗ lại một lần nữa rồi cho vào đồ chín. Khi đồ chín đỗ, bạn có thể cho vào đỗ khoảng 1/3 thìa cafe muối ăn để đỗ được đậm đà hơn.",
+    "Hạt kê: Rửa sạch rồi vo sạch hạt kê. Làm xong, bạn cho kê vào ngâm trong tô nước ấm khoảng 30 phút cho hạt kê nở.",
+    "Bước 2: Nấu chè kê",
+    "Sau khi đỗ chín, bạn dùng thìa đánh cơm để đánh tơi phần đỗ này lên. Đỗ tơi, bạn cho đỗ vào trong một chiếc bát tô và từ từ dùng đáy thìa tán nhuyễn hạt đỗ. Nếu cách dùng thìa này lâu thì bạn có thể chọn cách dùng cối giã nhuyễn ra cũng được.",
+    "Phần hạt kê sau khi ngâm nước ấm, bạn cho kê vào nồi cùng với khoảng 400 ml nước lọc. Đặt nồi kê lên bếp rồi đun sôi thì hạ nhỏ lửa, ninh cho đến khi hạt kê nở đều.",
+    "Kê nở, bạn cho phần đỗ đã giã nhuyễn vào khuấy cùng. Tiếp theo, bạn cho phần đường phèn vào chung và tiếp tục đun cho đến khi đường tan, hạt kê nổi trên mặt nồi là được.",
+    "Chè kê thường được thưởng thức với bánh đa. Loại bánh đa hay được dùng để ăn kèm với chè kê là món bánh đa kê. Tuy nhiên nếu không có bánh đa kê, bạn có thể lựa chọn bánh đa đường, bánh đa vừng để ăn kèm đều ngon."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d441e158d93331a8cf3"
+  },
+  "type_drink": "Chè",
+  "title": "Cách làm chè lam dẻo dai không dính siêu ngon",
+  "image": "https://ameovat.com/wp-content/uploads/2017/03/cach-lam-che-lam-1.jpg",
+  "ingredient": [
+    "Gạo nếp: Chọn loại gạo nếp thơm, nếp mới. Phần gạo nếp này vừa làm phần nguyên liệu chính, vừa để tạo thành lớp chống dính cho món chè. Chuẩn bị khoảng 300 gram gạo nếp.",
+    "Đường mật: Bạn có thể mua loại đường mật đã làm sẵn hoặc mua ở dạng thô để về làm. Nên chọn loại đường mật mía thì món chè của bạn sẽ ngon hơn. Chuẩn bị 100gram đường mật.",
+    "Gừng tươi: Chọn loại gừng bánh tẻ, không quá già cũng không quá non. Chuẩn bị 1 – 2 củ gừng cỡ vừa (khoảng 30 gram)",
+    "Mạch nha: Mạch nha được bán rất sẵn tại các cửa hàng, siêu thị. Chuẩn bị khoảng 30 gram mạch nha.",
+    "Đường vàng: Đường vàng vừa tạo độ ngọt vừa tạo màu cho món chè lam. Chuẩn bị chừng 50 gram đường. Bạn không cần phải chuẩn bị nhiều đường quá vì các nguyên liệu khác cũng đã đủ độ ngọt tự nhiên rồi.",
+    "Lạc nhân: Lạc nhân bạn có thể chọn loại rang sẵn hoặc mua sống về rang. Chuẩn bị chừng 50 gram lạc rang chín đã chà sạch vỏ.",
+    "Ngoài ra, bạn cũng chuẩn bị khoảng 1 – 2 thìa café muối để cho vào trong lúc nhào bột."
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế các nguyên liệu làm chè",
+    "Gạo nếp: Vo sạch gạo nếp để loại bỏ bụi bẩn. Tiếp theo, bạn cho gạo vào chảo rang vàng thơm (chỉ rang đến độ, tránh rang quá tay gạo sẽ bị giòn cháy, không ngon). Đợi phần gạo này nguội, bạn cho gạo và xay cho thật mịn.",
+    "Lạc rang: Sau khi rang chín và chà vỏ, bạn cho lạc vào giã dập.",
+    "Gừng tươi: Rửa sạch và cạo vỏ gừng. Lau khô gừng sau đó bạn dùng nạo để bào sợi gừng cho thật nhỏ. Nếu bạn muốn công đoạn này nhanh hơn thì có thể chọn cách giã dập gừng.",
+    "Bước 2: Nhào bột làm chè",
+    "Chuẩn bị đường: Cho đường vàng vào trong một chiếc nồi khô, sạch và có khả năng chống dính. Đun chảy phần đường này với ngọn lửa nhỏ. Khi đường bắt đầu tan chảy thì bạn cho đường mật và mạch nha vào khuấy đều. Đợi cho tới lúc các nguyên liệu đã quyện thì bạn cho tiếp ½ thìa cafe muối và gừng vào chung và lại khuấy đều.",
+    "Trộn bột: Giữ lại khoảng ¼ lượng bột nếp. Cho phần bột gạo nếp còn lại vào trong nồi đường mật đang đun và từ từ khuấy cho thật đều tay. Bạn lưu ý lúc này cần vặn nhỏ lửa hết mức để tránh phần đường bị cháy khét. Cứ quyện bột liên tục như vậy cho đến khi hỗn hợp trở nên quánh đặc, có màu vàng nâu đều là được.",
+    "Bước 3: Làm kẹo",
+    "Sau khi phần kẹo chè đã quyện hết, bạn trút phần lạc rang giã dập vào và khuấy để cho lạc dàn đều. Với phần bột nếp giữ lại trước đó, bạn đổ ra mâm phẳng sau đó xoa đều khắp mặt mâm.",
+    "Đổ phần chè đã tạo thành ra mâm bột sau đó dùng tay nhào kỹ. Nhào xong, bạn định hình lại miếng kẹo chè thành hình khối dày cỡ khoảng 2 – 3 cm. Chờ cho chè lam nguội bớt, bạn dùng dao và cắt chè thành các miếng vừa ăn.",
+    "Chè lam ngon nhất và hợp nhất là khi bạn thưởng thức cùng với nước chè xanh. Ngoài ra, nếu bạn muốn món chè lam của bạn có màu hồng đỏ hơn để lấy may thì trong cách làm chè lam này, ở công đoạn quấy chè, bạn có thể cho thêm một chút màu đỏ của gấc vào là được."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d521e158d93331a8cf5"
+  },
+  "type_drink": "Chè",
+  "title": "Cách nấu chè sắn dây dẻo ngon ai cũng thích mê",
+  "image": "https://ameovat.com/wp-content/uploads/2017/05/cach-nau-che-san-4-600x338.jpg",
+  "ingredient": [
+    "Bột sắn dây: 2 thìa phở.",
+    "Đậu xanh chà vỏ: 100 gram.",
+    "Đường kính: 200 gram.",
+    "Nước cốt dừa: 50 ml."
+  ],
+  "intructions": [
+    "Bước 1: Ninh nhừ đỗ xanh",
+    "Vo sạch đỗ xanh sau đó cho vào ngâm với nước lạnh từ 2 – 3 tiếng cho đỗ nở. Ngâm xong, bạn cho đỗ vào nồi cùng với khoảng 700 ml nước và ninh đỗ. Ninh đỗ với mức lửa nhỏ nhất cho đến khi hạt đỗ mềm đều.",
+    "Đỗ mềm, bạn cho đường vào rồi khuấy cho tan. Nêm đường cho có vị ngọt vừa sau đó vẫn hạ nhỏ lửa.",
+    "Bước 2: Nấu chè",
+    "Cho bột sắn dây vào bát con rồi hoà tan với ½ bát nước lọc. Khuấy kỹ để bột sắn tan đều, không vón cục.",
+    "Từ từ đổ phần bột sắn này vào trong nồi đỗ đang ninh và khuấy cho đều. Đun sôi nồi chè trở lại cho đến khi nồi chè quyện, sánh và trong là được.",
+    "Tắt bếp và chờ cho chè nguội bớt. Chè nguội, bạn múc chè ra bát hoặc ly sau đó rưới phần nước cốt dừa lên trên. Cho thêm đá bào vào sau đó trộn đều và thưởng thức.",
+    "Trên đây chính là cách nấu chè sắn dây với công thức nấu chè rất dễ. Trung bình, thời gian để thực hiện làm món chè này sẽ chỉ mất khoảng 15 phút cho là xong. Bởi thế, hãy thường xuyên làm món chè sắn dây ngon tuyệt này cho cả gia đình cùng thưởng thức nhé các bạn."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d601e158d93331a8cf7"
+  },
+  "type_drink": "Chè",
+  "title": "Cách làm chè bơ thơm ngon hấp dẫn ngay tại nhà",
+  "image": "https://ameovat.com/wp-content/uploads/2017/06/cach-nau-che-bo.jpg",
+  "ingredient": [
+    "Bơ chín: 200 gram.",
+    "Đường kính: 20 gram.",
+    "Nước cốt dừa: 50 ml.",
+    "Sữa tươi không đường: 150 ml.",
+    "Nước cốt chanh: 1 thìa cafe.",
+    "Sữa đặc: 5 thìa cafe.",
+    "Lá gelatin: 2 lá."
+  ],
+  "intructions": [
+    "Bước 1: Chuẩn bị nguyên liệu",
+    "Lá gelatin: Rửa sạch sau đó cho vào nước ngâm khoảng 10 phút.",
+    "Bơ: Gọt vỏ, bỏ hạt rồi cho vào máy xay sinh tố xay nhuyễn cùng 60 ml sữa + 2 thìa cafe sữa đặc + nước cốt dừa + nước cốt chanh + đường kính.",
+    "Bước 2: Nấu chè bơ",
+    "Đun nóng 60 ml sữa tươi tiếp theo, lưu ý tránh để sữa bị trào. Tiếp theo, bạn trút phần nước lá gelatin đã ngâm vào rồi khuấy đều.",
+    "Khuấy nước gelatin với sữa xong, bạn từ từ trút hỗn hợp này vào phần sinh tố bơ đã xay trước đó. Khuấy thêm một lần nữa để các nguyên liệu quyện kỹ với nhau.",
+    "Đổ phần hỗn hợp chè bơ vừa tạo vào khuôn hoặc chén tuỳ ý. Làm xong, bạn dùng màng bọc bọc kín lại rồi cho hỗn hợp vào ngăn mát tủ lạnh.",
+    "Trong lúc chờ chè bơ đông, bạn sẽ tiến hành nấu nước cốt chan chè. Cho phần sữa tươi và sữa đặc còn lại hoà với nhau và đun từ từ cho tới khi sôi nhẹ.",
+    "Chè đông, bạn cho chè ra đĩa. Rưới phần nước cốt sữa lên trên bề mặt bơ rồi bỏ thêm đá bào và thưởng thức.",
+    "Vậy là các bạn đã vừa cùng với chuyên mục các món chè ngon trên kênh cẩm nang nội trợ nấu ăn ngon ameovat.com tìm hiểu xong cách nấu chè bơ thơm ngon hấp dẫn nhất ngay tại nhà rồi đó nha.",
+    "Chúc các bạn thành công và có được món chè bơ ngon tuyệt do chính tay mình làm để cùng vả gia đình của mình thưởng thức trong thời tiết nắng nóng của mùa hè này nhé!"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d6f1e158d93331a8cf9"
+  },
+  "type_drink": "Chè",
+  "title": "Cách nấu chè đậu đỏ ngon đơn giản nhất ngay tại nhà",
+  "image": "https://ameovat.com/wp-content/uploads/2016/04/cach-nau-che-dau-do.jpg",
+  "ingredient": [
+    "Đậu đỏ: 100 gram.",
+    "Vừng đen: 100 gram.",
+    "Đường cát trắng: 100 gram.",
+    "Vani.",
+    "Nước cốt dừa.",
+    "Dụng cụ nấu chè đậu đỏ",
+    "Bát to, nhỏ.",
+    "Dao, thớt, thìa, đĩa…",
+    "Nồi.",
+    "Máy xay sinh tố."
+  ],
+  "intructions": [
+    "Bước 1: Đầu tiên bạn đem đậu đỏ đãi sạch với nước để loại bỏ hết các hạt đỗ hỏng rồi cho đậu đỏ vào một cái bát to ngâm với nước lạnh trong khoảng 1 tiếng đồng hồ.",
+    "Bước 2: Bạn nhặt sạch sạn có trong vừng đen và đặt chảo lên trên bếp đun nóng chảo rồi đổ vừng đen vào rang thơm lên cho đến khi thấy vừng  nổ lách tách là được.",
+    "Bước 3: Để cho vừng đen được nguội hẳn rồi các bạn cho vào trong máy xay sinh tố xay nhuyễn vừng đen ra.",
+    "Bước 4: Bạn cho đỗ đã ngâm ở bước 1 vào một cái nồi và đổ ngập nước vào rồi đặt lên trên bếp, bật bếp lửa to đun đến khi bắt đầu sôi lên thì bạn vặn lửa nhỏ lại đun trong khoảng 40 phút đồng hồ nữa để đậu đỏ được chín mềm. Sau đó các bạn đổ vừng đen đã xay nhuyễn ở bước 3 và đường cát trắng vào nồi đun tiếp trong khoảng 20 phút đồng hồ nữa.",
+    "Bước 5: Trong khi đun các bạn dùng muôi khuấy thật đều tay để tránh chè đậu đen bị khê và vón cục ở phía dưới nồi. Bạn thực hiện đun cho đến khi thấy đậu đỏ đã nở mềm thì tắt bếp đi rồi múc chè đậu đỏ ra bát."
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e05d811e158d93331a8cfb"
+  },
+  "type_drink": "Chè",
+  "title": "Cách nấu chè cốm ngon và đơn giản nhất tại nhà",
+  "image": "https://ameovat.com/wp-content/uploads/2017/03/cach-nau-che-com.jpg",
+  "ingredient": [
+    "Cốm: Bạn có thể chọn cốm khô hoặc cốm tươi. Nếu đúng mùa cốm thì bạn nên làm cốm tươi thì sẽ ngon hơn. Nếu là trái mùa thì bạn có thể mua cốm khô về rồi sơ chế trước khi nấu. Chuẩn bị khoảng 150 – 200 gram cốm.",
+    "Bột sắn dây: Bột sắn dây dùng để tạo độ sánh, độ kết dính cho món chè cốm. Chuẩn bị 50 gram chè cốm.",
+    "Đường phèn: Đường phèn dùng để tạo vị ngọt đặc trưng cho món chè cốm. Chuẩn bị khoảng 200 gram đường phèn.",
+    "Các nguyên liệu khác: Những nguyên liệu khác mà bạn cần chuẩn bị để nấu món chè cốm được thơm và ngon hơn bao gồm: lá dứa, nước cốt dừa, dừa tươi nạo sợi, thạch rau câu (nếu bạn không thích thì có thể bỏ qua)"
+  ],
+  "intructions": [
+    "Bước 1: Sơ chế, chuẩn bị các nguyên liệu làm chè cốm.",
+    "Cốm: Nếu là cốm tươi, bạn chỉ cần rửa qua với nước cho sạch bụi bẩn. Nếu là cốm khô, bạn cũng đem rửa sạch nhưng sau đó cần ngâm với nước lạnh cho hạt cốm mềm ra. Ngâm cốm trong khoảng 10 phút rồi xả lại với nước lạnh sau đó để cho ráo.",
+    "Bột sắn dây: Cho bột sắn dây vào bát con sau đó hoà loảng với nước. Cần hoà kỹ để đảm bảo bột không bị vón cục.",
+    "Đường phèn: Lấy 2 thìa đường phèn sau đó đun cho đường chảy thì cho tiếp vào đường chừng 20ml nước lọc sau đó khuấy đều.",
+    "Lá dứa: Rửa sạch phần lá dứa đã có. Tiếp đến, bạn cắt lá dứa thành các khúc nhỏ rồi cho vào máy xay với khoảng 1 lít nước. Xay xong, bạn vắt lấy nước cốt và bỏ bã.",
+    "Bước 2: Nấu chè cốm",
+    "Cho phần nước cốt lá dứa đã lọc vào rồi. Tiếp đến, bạn đặt nồi lên bếp và đun với mức lửa nhỏ. Khi nước bắt đầu sôi lăn tăn, bạn đổ cốm vào nồi và đun cho thật sôi. Chừng khoảng 5 phút sau, bạn cho vào nồi chè cốm 1/3 thìa cafe muối và khuấy đều để món chè được thanh hơn.",
+    "Tiếp tục đun chè trong khoảng 1 phút nữa. Lúc này, bạn trút phần nước đường phèn + bột sắn đã hoà loảng vào nồi sau đó khuấy cho thật đều tay để chè được sánh và không bị khê ở phần đáy. Khuấy liên tục như vậy cho đến khi chè sánh mịn thì nêm đường cho vừa vị ngọt rồi đun khoảng 1 phút nữa thì tắt bếp.",
+    "Bước 3: Thưởng thức chè cốm",
+    "Đợi cho chè cốm nguội bớt là bạn có thể múc ra bát/ly thưởng thức. Lúc này, bạn sẽ cho thêm phần nước cốt dừa + dừa tươi nạo sợi + đá lạnh bào nhỏ để món chè được ngậy, bùi hơn. Ngoài ra, bạn cũng có thể cho thêm một số các nguyên liệu hương liệu khác như siro, thạch, một chút sữa tươi…",
+    "Yêu cầu của món chè cốm không có gì quá phức tạp. Sau khi nấu xong, món chè cốm cần có màu xanh tự nhiên của cốm và lá dứa, có được vị thơm bùi của cốm và bị ngọt dịu nhẹ của đường. Lưu ý là bạn không nên để chè cốm ngọt sắc bởi như vậy thì chè sẽ không ngon.",
+    "Với cách nấu chè cốm này, bạn có thể thực hiện quanh năm chứ không nhất thiết phải chờ mùa. Thời gian thực hiện món chè này cũng không quá lâu, chỉ khoảng 20 phút là bạn đã có thể thưởng thức, bởi thế đừng ngại ngần khi nấu cho cả nhà cùng ăn nhé."
+  ]
+}]

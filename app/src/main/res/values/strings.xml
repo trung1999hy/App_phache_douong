@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pha Chế Đồ Uống</string>
+
+    <string name="cocktail">Cocktail</string>
+    <string name="coffee">Cafe</string>
+    <string name="soda">Soda</string>
+    <string name="yogurt">Sữa chua</string>
+    <string name="no_internet_connection">không có kết nối mạng</string>
+    <string name="message_purchase_one">%s</string>
+</resources>

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64d0f4b21b098a319abcce2a"
+  },
+  "type": "Rượu",
+  "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/01/retro-cocktails-b12b00d.jpg"
+},
+{
+  "_id": {
+    "$oid": "64d0f4bb1b098a319abcce2c"
+  },
+  "type": "Trà sữa",
+  "image": "https://bizweb.dktcdn.net/100/025/663/files/cach-u-tra-den-3.jpg?v=1621489272119"
+},
+{
+  "_id": {
+    "$oid": "64d0f4c41b098a319abcce2e"
+  },
+  "type": "Nước ép",
+  "image": "https://truejuice.vn/articles/wp-content/uploads/2019/09/uong-nuoc-ep-dung-cach-truejuice.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05db61e158d93331a8cfe"
+  },
+  "type": "Soda",
+  "image": "https://dayphache.edu.vn/wp-content/uploads/2019/05/soda-trai-cay.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05dc61e158d93331a8d00"
+  },
+  "type": "Sữa chua",
+  "image": "https://media.cooky.vn/images/blog-2016/5-dieu-ki-dieu-tu-yogurt-sua-chua-ma-ban-nen-biet%204.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05de01e158d93331a8d02"
+  },
+  "type": "Cafe",
+  "image": "https://caphenguyenchat.vn/wp-content/uploads/2020/01/vi-sao-nen-kinh-doanh-cafe-nguyen-chat-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05dee1e158d93331a8d04"
+  },
+  "type": "Đá xay",
+  "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hocphache/20181103/20181103132310.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05e031e158d93331a8d06"
+  },
+  "type": "Kem",
+  "image": "https://cdn.tgdd.vn/2020/11/CookProduct/thum-1200x676.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05e111e158d93331a8d08"
+  },
+  "type": "Smoothie",
+  "image": "https://cdn.tgdd.vn/Files/2018/12/09/1136623/smoothie-la-gi-mot-vau-cong-thuc-che-bien-smoothie-don-gian-tai-nha-7.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e05e201e158d93331a8d0a"
+  },
+  "type": "Chè",
+  "image": "https://statics.vinpearl.com/che-ngon-ha-noi-1_1678871161.jpg"
+}]

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/TextName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="35dp"
+        android:text="Hướng dẫn công thức"
+        android:textColor="@color/LightGoldenrod3"
+        android:textSize="18sp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/TextTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TextName"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Bạn có thể uống\nđồ uống ngon"
+        android:textColor="@color/LightGoldenrod3"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ImageFavorite"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_toStartOf="@id/coin"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:src="@drawable/favorite" />
+
+    <ImageView
+        android:id="@+id/ImageSearch"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toStartOf="@id/ImageFavorite"
+        android:src="@drawable/search" />
+
+    <TextView
+        android:id="@+id/coin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/ic_coin"
+        android:layout_marginTop="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="30dp"
+        android:drawablePadding="6dp"
+        android:text="5"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/RcvBeverage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/TextTitle"
+        android:layout_marginTop="15dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        tools:listitem="@layout/rcv_item_beverage" />
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:id="@+id/LllNoData"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/page"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <TextView
+            android:id="@+id/TextError"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/PrgBeverage"/>
+
+</RelativeLayout>
