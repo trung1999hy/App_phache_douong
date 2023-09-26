@@ -8,17 +8,17 @@ import android.view.View
 import android.view.View.GONE
 import android.view.View.VISIBLE
 import android.widget.Toast
-import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
 import com.bumptech.glide.Glide
 import com.example.recipeinstructions.R
 import com.example.recipeinstructions.base.BaseFragment
 import com.example.recipeinstructions.databinding.FragmentInstructionsBinding
 import com.example.recipeinstructions.model.Favourite
-import com.example.recipeinstructions.model.Instruction
+import com.example.recipeinstructions.model.User
 import com.example.recipeinstructions.ui.MainApp
 import com.example.recipeinstructions.ui.category.FragmentCategory
 import com.example.recipeinstructions.ui.inapp.PurchaseInAppActivity
+import com.example.recipeinstructions.utils.DataController
 
 class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
     companion object {
@@ -40,7 +40,7 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
     }
 
     private fun actionView() {
-        getCoin()
+        getData()
         viewModel.isFavourite.observe(viewLifecycleOwner) {
             if (!it) {
 
@@ -120,8 +120,41 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
         }
     }
 
-    fun getCoin() {
-        binding.coin.text = MainApp.getInstant()?.preference?.getValueCoin().toString()
+
+    private fun setDataBaseGold() {
+        val dataController = DataController(MainApp.newInstance()?.deviceId ?: "")
+        dataController.writeNewUser(MainApp.newInstance()?.deviceId ?: "", 30)
+    }
+
+    fun getData() {
+        val dataController = DataController(MainApp.newInstance()?.deviceId ?: "")
+        dataController.setOnListenerFirebase(object : DataController.OnListenerFirebase {
+            override fun onCompleteGetUser(user: User?) {
+                user?.let {
+                    MainApp.newInstance()?.preference?.setValueCoin(user.coin)
+                } ?: kotlin.run {
+                    setDataBaseGold()
+                }
+                binding.coin.text = String.format(
+                    resources.getString(R.string.amount_gold),
+                    MainApp.newInstance()?.preference?.getValueCoin()
+                )
+
+            }
+
+            override fun onSuccess() {
+
+            }
+
+            override fun onFailure() {
+                Toast.makeText(
+                    this@FragmentInstructions.requireContext(),
+                    "Có lỗi kết nối đến server!",
+                    Toast.LENGTH_LONG
+                ).show()
+            }
+        })
+        dataController.user
     }
 
     override fun getBinding(): FragmentInstructionsBinding {
@@ -141,7 +174,7 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
             dialog.setMessage("Bạn có muốn thêm  tốn 1 vàng không ?")
                 .setTitle("Thêm vào yêu thích ?")
             dialog.setPositiveButton("Oke") { dialog, which ->
-                MainApp.getInstant()?.preference?.apply {
+                MainApp.newInstance()?.preference?.apply {
                     if (getValueCoin() > 0) {
                         setValueCoin(getValueCoin() - 1)
                         Toast.makeText(
@@ -150,6 +183,7 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
                             Toast.LENGTH_SHORT
 
                         ).show()
+                        updateGold()
                         binding.ButtonAddFavorite.setCompoundDrawablesWithIntrinsicBounds(
                             R.drawable.favorite_border_black, 0, 0, 0
                         )
@@ -168,7 +202,7 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
                                 )
                             )
                         }
-                        getCoin()
+                        getData()
                     } else startActivity(
                         Intent(
                             requireActivity(),
@@ -178,8 +212,12 @@ class FragmentInstructions : BaseFragment<FragmentInstructionsBinding>() {
                 }
             }
             dialog.show()
-
         }
+    }
+
+    private fun updateGold() {
+        val dataController = DataController(MainApp.newInstance()?.deviceId ?: "")
+        dataController.updateDocument(MainApp.newInstance()?.preference?.getValueCoin() ?: 0)
     }
 }
 

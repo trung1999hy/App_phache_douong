@@ -21,8 +21,10 @@ import com.android.billingclient.api.QueryProductDetailsParams.Product
 import com.example.recipeinstructions.R
 import com.example.recipeinstructions.databinding.ActivityInAppPurchaseBinding
 import com.example.recipeinstructions.databinding.ActivitySplashBinding
+import com.example.recipeinstructions.model.User
 import com.example.recipeinstructions.ui.MainApp
 import com.example.recipeinstructions.utils.Constants
+import com.example.recipeinstructions.utils.DataController
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.collect.ImmutableList
 
 class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
@@ -234,11 +236,32 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
     }
 
     private fun setupResult(proId: String, quantity: Int) {
-        val intent = Intent()
-        val totalCoin = MainApp.getInstant()?.preference?.getValueCoin();
-        val remainCoin = totalCoin ?: 0 + getCoinFromKey(proId) * quantity;
-        MainApp.getInstant()?.preference?.setValueCoin(remainCoin);
-        activity?.runOnUiThread { activity?.onBackPressed() }
+        val totalCoin = MainApp.newInstance()?.preference?.getValueCoin() ?: 0
+        val remainCoin = totalCoin + getCoinFromKey(proId) * quantity;
+        MainApp.newInstance()?.preference?.setValueCoin(remainCoin);
+
+        val dataController = DataController(MainApp.newInstance()?.deviceId ?: "")
+        dataController.setOnListenerFirebase(object : DataController.OnListenerFirebase {
+            override fun onCompleteGetUser(user: User?) {
+            }
+
+            override fun onSuccess() {
+                Toast.makeText(
+                    this@PurchaseInAppActivity.requireContext(),
+                    "Xin chúc mừng, bạn đã mua gold thành công!",
+                    Toast.LENGTH_LONG
+                ).show()
+            }
+
+            override fun onFailure() {
+                Toast.makeText(
+                    this@PurchaseInAppActivity.requireContext(),
+                    "Có lỗi kết nối đến server!",
+                    Toast.LENGTH_LONG
+                ).show()
+            }
+        })
+        dataController.updateDocument(totalCoin)
     }
 
     private fun getCoinFromKey(coinId: String): Int {
