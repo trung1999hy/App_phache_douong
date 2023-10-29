@@ -1,7 +1,6 @@
-package com.example.recipeinstructions.ui.inapp
+package com.example.recipeinstructions.ui.inapp.inappnews
 
 import android.annotation.SuppressLint
-import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.view.LayoutInflater
@@ -10,7 +9,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.Toast
-import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -18,18 +16,16 @@ import com.android.billingclient.api.*
 import com.android.billingclient.api.BillingClient.ProductType
 import com.android.billingclient.api.BillingFlowParams.ProductDetailsParams
 import com.android.billingclient.api.QueryProductDetailsParams.Product
-import com.example.recipeinstructions.R
 import com.example.recipeinstructions.databinding.ActivityInAppPurchaseBinding
-import com.example.recipeinstructions.databinding.ActivitySplashBinding
 import com.example.recipeinstructions.model.User
 import com.example.recipeinstructions.ui.MainApp
 import com.example.recipeinstructions.utils.Constants
 import com.example.recipeinstructions.utils.DataController
 import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.collect.ImmutableList
 
-class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
+class InAppPurchaseActivityNews : Fragment(), InAppPurchaseAdapterNews.OnClickListener {
     private lateinit var binding: ActivityInAppPurchaseBinding
-    private var adapter: PurchaseInAppAdapter? = null
+    private var adapter: InAppPurchaseAdapterNews? = null
     private var billingClient: BillingClient? = null
     private var handler: Handler? = null
     private var productDetailsList: MutableList<ProductDetails>? = null
@@ -69,7 +65,8 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
     private fun initViews() {
         listData = binding.listData
         layout = binding.LllNoData
-        adapter = PurchaseInAppAdapter()
+        adapter =
+            InAppPurchaseAdapterNews()
         listData?.setHasFixedSize(true)
         listData?.setLayoutManager(
             LinearLayoutManager(
@@ -141,35 +138,35 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
         private get() = ImmutableList.of(
             //Product 1
             Product.newBuilder()
-                .setProductId(Constants.KEY_COIN)
+                .setProductId(Constants.KEY_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),
             Product.newBuilder()
-                .setProductId(Constants.KEY_10_COIN)
+                .setProductId(Constants.KEY_10_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),  //Product 2
             Product.newBuilder()
-                .setProductId(Constants.KEY_20_COIN)
+                .setProductId(Constants.KEY_20_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),  //Product 3
             Product.newBuilder()
-                .setProductId(Constants.KEY_50_COIN)
+                .setProductId(Constants.KEY_50_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),  //Product 4
             Product.newBuilder()
-                .setProductId(Constants.KEY_100_COIN)
+                .setProductId(Constants.KEY_100_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),  //Product 5
             Product.newBuilder()
-                .setProductId(Constants.KEY_150_COIN)
+                .setProductId(Constants.KEY_150_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),  //Product 6
             Product.newBuilder()
-                .setProductId(Constants.KEY_200_COIN)
+                .setProductId(Constants.KEY_200_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),
             Product.newBuilder()
-                .setProductId(Constants.KEY_500_COIN)
+                .setProductId(Constants.KEY_500_USD_NEWS)
                 .setProductType(ProductType.INAPP)
                 .build(),
         )
@@ -236,18 +233,18 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
     }
 
     private fun setupResult(proId: String, quantity: Int) {
-        val totalCoin = MainApp.newInstance()?.preference?.getValueCoin() ?: 0
+        val totalCoin = MainApp.newInstanceNews()?.preference?.getValueCoinNews() ?: 0
         val remainCoin = totalCoin + getCoinFromKey(proId) * quantity;
-        MainApp.newInstance()?.preference?.setValueCoin(remainCoin);
+        MainApp.newInstanceNews()?.preference?.setValueCoinNews(remainCoin);
 
-        val dataController = DataController(MainApp.newInstance()?.deviceId ?: "")
+        val dataController = DataController(MainApp.newInstanceNews()?.deviceIdNews ?: "")
         dataController.setOnListenerFirebase(object : DataController.OnListenerFirebase {
             override fun onCompleteGetUser(user: User?) {
             }
 
             override fun onSuccess() {
                 Toast.makeText(
-                    this@PurchaseInAppActivity.requireContext(),
+                    this@InAppPurchaseActivityNews.requireContext(),
                     "Xin chúc mừng, bạn đã mua gold thành công!",
                     Toast.LENGTH_LONG
                 ).show()
@@ -255,7 +252,7 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
 
             override fun onFailure() {
                 Toast.makeText(
-                    this@PurchaseInAppActivity.requireContext(),
+                    this@InAppPurchaseActivityNews.requireContext(),
                     "Có lỗi kết nối đến server!",
                     Toast.LENGTH_LONG
                 ).show()
@@ -266,14 +263,14 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
 
     private fun getCoinFromKey(coinId: String): Int {
         return when (coinId) {
-            Constants.KEY_COIN -> 5
-            Constants.KEY_10_COIN -> 10
-            Constants.KEY_20_COIN -> 20
-            Constants.KEY_50_COIN -> 50
-            Constants.KEY_100_COIN -> 100
-            Constants.KEY_150_COIN -> 150
-            Constants.KEY_200_COIN -> 200
-            Constants.KEY_500_COIN -> 500
+            Constants.KEY_USD_NEWS -> 5
+            Constants.KEY_10_USD_NEWS -> 10
+            Constants.KEY_20_USD_NEWS -> 20
+            Constants.KEY_50_USD_NEWS -> 50
+            Constants.KEY_100_USD_NEWS -> 100
+            Constants.KEY_150_USD_NEWS -> 150
+            Constants.KEY_200_USD_NEWS -> 200
+            Constants.KEY_500_USD_NEWS -> 500
             else -> 0
         }
     }

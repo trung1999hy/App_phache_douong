@@ -28,6 +28,22 @@ object Constants {
     const val KEY_200_COIN = "key_in_app_200i" // 999 coin
 
     const val KEY_500_COIN = "key_in_app_500i"
+
+    const val KEY_USD_NEWS = "KEY_USD_NEWS_5i" // 5 coin
+
+    const val KEY_10_USD_NEWS = "key_USD_NEWS_10i" // 100 coin
+
+    const val KEY_20_USD_NEWS = "key_USD_NEWS_20i" // 150 coin
+
+    const val KEY_50_USD_NEWS = "key_USD_NEWS_50i" // 300 coin
+
+    const val KEY_100_USD_NEWS = "key_USD_NEWS_100i" // 500 coin
+
+    const val KEY_150_USD_NEWS = "key_USD_NEWS_150i" // 700 coin
+
+    const val KEY_200_USD_NEWS = "key_USD_NEWS_200i" // 999 coin
+
+    const val KEY_500_USD_NEWS = "key_USD_NEWS_500i"
     fun loadJSONFromAsset(context: Context, fileName: String): JSONArray? {
         val json: String?
         try {

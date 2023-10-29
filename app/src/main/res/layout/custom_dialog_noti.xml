@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:alpha="1"
+    app:cardElevation="0dp"
+    android:background="@android:color/transparent"
+    app:cardCornerRadius="17dp">
+
+    <LinearLayout
+        android:id="@+id/title_"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#E0E0E0"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="17dp"
+            android:text="Thông báo"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="17dp"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="Trừ 1 vàng để xem tin tức?"
+            android:textColor="#000"
+            android:textSize="16sp"
+            tools:ignore="HardcodedText" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#000" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btnCancel"
+                android:layout_width="83dp"
+                android:layout_height="41dp"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:text="Không"
+                android:textSize="16sp"
+                android:textColor="#275ee9"
+                tools:ignore="HardcodedText" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="41dp"
+                android:layout_centerInParent="true"
+                android:background="#000"
+                tools:ignore="ObsoleteLayoutParam" />
+
+            <Button
+                android:id="@+id/btnOk"
+                android:layout_width="83dp"
+                android:layout_height="41dp"
+                android:layout_alignParentRight="true"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:text="Đồng ý"
+                android:textColor="#275ee9"
+                tools:ignore="HardcodedText,ObsoleteLayoutParam,RtlHardcoded" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

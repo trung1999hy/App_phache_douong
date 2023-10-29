@@ -35,6 +35,12 @@ abstract class BaseFragment<T : ViewBinding> : Fragment() {
 //        activity?.overridePendingTransition(R.anim.fade_in, R.anim.slide_out)
     }
 
+    open fun addFragment(id: Int, fragment: Fragment, tag: String, backstack: String? = null) {
+        activity?.supportFragmentManager?.beginTransaction()
+            ?.replace(id, fragment, tag)
+            ?.commit()
+    }
+
     open fun replaceFragment(id: Int, fragment: Fragment, backstack: String? = null) {
         activity?.supportFragmentManager?.beginTransaction()
             ?.setCustomAnimations(R.anim.dim_in, R.anim.dim_out)
