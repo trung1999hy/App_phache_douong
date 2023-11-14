@@ -10,9 +10,7 @@ import com.example.recipeinstructions.ui.beverage.FragmentBeverage
 import com.example.recipeinstructions.ui.category.FragmentCategory
 import com.example.recipeinstructions.ui.favorite.FragmentFavorite
 import com.example.recipeinstructions.ui.inapp.PurchaseInAppActivity
-import com.example.recipeinstructions.ui.inapp.inappnews.InAppPurchaseActivityNews
 import com.example.recipeinstructions.ui.instructions.FragmentInstructions
-import com.example.recipeinstructions.ui.news.rss.NewsFragment
 
 class MainActivity : BaseActivity() {
     private lateinit var binding: ActivityMainBinding
@@ -22,30 +20,24 @@ class MainActivity : BaseActivity() {
 
     override fun initView() {
         binding = ActivityMainBinding.inflate(layoutInflater)
-        addFragment(
-            R.id.fragment_layout,
-            FragmentBeverage.newInstance(),
-            FragmentBeverage::class.java.simpleName
-        )
+            addFragment(
+                R.id.fragment_layout,
+                FragmentBeverage.newInstance(),
+                FragmentBeverage::class.java.simpleName
+            )
 
         binding.bottomNavigationView.setOnItemSelectedListener {
-            if (it.itemId == R.id.home) {
+            if (it.itemId == R.id.home){
                 addFragment(
                     R.id.fragment_layout,
                     FragmentBeverage.newInstance(),
                     FragmentBeverage::class.java.simpleName
                 )
-            } else if (it.itemId == R.id.coin) {
+            }else if (it.itemId == R.id.coin){
                 addFragment(
                     R.id.fragment_layout,
                     PurchaseInAppActivity(),
                     PurchaseInAppActivity::class.java.simpleName
-                )
-            } else if(it.itemId == R.id.news) {
-                addFragment(
-                    R.id.fragment_layout,
-                    NewsFragment.newInstance(),
-                    NewsFragment::class.java.simpleName
                 )
             }
             true
@@ -54,7 +46,7 @@ class MainActivity : BaseActivity() {
 
     override fun onBackPressed() {
         val mFragment = supportFragmentManager.findFragmentById(R.id.fragment_layout)
-        if (mFragment is FragmentBeverage || mFragment is PurchaseInAppActivity || mFragment is InAppPurchaseActivityNews) {
+        if (mFragment is FragmentBeverage || mFragment is PurchaseInAppActivity) {
             isCheckClick++
             if (isCheckClick == 2) {
                 finish()

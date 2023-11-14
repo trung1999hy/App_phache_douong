@@ -8,8 +8,4 @@
         android:id="@+id/coin"
         android:icon="@drawable/dollar"
         android:title="" />
-    <item
-        android:id="@+id/news"
-        android:icon="@drawable/ic_news"
-        android:title="" />
 </menu>

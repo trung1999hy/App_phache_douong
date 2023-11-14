@@ -20,8 +20,6 @@
         <activity
             android:name=".MainActivity"
             android:exported="false" />
-        <activity android:name=".ui.news.webview.WebViewActivity"
-            android:exported="false"/>
         <activity
             android:name=".SplashActivity"
             android:exported="true">

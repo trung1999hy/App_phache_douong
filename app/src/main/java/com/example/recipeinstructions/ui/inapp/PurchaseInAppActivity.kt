@@ -116,7 +116,7 @@ class PurchaseInAppActivity : Fragment(), PurchaseInAppAdapter.OnClickListener {
 
 //                        hideProgressDialog();
                 productDetailsList!!.addAll(prodDetailsList)
-                adapter?.setData(requireActivity(), productDetailsList)
+                adapter!!.setData(requireActivity(), productDetailsList)
                 if (prodDetailsList.isEmpty()) {
                     layout?.visibility = View.VISIBLE
                     Toast.makeText(
